@@ -380,3 +380,3153 @@ Technical Writing Sample
 1st Round Interview (Hiring Manager)
 2nd Round Interview (Engineering Manager)
 Final Round Interview (CTO/VPoE)","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/zeals/zeals-principal-backend-engineer-zh6x7o","","Principal Backend Engineer","Zeals","Remote, Remote, Japan","2026-01-23","","","","","","","","","","","","Are you looking
+
+To make meaningful changes at the fastest-growing tech company in Japan?
+For a fair, highly flexible, inclusive working environment where anyone, regardless of their background, can make an impact?
+To build the next bold idea in customer acquisition and revenue growth through conversational commerce technology?
+For a place where things are not just fast - but they happen now?
+
+ 
+
+We Are Zeals - “Designing conversations. Driving conversions.”
+
+Zeals is not another chatbot. Our automated chat solution and conversational technology change how consumers purchase or act online. Zeals converts customers who appear ""unengaged"" into ""valuable"" through designed chat on Messaging Apps. Using AI-powered, human-designed conversation flows across chat platforms, Zeals enables brands to build personalized, automated conversations with their consumers and develop a deeper understanding of their preferences while creating a delightful, seamless shopping experience. Our last 3 years have been phenomenal. We have captured the heart of many businesses in Japan, with over 480 enterprises relying on our chat commerce offering to boost their mobile business.
+
+The goal is simple: to “revolutionize hospitality on the Internet” by unlocking digital customer service experiences that were limited to physical stores previously.
+
+ 
+
+Just Getting Started…
+
+With more than 480 enterprise companies worldwide already utilizing our product, we are perfectly poised to seize market share and fuel exponential growth in the US market, with an eye on global expansion. Investors have taken note of our potential, leading us to recently secure nearly $40 million in funding, backed by Salesforce Ventures.
+
+ 
+
+As a Principal Backend Engineer at Zeals, you won’t just write code — you will own systems end-to-end, shape our architectural strategy, and influence technical direction across teams. You will be a key technical leader in our backend domain, responsible for designing scalable, fault-tolerant systems that power mission-critical services and accelerate the impact of our conversational commerce platform. This role is not about following roadmaps — it's about creating them. You’ll work across teams to raise the engineering bar, mentor senior engineers, and drive strategic decisions that shape our product and infrastructure for years to come.
+
+ 
+
+What You’ll Do
+
+Drive architecture and design of complex, distributed backend systems with a focus on scalability, reliability, and performance
+Lead initiatives to modernize legacy systems and migrate to robust, decoupled services using Golang, gRPC, and REST
+Own high-stakes technical decisions, balancing trade-offs and setting standards for software design across teams
+Ensure best practices in clean code, DDD, testing, observability, and documentation are deeply embedded in the development lifecycle
+Collaborate with engineering leadership, product managers, and stakeholders to align backend capabilities with business priorities
+Foster a culture of technical excellence through mentorship, knowledge sharing, and collaborative problem solving
+When required, participate in the on-call rotation and act as a technical escalation point for critical incidents
+
+ 
+
+What You’ll Need
+
+Proficiency in development flow based on git and GitHub
+8+ years of experience in Software Engineering or a similar role, with preferably experience in Golang
+Strong sense of testing, including unit tests and integration tests
+Ability to communicate recommendations for improvements on current systems, processes, and services as needed
+Exhibit a strong ability to adapt in a dynamic and ever-changing environment
+Ability to solve problems, especially to identify the source of the problem, and create and test solutions
+Proven team-leading experience with the ability to mentor and guide team members
+
+ 
+
+What Makes You Stand Out
+
+Working knowledge of Docker, Kubernetes, and Clean Architecture
+Working knowledge of gRPC and RESTful API
+Working knowledge of RDB and SQL
+Experience in Google Cloud Platform
+Experience in Continuous Integration tools like CircleCI
+Experience in issue management systems like Jira
+Japanese communication skills
+Experience in development using Python, Ruby, NodeJS
+Experience in using tracing and metrics in deriving performance optimizations and troubleshooting
+
+ 
+
+Don’t just take our word for it
+
+Zeals has received the LinkedIn Top Startups award twice in a row. We believe this is a testament to our growth and our ability to attract great talents–who could potentially be your colleague!
+
+ 
+
+Our Tech Stack
+
+Backend Languages: Go, Python, Elixir
+Frontend Languages: HTML, CSS, JavaScript (TypeScript, React.js, Recoil, Zod, Tanstack, etc)
+Mobile Languages: None
+Infrastructure: Google Cloud Platform, GCP Pub/Sub, Kubernetes, MongoDB, MySQL, Postgres, BigQuery, Elasticsearch, Qdrant
+Configuration management tool: Terraform
+CI/CD: Github Actions, ArgoCD, CircleCI
+Monitoring: Grafana, GCP Cloud Monitoring, GCP Logging, GCP Cloud Trace, Opsgenie
+Data: BigQuery, Parquet, Spark, Scala, Python, dbt
+Knowledge Tools: Confluence
+Other: GitHub / Slack / Jira
+Process: Scrum
+
+ 
+
+Ready to roll up our sleeves
+
+We're obsessed with bringing hospitality to everyone – whether it's our customers or you! You’re an individual with unique needs, and while we may not have ping-pong tables or all-you-can-drink espresso bars to offer, we promise you a once-in-a-lifetime experience and co-workers you’ll be proud to brag about to your friends, family, or anyone you meet the next time you go out! As an employer, we're ready to roll up our sleeves and change the status quo if it means making your experience better.
+
+Salary Range : competitive
+Performance review: twice a year
+Holidays: 10 days of annual leave in the first year, weekends off, national holidays, summer and winter breaks, and 5 refreshment leave days per year.
+Visa support: We sponsor visas for the right candidates.
+Flexible working: Highly flexible, remote-first organization (in Japan), Interim work from overseas
+Housing allowance (within 1.5KM away from office)
+Club activity allowance
+Team building allowance and Lunch allowance
+Zeals Bar (bi-monthly free-flow beer party)
+
+ 
+
+**********
+
+For applicants via our CEO Masa Shimizu’s X account:
+
+Please note that if we receive a high number of applications, we may limit the number of candidates selected for an interview with Masa Shimizu as part of the screening process. We appreciate your understanding and thank you for your interest.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/zeals/zeals-security-engineer-9u6uc2","","Security Engineer","Zeals","Remote, Remote, Japan","2026-01-23","","","","","","","","","","","","Are you looking to:
+
+Make meaningful changes at the fastest-growing tech company in Japan?
+Work in a fair, highly flexible, and inclusive environment where anyone can make an impact?
+Build the next bold idea in conversational commerce technology?
+
+We Are Zeals – “Designing conversations. Driving conversions.”
+
+Zeals is changing how consumers purchase online through AI-powered, human-designed conversation flows. With over 480 enterprise clients in Japan and nearly $40 million in recent funding (backed by Salesforce Ventures), we are poised for exponential growth in the US and global markets. Our goal is simple: to revolutionize hospitality on the internet.
+
+ 
+
+Your Typical Day With Us
+
+Assess & Test: Conduct vulnerability assessments and penetration tests on systems, networks, and applications.
+Design Review: Review product designs and system architectures to identify security risks early using threat modeling.
+Code Security: Perform source code reviews to detect flaws before deployment.
+Incident Response: Investigate, analyze, and respond to security incidents and threats in a timely manner.
+DevSecOps: Integrate automated security checks and testing into CI/CD pipelines for scalable security practices.
+Guidance: Educate engineering teams through workshops and secure coding best practices.
+Strategy: Analyze security metrics and trends to identify areas for improvement and adjust strategies accordingly.
+
+ 
+
+What You’ll Need
+
+3–5 years of experience in information security, network security, or a similar role.
+Hands-on experience with threat and vulnerability management.
+Proficiency in network and system security (Firewalls, IDS/IPS, VPNs).
+Experience with security auditing tools and penetration testing.
+Familiarity with security frameworks and regulations (e.g., NIST, ISO 27001, GDPR).
+
+ 
+
+What Makes You Stand Out
+
+Knowledge of cloud security concepts and experience working with cloud platforms (AWS, GCP).
+Proficiency in scripting languages (Python, JavaScript, Golang) for automation.
+Experience leading, executing, or coordinating security-related projects.
+Relevant professional certifications (e.g., CISSP, CEH, CompTIA Security+, or GIAC).
+
+ 
+
+Our Tech Stack
+
+Languages: Go, Python, Elixir, TypeScript (React.js)
+Infrastructure: Google Cloud Platform (GCP), Kubernetes, Terraform
+Data & Search: MongoDB, MySQL, Postgres, BigQuery, Elasticsearch, Qdrant
+CI/CD & Monitoring: GitHub Actions, ArgoCD, CircleCI, Grafana, Opsgenie
+
+ 
+
+Perks & Benefits
+
+Flexibility: Remote-first organization (in Japan) with interim work-from-overseas options.
+Growth: Performance reviews twice a year and a competitive salary.
+Support: Visa sponsorship and housing allowance (for those living within 1.5km of the office).
+Time Off: 10 days annual leave (first year), 5 refreshment leave days, plus national and seasonal holidays.
+Culture: Team building/lunch allowances and the ""Zeals Bar"" bi-monthly free-flow beer party.
+
+ 
+
+Ready to roll up your sleeves?
+We're obsessed with bringing hospitality to everyone. We promise a once-in-a-lifetime experience and coworkers you’ll be proud to brag about. If you're ready to change the status quo, join us!","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/zeals/zeals-analytics-engineer-56n2k4","","Analytics Engineer/アナリティクスエンジニア","Zeals","Remote, Remote, Japan","2026-01-23","","","","","","","","","","","","We are Zeals
+
+「会話をデザインし、コンバージョンを促進する」・・・Zealsは単なるチャットボットではありません。
+
+私たちの自動化チャットソリューションと会話型テクノロジーは、消費者のオンラインでの購買行動やアクションのあり方を変えています。
+
+ー Zealsのメッセージングアプリ上で設計されたチャットを通じ、関心が低いとみなされていたお客様を、関心・興味のあるお客様へと転換する ー
+
+AIを活用し、人によってデザインされた会話フローをチャットプラットフォーム全体で提供することで、消費者とのパーソナライズされた会話を構築し、お客様の嗜好を深く理解するとともに、快適でシームレスなショッピング体験を提供することが可能です。
+
+私たちは目覚ましい成果を上げ続けています。
+
+日本国内はもとより、グローバル展開も視野に入れ、投資家からも大きな注目を集めており、Salesforce Venturesの支援のもと、近年、約4,000万ドルの資金を調達。
+
+世界480社以上の企業がモバイルビジネスを成長させるためにZealsのチャットコマースを活用しています。
+
+私たちの目標はシンプルです。
+
+「インターネット上でのホスピタリティを革新すること」
+
+これまで実店舗でしか提供できなかったデジタルカスタマーサービス体験の解放を目指しています。
+
+ポジションについて (About the position)
+
+このポジションは、データエンジニアとしての技術的なオーナーシップと、アナリストとしてのビジネスインパクトの両方を兼ね備えた役割となります。
+
+ステークホルダーと密接に連携し、課題をスケーラブルなデータソリューションへと展開。セマンティックレイヤーや KPI の設計、データプラットフォーム全体のパフォーマンス改善をリードしていただくことで、カスタマー理解の効率化やチャットコマースの最適化、そして事業の成長・拡大に貢献していただきます。
+
+※English follows below.
+
+業務内容（Responsibilities）
+
+セルフサービス分析・レポーティングを可能にする堅牢なディメンショナルデータモデルの設計・実装
+dbt を用いた変換レイヤーの構築・運用、および信頼性の高いデータセットの提供
+セマンティックレイヤーを通じたビジネスロジック、メトリクス、KPI の定義と管理
+ステークホルダーと協働し、ビジネス要件をスケーラブルなデータモデルへ落とし込む
+テスト／ドキュメント／モニタリングによるデータ品質基準の整備および維持
+効果的なモデリング戦略によるクエリパフォーマンスとデータウェアハウスコストの最適化
+
+ 
+
+応募要件（Requirements）
+
+分析、データエンジニアリング、または関連分野での 3 年以上の実務経験
+dbt（dbt Core または dbt Cloud）を 1 年以上利用した実務経験
+ディメンショナルモデリング手法（例：Kimball、Data Vault 等）への理解
+BigQuery をはじめとするクラウドデータウェアハウスの利用経験
+複雑なビジネス要件を、明確で保守性の高いデータモデルに落とし込む能力
+ドキュメント作成やデータガバナンスに関しての高い意識
+技術部門と非技術系部門との協働経験
+日本語：流暢（ネイティブレベル）・英語：日常会話レベル
+
+ 
+
+歓迎要件（Nice to haves）
+
+dbt Semantic Layer または Metrics Layer の実装経験
+Tableau、Looker、Omni などの BI ツールの利用経験
+インクリメンタルマテリアライゼーションやコスト最適化に関する知識
+日英バイリンガル環境での業務経験
+英語での高いコミュニケーション能力
+
+ 
+
+This role blends the ownership of a data engineer and the business impact of an analyst. You’ll partner closely with stakeholders to translate problems into scalable data solutions, shape our semantic layer and KPIs, and continuously improve performance and efficiency in our data platform. Your contributions will directly accelerate how we understand customers, optimize conversational commerce, and drive growth at scale.
+
+ 
+
+What You’ll Do
+
+Designing and implementing robust dimensional data models that enable self-service analytics and reporting
+Building and maintaining transformation layers using dbt to deliver trusted, well-documented datasets
+Defining and managing business logic, metrics, and KPIs through a semantic layer
+Partnering with stakeholders to translate business requirements into scalable data models
+Establishing and enforcing data quality standards through testing, documentation, and monitoring
+Optimizing query performance and warehouse costs through effective modeling strategies
+
+ 
+
+What You’ll Need
+
+3+ years of experience in analytics, data engineering, or related fields with strong SQL proficiency
+1+ years of hands-on experience with dbt (dbt Core or dbt Cloud)
+Solid understanding of dimensional modeling techniques (Kimball, Data Vault, or similar)
+Experience working with cloud data warehouses, preferably BigQuery
+Proven ability to translate complex business requirements into clear, maintainable data models
+Strong documentation habits and commitment to data governance
+Experience collaborating with both technical teams and non-technical stakeholders
+Fluent Japanese language skills with ability to have daily conversations in English
+
+ 
+
+What Makes You Stand Out
+
+Experience with dbt Semantic Layer or metrics layer implementations
+Familiarity with BI tools such as Tableau, Looker, or Omni
+Understanding of incremental materialization strategies and cost optimization
+Experience working in bilingual (Japanese/English) environments
+Fluent English language skills
+
+ 
+
+Don’t just take our word for it
+
+Zeals has received the LinkedIn Top Startups award twice in a row. We believe this is a testament to our growth and our ability to attract great talents–who could potentially be your colleague!
+
+ 
+
+Our Tech Stack
+
+Backend Languages: Go, Python, Elixir
+Frontend Languages: HTML, CSS, JavaScript (TypeScript, React.js, Recoil, Zod, Tanstack, etc)
+Mobile Languages: None
+Infrastructure: Google Cloud Platform, GCP Pub/Sub, Kubernetes, MongoDB, MySQL, Postgres, BigQuery, Elasticsearch, Qdrant
+Configuration management tool: Terraform
+CI/CD: Github Actions, ArgoCD, CircleCI
+Monitoring: Grafana, GCP Cloud Monitoring, GCP Logging, GCP Cloud Trace, Opsgenie
+Data: BigQuery, Parquet, Spark, Scala, Python, dbt
+Knowledge Tools: Confluence
+Other: GitHub / Slack / Jira
+Process: Scrum
+
+ 
+
+Ready to roll up our sleeves
+
+We're obsessed with bringing hospitality to everyone – whether it's our customers or you! You’re an individual with unique needs, and while we may not have ping-pong tables or all-you-can-drink espresso bars to offer, we promise you a once-in-a-lifetime experience and co-workers you’ll be proud to brag about to your friends, family, or anyone you meet the next time you go out! As an employer, we're ready to roll up our sleeves and change the status quo if it means making your experience better.
+
+Salary Range : competitive
+Performance review: twice a year
+Holidays: 10 days of annual leave in the first year, weekends off, national holidays, summer and winter breaks, and 5 refreshment leave days per year.
+Visa support: We sponsor visas for the right candidates.
+Flexible working: Highly flexible, remote-first organization (in Japan), Interim work from overseas
+Housing allowance (within 1.5KM away from office)
+Club activity allowance
+Team building allowance and Lunch allowance
+Zeals Bar (bi-monthly free-flow beer party)","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/jamm/jamm-backend-developer-n7o3sk","","Backend Developer","Jamm","Tokyo, Tokyo, Japan","2026-01-22","","direct_data","yearly",7000000.0,10000000.0,"JPY","","","","","","About
+
+We're looking for a backend engineer to design and build systems that power payment infrastructure. You'll own features end-to-end, from database schema design through deployment, and work alongside a small, tight-knit team of experienced engineers who ship fast and iterate constantly!
+
+ 
+
+Responsibilities
+
+Design, implement, and maintain high-performance backend services in Go.
+Architect scalable data models and database schemas for new product features.
+Build and operate workflow orchestration systems to handle complex payment sequences.
+Identify and address technical debt while balancing rapid delivery timelines.
+Participate in peer system design reviews and thorough code reviews.
+Monitor, debug, and continuously improve overall system reliability.
+
+ 
+
+Requirements
+
+Experience: At least 1 year of professional backend software development experience.
+Technical Proficiency: Strong proficiency in Golang and relational database design (PostgreSQL preferred).
+Orchestration: Experience with workflow orchestration systems such as Temporal or AWS Step Functions.
+System Design: Solid understanding of distributed systems patterns and architectural trade-offs.
+Delivery: Proven track record of delivering stable features in production environments.
+Documentation: Experience writing technical design docs, API specs, or SDK documentation.
+
+ 
+
+Preferred Qualifications
+
+2–5 years of professional software development experience.
+Experience shipping a product from zero to production (strongly preferred).
+Background in Fintech or Payments industries.
+Familiarity with Infrastructure-as-Code (Terraform) and gRPC/Protocol Buffers.
+Experience working in early-stage, fast-paced companies.
+Familiarity with fullstack, mobile, or modern frontend frameworks.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-senior-software-engineer-partner-product-development-department-tokyo-fzwt1h","","Senior Software Engineer (Partner Product Development Department)","Money Forward","Tokyo, Tokyo, Japan","2026-01-22","","direct_data","yearly",5800000.0,10000000.0,"JPY","","","","","","Overview
+
+You will be assigned to the Partner Product Development Department of Business Segment SMB Domain, responsible for overseeing the product line for partner professionals (accounting firms and labor and social security attorney offices) that make up a significant part of Money Forward Business Segment's business. The Partner Product Development Department aims to continuously solve various challenges faced by users in Japanese accounting firms. By advancing this project, we aim to improve the productivity of our crucial partners, increase the value they generate, and achieve mutual growth with Money Forward.
+
+ 
+
+Responsibilities and Duties
+
+The Cloud Partner Group sets forth the product vision of ""advancing the advisory experience for professionals,"" recognizing the significant role professionals play in the growth of small and medium-sized businesses. However, a considerable amount of time is often spent on paper-based management tasks such as receipt management and various application form preparations, limiting resources for advisory services.
+
+Promote the digital transformation of SMEs through our back-office SaaS series, Money Forward Cloud.
+Extend new value to professionals, allowing them to direct more focus toward supporting the business growth of SMEs.
+Employ Scrum development without dividing team roles between backend and frontend.
+Transition to English as the primary language for development by fiscal year 2025.
+
+ 
+
+Required Skills and Experience
+
+Bachelor's degree in Computer Science, Engineering, or a related technical field.
+5+ years of web application development experience (application design, development, and operation).
+Expertise in either React, Next.js, and GraphQL; Java/Server-side Kotlin and Springboot; or Ruby on Rails.
+Experience with frontend and/or backend development in a full-stack web framework.
+Experience in designing and deploying cloud infrastructure.
+Willingness to work as a full-stack engineer, irrespective of technology or programming language.
+Capable of relocating to Japan and commuting to the Tokyo office at least twice a week.
+
+ 
+
+Preferred Skills and Experience
+
+Conversational level in Japanese.
+Experience with backend development using Ruby on Rails and RDBMS.
+Experience in system architecture design, microservices, and microservice development.
+Experience working in a Scrum team and practicing DevOps.
+Experience in container-based development and proficiency in test-driven development.
+Experience in AI development and/or experience in using AI tools to improve development processes.
+
+ 
+
+Language Requirements
+
+English: TOEIC score of 700 or above, plus the ability to handle meetings and text communication in English. (Equivalent qualifications like TOEFL iBT 60+, IELTS 5.0+, or Cambridge FCE are also accepted).
+Japanese: No Japanese Language Requirement but willingness to learn. Conversational Japanese is a plus.
+
+ 
+
+Technology Stack & Tools
+
+Backend: Kotlin, GraphQL, Ruby on Rails
+Frontend: React.js, Next.js, TypeScript
+Middleware: MySQL, Kafka, Debezium
+Infrastructure: AWS, Docker, Kubernetes, Terraform
+CI/CD: CircleCI, GitHub Actions, Argo CD
+Monitoring: Datadog, Rollbar
+Management: JIRA, Slack, Zoom
+
+ 
+
+Work Environment
+
+Provided PC Specs: Latest CPU-equipped PCs (MacOS or Windows) with customization options based on requirements.
+Development Support: Peripherals (displays, mice, keyboards) can be purchased as office supplies.
+Money Forward Library: System to borrow or purchase technical/management books at the company's expense.
+Professional Growth: Partial coverage for domestic and international conferences such as RubyKaigi and Google I/O.
+Incentives: Referral reward system and coverage for recruitment meals.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/cookpad/cookpad-principal-conversational-ai-engineermoment-by-cookpad-n963ao","","Principal Conversational AI Engineer (moment by Cookpad)","Cookpad","Tokyo, Tokyo, Japan","2026-01-22","","direct_data","yearly",13000000.0,25000000.0,"JPY","","","","","","About Cookpad
+
+Cookpad develops the world’s most user-friendly products for people who cook. Our focus is on using AI and robotics to bring out people’s strengths rather than simply replacing them. Cooking affects our health, society, and culture; our challenge is to make it possible for anyone, anywhere, to cook at an unprecedentedly high standard.
+
+ 
+
+The Essence of this Position
+
+moment helps people learn to cook through an innovative personal coaching service powered by multimodal AI (text, vision, audio). Challenges at moment are not about incremental improvements. We need engineers who can identify the gap between the ideal learning experience and current AI capabilities, then narrow that gap by solving the points of greatest impact.
+
+ 
+
+Role Overview
+
+As an AI Engineer specializing in Conversational AI, you will design, implement, and optimize intelligent dialogue systems that create engaging, natural, and context-aware interactions. You will leverage cutting-edge Large Language Models (LLMs) to build robust conversation flows that enhance the user experience through natural language.
+
+ 
+
+Key Responsibilities
+
+Conversational System Design & Development:
+Design sophisticated dialogue systems that maintain context across multiple interactions.
+Develop advanced prompt engineering strategies and implement systems for intent recognition and entity extraction.
+Build personalization capabilities based on user history and develop fallback mechanisms for edge cases.
+Integration & Production Implementation:
+Integrate conversational interfaces with backend APIs and collaborate with front-end developers.
+Translate product requirements into technical solutions and take ownership of features from concept to deployment.
+Knowledge Sharing & Documentation:
+Document conversation design patterns, maintain prompt libraries, and share best practices with the broader engineering team.
+
+ 
+
+Required Skills & Qualifications
+
+Professional Background: 5+ years of software engineering experience with strong production-level Python skills.
+AI Expertise: Hands-on experience building applications with modern generative AI models (LLMs).
+Dialogue Management: Expertise in prompt engineering, dialogue management systems, and multi-agent systems for complex workflows.
+RAG: Experience with Retrieval-Augmented Generation (RAG) to enhance conversational knowledge.
+Engineering Excellence: Proficiency in TDD, version control, CI/CD, and containerization.
+
+ 
+
+Preferred Qualifications
+
+Familiarity with vector embeddings and databases (e.g., Pinecone, FAISS).
+Experience with conversational frameworks like LangChain or LlamaIndex.
+Knowledge of LLMOps practices for model deployment and monitoring.
+Understanding of UX principles for conversational interfaces and cloud AI services (AWS, GCP).","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/cookpad/cookpad-tech-lead-level-applied-ai-software-engineermoment-ppit2f","","Principal Applied AI Engineer（moment by cookpad）","Cookpad","Tokyo, Tokyo, Japan","2026-01-22","","direct_data","yearly",13000000.0,25000000.0,"JPY","","","","","","Job Description
+
+About Cookpad
+
+Cookpad develops the world’s most user-friendly products for people who cook.
+The use of AI and robotics broadly falls into two approaches: replacing human actions, or extending human capability. Our focus is on using these technologies to bring out people’s strengths.
+Cooking affects our health, cognition, society, culture, and the environment. Our challenge is to make it possible—through our products—for anyone, anywhere, to cook at an unprecedentedly high standard.
+
+ 
+
+The essence of this position
+
+moment
+
+helps people learn to cook in an innovative way with a personal coaching service. This service is completely based in AI using multimodal (text, vision, audio). The challenges at moment are not about incremental or partial improvements. What is required is the ability to identify the gap between the ideal learning experience and what AI can realistically deliver today, and then to narrow that gap by isolating and fully solving the single point where the greatest impact can be made right now.
+
+ 
+
+Examples of Key Challenges
+
+Video Analysis Domain: An elite coach can instantly discern from video the heat level, early signs of failure, and the appropriate corrective actions in cooking. The goal is to reproduce and extend this judgment using AI.
+
+This is not a job focused on improving accuracy metrics, but on implementing the judgment of top-tier experts themselves.
+
+Solving fundamental challenges in understanding cooking videos
+Designing multimodal (video, audio, text) decision-making models
+Designing coaching logic that takes conversational memory and learning state into account
+Designing and implementing task / research agents
+
+Responsibilities
+
+Work backward from the ideal learning experience to independently define the most critical problem
+Translate the problem into technical requirements and lead the design, implementation, and validation end to end
+Be able to explain how the solved problem impacted learning speed, retention, reproducibility, and cost
+Requirements (Must-Haves )
+Approximately 5+ years of software development experience
+Strong professional proficiency in Python
+Hands-on experience developing and integrating applications using LLMs
+A proven track record of defining problems from the gap between the ideal and reality, discarding many possible improvement ideas, and focusing on the single most impactful point to deliver results.
+Experience rapidly iterating through hypothesis, design, implementation, and validation for problems with no single correct answer
+Practical knowledge of optimizing generative model outputs
+Understanding of modern development practices (TDD, version control, CI/CD, containerization, etc.)
+Ability to translate user context and emotions into technical specifications
+Preferred Qualifications
+Excellent English communication skills within cross-functional teams
+Experience deriving insights from user behavior or conversational data to inform AI design requirements
+Background in computer vision or traditional machine learning (especially with video data processing)
+Experience developing hybrid solutions combining modern generative AI and traditional methods
+Sensitivity to human–AI interaction nuances and user experience optimization
+Practical understanding of AI model trade-offs, performance, and constraints
+Experience with vector embeddings and vector databases (e.g., Pinecone)
+Experience implementing RAG architectures for LLM-based applications
+Experience fine-tuning and customizing large language models using frameworks such as LangChain, LlamaIndex, Hugging Face, AWS Bedrock, or Google Vertex AI
+Experience developing in cloud environments (AWS, GCP, or Azure)
+Knowledge of MLOps / LLMOps (model deployment, serving, monitoring, etc.)
+Foundational understanding of data engineering, such as building data pipelines for AI applications","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/mujin/mujin-frontend-engineerandroid-heavy-react-secondary-68n4i2","","Frontend Engineer (Android)","Mujin","Tokyo, Tokyo, Japan","2026-01-22","","direct_data","yearly",8000000.0,12000000.0,"JPY","","","","","","About Mujin
+
+Mujin creates MujinOS, the intelligent operating system for industrial robotics. By leveraging real-time digital twins, MujinOS seamlessly connects and orchestrates equipment to achieve fully autonomous operations.
+
+At our core is Machine Intelligence (MujinMI), a unique approach offering advanced perception, planning, and control algorithms that solve the most challenging automation problems. Trusted by globally recognized companies, we are redefining supply chain efficiency. Headquartered in Japan with growing teams in China, the US, and Europe, we invite you to join a dynamic environment where you can shape the future of automation.
+
+ 
+
+Team Introduction
+
+As a Software Engineer on Mujin’s Warehouse Execution System (WES) & Fleet Management (FM) team, you will focus on developing user-facing Android and web frontend applications used daily in warehouse operations. Your work directly shapes how operators interact with warehouse systems through industrial Android devices and browser-based interfaces.
+
+The team specializes in building reliable, high-quality frontends that run in demanding production environments, where stability, performance, and usability are critical. You will work closely with backend engineers, product managers, designers, and operations teams to deliver intuitive, responsive, and maintainable interfaces.
+
+ 
+
+Responsibilities
+
+Android
+
+Design, develop, and maintain Android applications for industry devices used in warehouse environments.
+Implement features that interface directly with device hardware layers (barcode scanners, cameras, physical buttons, NFC/RFID, Bluetooth, etc.).
+Work with vendor-specific SDKs and build applications optimized for offline usage and long-running sessions.
+
+Web Frontend
+
+Develop web frontend applications using React and TypeScript.
+Ensure applications are responsive, accessible, and optimized for performance across browsers and devices.
+
+Collaboration & Quality
+
+Collaborate with cross-functional teams (PMs, Designers, Backend, Ops).
+Participate in code reviews, knowledge sharing, and mentoring.
+Triage, debug, and resolve mission-critical production issues across Android and web systems.
+
+ 
+
+Tech Stack
+
+Android: Kotlin, React Native, Android SDK, Android Jetpack, AOSP-based devices.
+Web Frontend: TypeScript, React, Rsbuild, Vitest, ESLint.
+Backend & Infrastructure: Python, RESTful APIs, GraphQL, Docker.
+Collaboration: Figma, Confluence, GitLab.
+
+ 
+
+Requirements
+
+Minimum Qualifications
+
+3+ years of professional software development experience.
+Professional experience developing Android applications using Kotlin and/or Java.
+Strong knowledge of JavaScript, TypeScript, React, and CSS.
+Experience integrating applications with device hardware features or SDKs.
+Experience with testing frameworks and CI/CD pipelines.
+
+Preferable Qualifications
+
+Experience developing applications for industrial devices.
+Proven experience maintaining shared frontend libraries or component systems.
+Familiarity with PixiJS, rich animations, or interactive UIs.
+Experience with offline-first design and data synchronization.
+
+ 
+
+Work Environment & Benefits
+
+Location: Tatsumi, Koto-Ku, Tokyo.
+Work Hours: 8:45 - 17:45 (includes 60-minute break).
+Salary: Based on experience; revision twice a year; performance bonuses available.
+Food & Health: Free buffet lunch every workday, free snacks/drinks, and access to an exclusive employee gym.
+Relocation Support: Visa sponsorship, flight ticket support, shipping expense coverage, and housing assistance.
+
+ 
+
+Interview Process
+
+Coding Assessment
+HR Interview
+Hiring Manager Interview (1-2 rounds)
+Take-Home Assignment & Feedback (If applicable)","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r","","Growth Engineer","Metanomaly","Tokyo, Tokyo, Japan","2026-01-20","","","","","","","","","","","","What you’ll do
+
+Collaborate with product and operations to turn business goals into actionable technical solutions and growth experiments
+Contribute to feature improvements, core flow optimization, and growth experiments (e.g., A/B tests)
+Use user behavior data to identify issues and drive solutions through to implementation
+Continuously propose product and growth optimizations based on real user experience
+Use AI tools to improve work efficiency and quality
+
+ 
+
+Requirements
+
+Clear communication: able to explain technical concepts so non-technical teammates can understand
+Business and product sense: proactive in proposing product or growth improvements, not just taking tickets
+Solid engineering: strong front-end skills; able to handle basic backend logic and API integration
+Data-aware: can interpret basic user behavior data and use it to guide optimizations and experiments
+Interest in AI: willing to learn and use AI tools to boost productivity
+Culture fit (nice to have): interest in anime/otaku culture, creator communities, or related products
+
+ 
+
+Education
+
+Bachelor’s degree or above; practical skills and experience matter most
+
+ 
+
+Experience
+
+1+ years of relevant experience preferred
+Experience with independent app development, product iteration, or growth work is a plus","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-software-engineer-robotics-control-systems-oj4jo2","","Software Engineer (Robotics Control Systems)","Rapyuta Robotics","Tokyo, Tokyo, Japan","2026-01-20","","","","","","","","","","","","About Us
+
+We are committed to our core value of Empathy. Our mission is to automate “demanding,” “dirty,” and “dangerous” jobs so that people can engage in more intellectual and creative work. We achieve this by developing and supporting the implementation and operation of robotics platforms and robot solutions that leverage the world’s most advanced control and coordination technologies.
+
+ 
+
+Role Overview
+
+As a Robotics Control Systems team member, you will drive innovation and optimization in multi-robot controls. Your work will directly impact developing and maintaining our distributed intelligence system for ASRS and pick-assist robots. You will be responsible for designing, implementing, testing, and maintaining critical components such as:
+
+Behavior Controllers:
+Global and local controllers that govern decision-making for a fleet of autonomous robots.
+Path Planning Systems:
+Planners and executors that manage and dictate robot traffic.
+Task Allocation Strategies:
+Different strategies and their optimizations to ensure efficient task distribution.
+Distributed Intelligence Framework:
+Production-grade open-source framework (ALICA) used for coordinating multiple robots.
+
+ 
+
+Additionally, you will:
+
+Collaborate & Review:
+Perform architecture and code reviews with team members.
+Contribute to a collaborative and continuous improvement environment.
+Improve Processes:
+Identify and recommend enhancements to engineering processes.
+Solve Customer Challenges:
+Tackle challenging problems as our customer base grows.
+User-Focused Development:
+Understand user needs and ensure that the delivered solutions provide tangible value.
+
+ 
+
+Requirements
+
+Minimum Qualifications
+
+Education:
+Bachelor’s degree or higher in Computer Science, Robotics, or a related technical field.
+Technical Skills:
+Strong fundamentals in algorithm design, problem-solving, and complexity analysis.
+Proficient in object-oriented programming (OOP) and multi-threading.
+Experience with C++ (C++11 or above).
+Experience:
+At least 3 years of corporate or research experience in Software Engineering or Robotics.
+
+ 
+
+Preferred Qualifications
+
+Additional Technologies:
+Experience with ROS (Robot Operating System) and Python.
+Libraries & Frameworks:
+Familiarity with SMACH, Behavior Tree, and RosPlan.
+Specialized Experience:
+Background in multiagent systems, constraint programming, or distributed systems.
+Hands-on experience with autonomous or manually operated robots.
+Other Skills:
+Knowledge of CI/CD systems.
+Startup experience.
+
+ 
+
+Benefits
+
+Competitive salary and benefits package. 
+Opportunity to work on cutting-edge robotics technologies. 
+Collaborative and innovative work environment. 
+Career growth and development opportunities. 
+VISA application support ","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/caddi/caddi-senior-software-engineer-backend---english-i6b8nk","","Senior Software Engineer, Backend-Focused Full-Stack (Global Product Team)","CADDi","Tokyo, Tokyo, Japan","2026-01-19","","direct_data","yearly",8500000.0,12000000.0,"JPY","","","","","","Recruitment Background
+
+At CADDi, our mission is to unleash the potential of manufacturing. To make this happen, we are developing and delivering an AI-powered data platform for the industry. We are delivering value not only to customers in Japan, but also across the US and ASEAN countries, and we are growing at a pace far exceeding the T2D3 benchmark.
+
+We believe we have what it takes to become one of the true global champion companies. To sustain this rapid growth and continue delivering value to an even greater number of customers worldwide, we are looking for talented individuals to join us in building the very core of our business—our product.
+
+In addition, our engineering organization is entering an exciting new phase, where we are opening the doors not only to Japanese-speaking professionals, but also to global talent from around the world. We’re seeking individuals with strong technical expertise and project management capabilities, as well as the leadership to help shape our engineering team as we move into this exciting new stage of growth.
+
+ 
+
+About the Incubation Team
+
+Mission
+
+Our Incubation team is more than just a feature development team. Our mission consists of three pillars:
+
+Create more products：Continuously launch new products that solve customer problems.
+Create more strong teams：Build strong development teams capable of driving product growth.
+Create structured ways to accelerate these activities：Establish repeatable systems to speed up our creation process.
+
+ 
+
+Why you will love it here!
+
+Deep Involvement in Product Development
+End-to-end ownership from planning to development and operation.
+Close collaboration with Designers, PdMs, and Customer Success.
+A variety of technical tasks across Frontend, Backend, DevOps, Infra, and QA.
+Clear, measurable goals and outcomes.
+All members can contribute to product improvements.
+Directly solve customer pain points and feel the business impact.
+A Diverse and Specialized Team
+You'll work in a diverse environment with members from various professional backgrounds.
+
+ 
+
+Job Responsibilities
+
+Contribute to the development of a new application built on top of our core platform, CADDi Drawer — for example, the recently released CADDi Quote. This project is run like an independent startup within CADDi, aiming to create a product that could exceed T2D3-level growth on its own. You’ll be part of a fast-moving, entrepreneurial team building entirely new value from zero.
+Lead the end-to-end development of the application from scratch, including technology selection, domain modeling, and overall architecture design.
+Collaborate closely with cross-functional teams such as product managers, designers, and engineers across multiple teams to ensure successful delivery.
+Play a key role in building a high-performing, globally-oriented engineering team that primarily operates in English.
+
+ 
+
+Required Qualifications
+
+7+ years of hands-on experience designing, developing, and delivering web applications on cloud platforms such as GCP, AWS, and Azure.
+Proven leadership in managing teams of 5+ engineers to deliver high-quality, scalable web applications through strong technical excellence and proactive guidance in architecture, implementation, and delivery.
+Product and Technical Experience
+Experience leading architecture design initiatives and contributing to the technical direction of products.
+Experience leading the end-to-end delivery of B2B SaaS platforms, from requirement definition and design to implementation, delivery, and continuous improvement, ensuring enterprise-level performance, reliability, and security.
+Experience leading the end-to-end development of B2C applications, focusing on usability, performance, and customer engagement throughout the entire product lifecycle.
+Involved in full product lifecycles, including requirement gathering, design, roadmap planning, iterative development, and post-launch improvements.
+
+*Not required to meet all of the above, experience in at least one area is sufficient.
+
+Fluent in English, able to understand complex, context-heavy discussions and collaborate effectively with a multicultural English speaking team.
+
+ 
+
+Preferred Qualifications
+
+Development experience in a Docker-native infrastructure environment - strongly preferred
+Backend development and operation experience for web applications using statically typed languages - strongly preferred
+Experience selecting programming languages, frameworks, and libraries by evaluating pros and cons from both technical and business perspectives
+Experience developing services that include asynchronous jobs, particularly with designing and building the job infrastructure from scratch.
+Proven ability to drive solutions to development productivity challenges through technical leadership, including: establishing and maintaining CI/CD pipelines (especially around Docker), defining and supporting coding standards
+Full Stack Development experience (ideally with React.js).
+Hands-on experience with Domain-Driven Design (DDD) in complex business domains
+Designed, developed, and maintained microservices architecture in a distributed environment
+Built secure web applications with a strong awareness of modern security best practices
+Successfully led and completed projects involving multiple stakeholders.
+
+ 
+
+A portrait of our Ideal Candidate
+
+We want to work with engineers who,
+
+Understand our mission ""Unleash the potential of manufacturing"".
+Can confront essential challenges and take action with a sense of ownership to resolve them.
+Can perform their duties with a positive attitude and constructive discussions in fast-changing and highly uncertain situations.
+Can communicate and discuss with a respectful attitude, considering the context and resolution of others.
+Are not just “coders” but proactive leaders!
+
+ 
+
+Salary
+
+Initial annual salary is estimated to be in the range of 8.5 million to 12 million yen.
+Salary reviews will be conducted twice a year.
+The annual salary will be divided into 12 equal monthly payments.
+Stock option program available.
+
+ 
+
+Development Environment
+
+Frontend: TypeScript, React, Next.js
+Backend: TypeScript,Rust(axum), Node.js (Express, Fastify, NestJS)
+Infrastructure: Docker, Google Cloud, Kubernetes, Istio, Cloudflare
+Event Bus: Cloud Pub/Sub
+DevOps: GitHub,GitHub Actions, ArgoCD, Kustomize, Helm, Terraform, Datadog, MixPanel, Sentry
+Data: CloudSQL(PostgreSQL), AlloyDB, BigQuery, dbt, trocco
+API: GraphQL,REST,gRPC
+Authentication: Auth0
+Other tools: GitHub Copilot, Figma, Storybook
+Communication: Slack, Discord, JIRA, Miro, Confluence
+
+ 
+
+Interview Process
+
+Application Review
+Coding Assignment and Technical Writing Sample
+1st Round Interview (Hiring Manager)
+2nd Round Interview (Engineering Manager)
+Final Round Interview (CTO/VPoE)
+*Please note that additional interviews or discussions may be proposed depending on the situation.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/caddi/caddi-tech-lead-backend-focused-full-stack-global-product-team-dr8qve","","Tech Lead, Backend-Focused Full-Stack (Global Product Team)","CADDi","Tokyo, Tokyo, Japan","2026-01-19","","direct_data","yearly",10000000.0,14000000.0,"JPY","","","","","","Recruitment Background
+
+At CADDi, our mission is to unleash the potential of manufacturing. To make this happen, we are developing and delivering an AI-powered data platform for the industry. We are delivering value not only to customers in Japan, but also across the US and ASEAN countries, and we are growing at a pace far exceeding the T2D3 benchmark.
+
+We believe we have what it takes to become one of the true global champion companies. To sustain this rapid growth and continue delivering value to an even greater number of customers worldwide, we are looking for talented individuals to join us in building the very core of our business—our product.
+
+In addition, our engineering organization is entering an exciting new phase, where we are opening the doors not only to Japanese-speaking professionals, but also to global talent from around the world. We’re seeking individuals with strong technical expertise and project management capabilities, as well as the leadership to help shape our engineering team as we move into this exciting new stage of growth.
+
+ 
+
+About the Incubation Team
+
+Mission
+
+Our Incubation team is more than just a feature development team. Our mission consists of three pillars:
+
+Create more products：Continuously launch new products that solve customer problems.
+Create more strong teams：Build strong development teams capable of driving product growth.
+Create structured ways to accelerate these activities：Establish repeatable systems to speed up our creation process.
+
+ 
+
+Why you will love it here!
+
+Deep Involvement in Product Development
+End-to-end ownership from planning to development and operation.
+Close collaboration with Designers, PdMs, and Customer Success.
+A variety of technical tasks across Frontend, Backend, DevOps, Infra, and QA.
+Clear, measurable goals and outcomes.
+All members can contribute to product improvements.
+Directly solve customer pain points and feel the business impact.
+A Diverse and Specialized Team
+You'll work in a diverse environment with members from various professional backgrounds.
+
+ 
+
+Job Responsibilities
+
+Multi-Team Architecture: Develop and design high-level architectural concepts that span multiple products or teams. Ensure long-term technical debt is managed across the division.
+Strategic Alignment: Build the Technology Division's strategy into actionable team roadmaps. Align the team's technical choices with the company's marketplace positioning.
+Organizational Improvement: Identify and resolve systemic bottlenecks that exist between teams. This includes structuring cross-team delivery flows and improving inter-departmental collaboration.
+Technical & Product Strategy: Define and strategize resource requirements of tech stack for new product launches, actively driving hiring initiatives and leading 'Buy vs. Build' evaluations to optimize the company's bottom line. 
+Culture Engineering: Fosters an environment of psychological safety and radical transparency. Actively mentors other engineers and builds a culture and peer feedback.
+
+Required Qualifications
+
+Experience: 9+ years in web application development, with a track record of owning technical strategy for a product line or business unit.
+Scale: Experience managing or technically leading a large organization (proven capability to influence 30+ engineers through architecture and standards).
+Business Acumen: Ability to evaluate new product features against market trends and provide feedback on the product roadmap that influences business direction.
+Conflict Resolution: Proven ability to facilitate productive outcomes in high-pressure situations involving conflicting stakeholder interests.
+Expertise Recognition: Deep expertise in a specific domain (e.g., Distributed Systems, Rust, or Data Engineering) that is recognized as a resource across the company.
+
+*Not required to meet all of the above, experience in at least one area is sufficient.
+
+Fluent in English, able to understand complex, context-heavy discussions and collaborate effectively with a multicultural English speaking team.
+
+ 
+
+Preferred Qualifications
+
+Development experience in a Docker-native infrastructure environment - strongly preferred
+Backend development and operation experience for web applications using statically typed languages - strongly preferred
+Experience selecting programming languages, frameworks, and libraries by evaluating pros and cons from both technical and business perspectives
+Experience developing services that include asynchronous jobs, particularly with designing and building the job infrastructure from scratch.
+Proven ability to drive solutions to development productivity challenges through technical leadership, including: establishing and maintaining CI/CD pipelines (especially around Docker), defining and supporting coding standards
+Full Stack Development experience (ideally with React.js).
+Hands-on experience with Domain-Driven Design (DDD) in complex business domains
+Designed, developed, and maintained microservices architecture in a distributed environment
+Built secure web applications with a strong awareness of modern security best practices
+Successfully led and completed projects involving multiple stakeholders.
+
+ 
+
+A portrait of our Ideal Candidate
+
+We want to work with engineers who,
+
+Understand our mission ""Unleash the potential of manufacturing"".
+Can confront essential challenges and take action with a sense of ownership to resolve them.
+Can perform their duties with a positive attitude and constructive discussions in fast-changing and highly uncertain situations.
+Can communicate and discuss with a respectful attitude, considering the context and resolution of others.
+Are not just “coders” but proactive leaders!
+
+ 
+
+Salary
+
+Initial annual salary is estimated to be in the range of 10 million to 14 million yen.
+Salary reviews will be conducted twice a year.
+The annual salary will be divided into 12 equal monthly payments.
+Stock option program available.
+
+ 
+
+Development Environment
+
+Frontend: TypeScript, React, Next.js
+Backend: TypeScript, Rust(axum), Node.js (Express, Fastify, NestJS)
+Infrastructure: Docker, Google Cloud, Kubernetes, Istio, Cloudflare
+Event Bus: Cloud Pub/Sub
+DevOps: GitHub,GitHub Actions, ArgoCD, Kustomize, Helm, Terraform, Datadog, MixPanel, Sentry
+Data: CloudSQL(PostgreSQL), AlloyDB, BigQuery, dbt, trocco
+API: GraphQL,REST,gRPC
+Authentication: Auth0
+Other tools: GitHub Copilot, Figma, Storybook
+Communication: Slack, Discord, JIRA, Miro, Confluence
+
+ 
+
+Interview Process
+
+Application Review
+Coding Assignment and Technical Writing Sample
+1st Round Interview (Hiring Manager)
+2nd Round Interview (Engineering Manager)
+Final Round Interview (CTO/VPoE)
+*Please note that additional interviews or discussions may be proposed depending on the situation.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/exawizards/exawizards-aihr-tech--saas-lbwc0v","","Product Designer (Gen AI x HR Tech Solutions)","ExaWizards","Tokyo, Tokyo, Japan","2026-01-19","","direct_data","yearly",5000000.0,9600000.0,"JPY","","","","","","業務内容
+
+日本企業のDXを推進する上で、経営資源である「ヒト」領域の課題解決ソリューションを提供する事業部のプロダクトデザイナーをお任せします。
+具体的には、大企業のDX人材育成を支援するプロダクトを中心に、今後も続々とリリースする新規プロダクト、サービスもご担当いただきます。
+私たちのチームでは、デザインを「見た目」だけでなく、ユーザーの課題を発見し、解決するための戦略的な役割として捉えています。
+
+ユーザーの課題を深く理解するリサーチの設計・実施（ユーザーインタビュー、データ分析など）
+UX/UIデザインによる、わかりやすく直感的なインターフェースの情報設計
+プロダクトの設計と改善に向けた、PdM・エンジニアとの密な連携
+ユーザーの行動やフィードバックに基づくデザイン検証と改善の繰り返し
+
+その他、ご本人の意向・スキル、状況によって下記の業務も担当頂くことがあります。
+
+グラフィックデザイン、ガイドライン策定などのビジュアルデザイン
+マーケティング施策におけるLP・バナー・その他制作
+
+ 
+
+必須要件
+
+Google analythicsなどのアナリティクスツールを利用した顧客のUX分析経験
+Figmaを使用したデザイン実務経験
+
+ 
+
+歓迎要件
+
+ウェブサイトやアプリの属性データや行動データ分析のご経験がある方
+新規事業の立ち上げ、グロース経験ビジネス向けプロダクトのデザイン経験
+プロジェクトマネジメント経験
+フロントエンド / バックエンドエンジニア経験
+
+ 
+
+求める人物像
+
+AI×デザインで新しい体験のあり方を追求し、成長したい方
+プロダクトのみならず、サービス(ビジネスのあり方)も含めたトータルの体験価値デザインに関心が高い方
+デザインリサーチ・UXリサーチ/アートディレション/インタラクションデザインに興味関心が高い方
+他部署との協働を通じながらプロジェクトを推進するオープンマインドをお持ちの方","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/exawizards/exawizards-ui-1qgg0k","","UI Designer","ExaWizards","Tokyo, Tokyo, Japan","2026-01-19","","","","","","","","","","","","当ポジションについて
+
+職務内容
+
+新規AIプロダクトや機能開発にあたってのプロダクトデザインがミッションです。
+プロダクト/サービスの顧客価値、ブランド価値の向上、マーケティング、コミュニケーションデザインなど、幅広い対応で継続的に社会課題解決へアプローチし続けます。
+
+具体的業務は下記を想定しています。
+
+インタラクションデザイン、UIデザイン
+仮説検証のためのプロトタイピング
+
+その他、可能であれば・状況に応じて下記の業務もご担当いただくことがあります。
+
+社会課題解決にむけた顧客理解、カスタマージャーニー検討、UX方針定義
+プロダクト設計・情報設計(オブジェクト定義)
+グラフィックデザイン、ガイドライン策定などのビジュアルデザイン
+
+ 
+
+必須要件
+
+社会課題解決への意識、価値創出へ携わりたい方
+WEBサービス、アプリUI設計の経験がある方
+UIデザインについての基礎をお持ちの方（マテリアルデザイン、iOSヒューマンインターフェイスなど）
+HTML5、CSS3などのマークアップ知識
+AI×デザインで新しい体験のあり方を追求し、成長したい方
+プロダクトのみならず、サービス(ビジネスのあり方)も含めたトータルの体験価値デザインに関心が高い方
+ユーザ目線に立ったプロダクト・サービス設計の経験をお持ちの方
+デザインリサーチ・UXリサーチ/アートディレション/インタラクションデザインに興味関心が高い方
+
+ 
+
+歓迎要件
+
+Figmaなどプロトタイピングツールを使用した開発経験
+モーションデザインの経験新規事業の立ち上げ、グロース経験ビジネス向けプロダクトのデザイン経験
+大規模サービスの継続的なグロース経験
+プロジェクトマネジメント経験
+UXリサーチの実施経験、UXリサーチャーとの協働経験インタビューなどで得た定性データや、解析ツールを用いた定量データに基づいたプロダクト改善経験
+デザインディレクション・クオリティコントロール経験を活用した新しい体験のあり方を追求し、成長したい方
+
+ 
+
+選考プロセス
+
+書類選考→1次面接(デザインチーム)→最終面接(デザインチーム・採用責任者)","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/tektome/tektome-senior-software-engineer-c-net-yeotnu","","Senior Software Engineer (C# .NET)","Tektome","Tokyo, Tokyo, Japan","2026-01-16","","","","","","","","","","","","About Us 
+
+At Tektome, we're at the forefront of technological innovation for the AEC industry. Our commitment is to drive excellence, push technological boundaries, and transform the AEC as a whole.
+
+We are a spin out of one of the first AI companies in Japan, Incubit. We're looking for dedicated professionals who share our passion and ambition. If you're a developer hungry for challenges and eager to be part of a pioneering tech firm, Tektome is where you belong.
+
+ 
+
+Role
+
+As a Senior Software Engineer you will be instrumental in designing, developing, and maintaining high-performance, scalable, and reliable BIM systems. This role combines hands-on development with the strategic planning and team-building necessary to execute the company's technical roadmap.
+
+We highly prize engineers who have the ability to build backend systems that combine complex and innovative use of different databases and their structures to achieve a unified ingestion, storage and compute layer for AEC type of data (3D geometry, rasta type data etc) such that AI systems can leverage it.
+
+ 
+
+Responsibilities
+
+Design, develop, and maintain scalable, high-performance BIM systems
+Collaborate with the product engineering team, product managers, and other stakeholders to define and deliver project requirements
+Develop APIs and services to enable seamless integration of AI functionalities into our products
+Contribute to the design and review of system architecture, ensuring a balance between performance and cost
+Prototype new innovative solutions that leverage different technologies to achieve the goal of a unified data later for AEC data
+Implement and ensure our monitoring solutions are ensuring robust metrics
+
+ 
+
+Must-Have Qualifications
+
+Bachelor’s degree in Computer Science, Engineering, or a related field
+Excellent problem-solving skills and attention to detail
+5+ years of experience in software development
+Minimum of 1+ years in web development
+Expertise in C#, C++, .NET
+Strong understanding of cloud services and architecture
+Proficiency in working with SQL (Postgres) and in-memory databases (Redis)
+Proficiency with containerization and orchestration technologies (Docker, Kubernetes)
+Solid understanding of SOLID principles, design patterns, and best practices
+
+ 
+
+Nice-to-Have Skills
+
+Familiarity with message brokers (e.g., Kafka, RabbitMQ) and event-driven architecture
+Knowledge of LLM services for building integrated architectures
+Familiarity with DevOps practices and tools (CI/CD pipelines, monitoring, logging)
+
+ 
+
+What We Offer
+
+Relocation Package
+Competitive salary, benefits etc.
+Opportunity to work on cutting-edge technologies
+Collaborative and inclusive work environment
+Personal growth and learning opportunities.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/tektome/tektome-senior-software-engineer-mmh3au","","Senior Software Engineer (Python/Django)","Tektome","Tokyo, Tokyo, Japan","2026-01-16","","","","","","","","","","","","About Us 
+
+At Tektome, we're at the forefront of technological innovation for the AEC industry. Our commitment is to drive excellence, push technological boundaries, and transform the AEC as a whole.
+
+We are a spin out of one of the first AI companies in Japan, Incubit. We're looking for dedicated professionals who share our passion and ambition. If you're a developer hungry for challenges and eager to be part of a pioneering tech firm, Tektome is where you belong.
+
+ 
+
+Role
+
+As a Software Engineer specializing in Backend development, you will be instrumental in designing, developing, and maintaining high-performance, scalable, and reliable backend systems. This role combines hands-on development with the strategic planning and team-building necessary to execute the company's technical roadmap. We highly prize engineers who have the ability to build backend systems that combine complex and innovative use of different databases and their structures to achieve a unified ingestion, storage and compute layer for AEC type of data (3D geometry, rasta type data etc) such that AI systems can leverage it.
+
+ 
+
+Responsibilities
+
+Design, develop, and maintain scalable, high-performance backend systems
+Collaborate with the product engineering team, product managers, and other stakeholders to define and deliver project requirements
+Work with Cloud PaaS to design, develop and scale our products
+Develop APIs and services to enable seamless integration of AI functionalities into our products
+Contribute to the design and review of system architecture, ensuring a balance between performance and cost
+Prototype new innovative solutions that leverage different backend technologies to achieve the goal of a unified data later for AEC data
+Implement and ensure our monitoring solutions are ensuring robust metrics 
+
+ 
+
+Must-Have Qualifications
+
+Bachelor’s degree in Computer Science, Engineering, or a related field
+5+ years of experience in backend development
+Minimum of 2+ years with cloud based services
+Expertise in python, and ideally experience with Django framework
+Strong understanding of cloud services and architecture
+Proficiency in working with SQL (Postgres), NoSQL, Search(Elastic) and in-memory databases (Redis)
+Proficiency with containerization and orchestration technologies (Docker, Kubernetes)
+Excellent problem-solving skills and attention to detail
+Solid understanding of software development principles, design patterns, and best practices
+
+ 
+
+Nice-to-Have Skills
+
+Familiarity with Django with Django Ninja, Celery, FastAPI, Pydantic
+Practical experience with graph databases and technologies (e.g., Neo4j etc)
+Familiarity with message brokers (e.g., Kafka, RabbitMQ) and event-driven architecture
+Knowledge of LLM services for building integrated architectures
+Familiarity with TypeScript, React, NextJS V13+, Zod, Tailwind, React Hook Form
+Experience and expertise in one or more of the following languages GO, Rust, etc
+Familiarity with DevOps practices and tools (CI/CD pipelines, monitoring, logging)
+
+ 
+
+What We Offer
+
+Relocation Package
+Competitive salary, benefits etc.
+Opportunity to work on cutting-edge technologies
+Collaborative and inclusive work environment
+Personal growth and learning opportunities.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/axelspace/axelspace-software-engineer---japandev-iyrajn","","Software Engineer","Axelspace","Tokyo, Tokyo, Japan","2026-01-16","","","","","","","","","","","","Company Introduction
+
+Since our founding in 2008, Axelspace has been driven by the vision “Space within Your Reach.” We have continuously refined our unique micro-satellite technology with the goal of democratizing space technology to a wider population across the globe.
+
+AxelGlobe started in 2019 to provide a new Earth observation infrastructure by launching multiple micro-satellites for its higher data frequency. In addition to a satellite launched in 2019, we have successfully launched Japan’s first four mass-produced satellites in 2021. We are currently operating a constellation of five Earth observation satellites, capturing images with a 55 km swath every 2 to 3 days, and providing data and solutions.
+
+Building on our experience with our dedicated satellite business, we launched AxelLiner in 2022 to provide a one-stop service for satellite development and operation, helping customers quickly actualize their satellite business. In 2024, we launched our first demonstration satellite, “PYXIS,” bringing our total number of developed and operated satellites to 11.
+
+Additionally, we received the highest award, the Minister of Economy, Trade and Industry Award at the 22nd JAPAN VENTURE AWARDS in 2022, and was selected as part of “Technology Fast 50 2023 Japan” in 2023.
+
+As the world faces pivotal stages in democratizing satellite development and satellite imagery use, we are actively looking for talented individuals who can enjoy the challenges to make a global impact with micro-satellite technology. Hit that apply button and let’s make our vision come true together!
+
+ 
+
+Job Description
+
+About the Role
+
+We are looking for a Software Engineer (Database) who can manage and continuously improve the Ground Systems that support our satellite constellations, as well as the database infrastructure behind them. This role requires solid knowledge of database operations and administration, query languages, ORM frameworks, database migrations, and CI/CD.
+
+As a member of this team, you will support the development of the ground system for satellites, including communication with satellites, scheduling of satellite operations, and related applications. The level of autonomy and responsibility you are given will grow in line with your experience and track record.
+
+As an Software Engineer (Database), you will be responsible for managing mission-critical databases, implementing automated monitoring and testing, tuning performance, and providing internal training. You will work closely with the ground system engineering team and the cloud team to drive the adoption of best practices and improve operational efficiency. This is a hands-on, cross-functional role that offers significant ownership and architectural influence.
+
+ 
+
+Job Responsibilities
+
+Database Operations
+Administer, monitor, and optimize databases that support multiple satellite constellations, both existing and in development.
+
+Automation and Monitoring
+Develop tools and dashboards to automate operations, monitor performance, and proactively detect issues and weaknesses in the infrastructure.
+
+Testing and Validation
+Work with the engineering team to design and implement testing strategies that ensure the reliability, performance, and consistency of the databases.
+
+System Architecture
+Contribute to the overall system architecture around the databases, including data flows, schema design, and integration with other components.
+
+Environment Management
+Collaborate with the cloud infrastructure team to maintain robust development and production environments and ensure data integrity.
+
+Internal Enablement
+Provide documentation, guidelines, and tooling so that engineers can use the databases sustainably and efficiently.
+
+ 
+
+Mandatory Requirements
+
+Proficiency with relational, time-series, and NoSQL databases (e.g., PostgreSQL, MySQL, TimescaleDB, MongoDB, DynamoDB).
+Strong command of SQL, with experience in schema design and query optimization.
+Experience with at least one of the following: CI/CD pipelines, unit testing, or observability tools (e.g., Grafana, Datadog, Prometheus).
+Proficiency in at least one programming language (e.g., Python, Go) for scripting and automation.
+Strong communication skills and a collaborative, proactive approach to problem-solving.
+
+ 
+
+Favorable Skill set / Experiences
+
+Japanese language proficiency sufficient to discuss software development and technical topics.
+Hands-on experience operating cloud-based (AWS) environments in both development and production.
+Experience with ORM frameworks (e.g., SQLAlchemy, Diesel, Entity) and data modeling tools.
+Experience in database reliability, predictability, and automation.
+Experience with database performance monitoring and query optimization.
+Experience building tools for database observability and testing.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-technical-program-manager-distributed-systems-fpbepf","","Technical Program Manager, Distributed Systems","Rapyuta Robotics","Tokyo, Tokyo, Japan","2026-01-16","","","","","","","","","","","","Rapyuta Robotics builds connected, intelligent robots that make tough, repetitive work safer and more productive. We lead Japan’s pick-assist AMR market and recently launched rapyuta ASRS, a next-gen Autonomous Storage & Retrieval System you’ll partner on closely. Backed by award-winning technology, a strong customer base, and Goldman Sachs, we’re scaling the future of robotics.
+
+ 
+
+Role overview
+
+You will drive cross-functional execution across distributed, multi-robot systems—aligning software, robotics systems, and product stakeholders to deliver reliable, high-impact features at pace. You’ll own the backlog, orchestrate planning and reviews, and create the conditions for teams to do their best work.
+
+ 
+
+What you’ll do
+
+Lead a cross-functional group of robotics systems and software engineers working on multi-robot control, coordination, and related distributed systems domains.
+Align roadmaps with product objectives by partnering daily with product managers, logistics consultants, business analysts, and operations research scientists.
+Own the group backlog: write and refine user stories, prioritize for value, and maintain crisp, testable acceptance criteria.
+Run effective cadence: planning, iteration goal-setting, reviews/demos, and retrospectives that drive measurable improvement.
+Clarify requirements and unblock execution through tight feedback loops with engineering; validate outcomes against business objectives.
+Champion continuous improvement in processes, quality, reliability, and team learning.
+
+ 
+
+Mindset we value
+
+Purpose-driven, with a strong connection to our mission of empowering lives with connected machines.
+Values-led; you model empathy, openness, simplicity, fearlessness, drive, and first-principles thinking in decisions and interactions.
+Calm, service-oriented leadership—steady under pressure, collaborative, and focused on elevating the team.
+
+ 
+
+Requirements
+
+Minimum qualifications
+
+Advanced degree in Mathematics, Operations Research, Computer Science, or equivalent practical experience.
+2+ years leading technical programs or projects in a commercial environment (software, robotics, or distributed systems).
+Demonstrated skill in backlog ownership, cross-functional facilitation, and outcome-oriented delivery.
+Proficiency in English (spoken and written).
+Ability and willingness to work from our Tokyo office; visa sponsorship available.
+
+ 
+
+Nice to have
+
+Background in distributed systems, realtime coordination, or large-scale orchestration (e.g., multi-agent systems, ROS2, event-driven services).
+Experience in warehousing, logistics, or industrial automation.
+Data-informed decision-making (experiments, telemetry, reliability metrics).","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-security-specialist-ciso-office-tokyojapandev-o27pc7","","Security Specialist (CISO Office - Tokyo)","Money Forward","Tokyo, Tokyo, Japan","2026-01-16","","direct_data","yearly",8000000.0,17000000.0,"JPY","","","","","","Overview
+
+At Money Forward, we develop a wide range of popular services, including our automated personal financial management tool ""Money Forward ME"" and the ""Money Forward Cloud"" suite for businesses. Our ecosystem is powered by advanced technologies such as ""Account Aggregation"" and our single sign-on system, ""Money Forward ID.""
+
+As our services handle sensitive financial data, we maintain the highest standards of security. The CISO Office works closely with our business units to ensure and enhance the security of our products. This includes the governance and visualization of major cloud platforms like AWS and GCP, as well as the design, implementation, and operation of common security features such as WAF. Additionally, the CISO Office is responsible for strengthening the security of our internal information systems.
+
+To provide a safe and secure experience for even more users, we are looking for a Security Specialist to join our team.
+
+ 
+
+About the CISO Office
+
+Our mission is to ""Maximize the value delivered to our customers through security."" We define and create the ideal security state for the entire Money Forward Group.
+
+Preventing service downtime and information leakage is, of course, critical. However, that is only one part of what we value. Excessive security measures can slow down development, potentially reducing or delaying the value we provide to our customers. As security professionals, we constantly ask ourselves how we can maximize customer value and implement the most optimized security solutions to achieve that goal.
+
+ 
+
+Security Principles
+
+Embedded security in business strategy: We design security measures in alignment with business strategies, taking into account the current business phase, costs, and potential loss in the event of a risk.
+Advanced balancing between security and experience: Over-securing can compromise user convenience. We assess risks to achieve a sophisticated balance between convenience and security, actively promoting automation and autonomous systems.
+Autonomous and scalable organization of security: Each development department must be able to build secure services autonomously. The CISO Office focuses on building the frameworks and support necessary to enable this autonomy.
+
+ 
+
+Responsibilities and Duties
+
+In this position, you will leverage your knowledge and experience in coding and infrastructure to maintain and enhance the security of Money Forward in collaboration with developers and IT infrastructure teams. Key initiatives include:
+
+Establishment of security guardrails for AWS, Azure, and GCP environments.
+In-house security consulting: Providing technical advice and architecture reviews for our developers.
+Vulnerability assessments and penetration testing: Performing or supporting security evaluations.
+Vulnerability intelligence: Collecting and verifying vulnerability information, including OSINT.
+Security tool development: Developing tools and scripts to automate or enhance security.
+Framework implementation: Implementing and deploying security frameworks such as NIST CSF and CIS Controls.
+DevSecOps implementation: Integrating security into modern development workflows (K8s, Docker, CI/CD).
+
+ 
+
+Required Skills and Experience
+
+Foundational understanding of computer science (networking, OS, data structures, and cryptography).
+Experience in software development with at least one programming language, or hands-on experience practicing Security by Design.
+Business-level English communication skills.
+Knowledge or experience in any of the following areas:
+Vulnerability assessment or Penetration testing
+Forensics, malware analysis, or incident response
+Cloud security or Architecture reviews
+Building and operating DevSecOps workflows
+Implementation of security solutions (e.g., WAF, IDS/IPS, SIEM)
+
+ 
+
+Preferred Skills and Experience
+
+Business-level Japanese communication skills.
+Experience participating in CTFs, bug hunting, or obtaining CVEs.
+Relevant certifications such as CISSP, CISM, OSCP, or GCIH.
+Deep understanding of Authentication and Authorization (e.g., OIDC, OAuth).
+Experience in security-related operations within the Financial or Fintech industry.
+Experience in AI development or using AI tools to improve development processes.
+
+ 
+
+Language Requirements
+
+English: Business level
+
+ 
+
+Work Environment
+
+At Money Forward, we provide an environment where we can create world-class services together, and we are looking forward to welcoming you.
+
+Provided PC Specs: Latest CPU-equipped PC (MacOS or Windows). Custom-made PCs tailored to business requirements are possible.
+Systems to Enhance the Development Environment: Peripheral devices (displays, mice, keyboards) can be purchased as office supplies.
+Money Forward Library: A library system where you can freely borrow or request books at the company's expense.
+Referral Driven: Coverage for recruitment meals and a referral reward system.
+Conference Participation Support: Partial coverage for domestic and international conferences like RubyKaigi and Google I/O.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/mujin/mujin-senior-software-engineer-wes--fm-uhpwd5","","Senior Software Engineer (C++ & Python)","Mujin","Tokyo, Tokyo, Japan","2026-01-15","","direct_data","yearly",8000000.0,13000000.0,"JPY","","","","","","Mujin develops ""MujinController,"" a platform that leverages a real-time digital twin and advanced robotics to seamlessly connect industrial equipment for fully autonomous operations.
+
+Driven by our unique approach towards Robotics Machine Intelligence (MujinMI), we offer a robust suite of perception, planning, and control algorithms, enabling autonomous robot movement and transforming automation in challenging industrial environments.
+
+Trusted by globally recognized companies, our cutting-edge technology enhances efficiency and innovation across the supply chain. With headquarters in Japan and expanding offices in China, the US, and Europe, Mujin offers a dynamic, fast-growing environment where your work directly shapes the future of automation.
+
+ 
+
+Team Introduction
+
+As a Software Engineer on Mujin's Warehouse Execution System (WES) & Fleet Management (FM) team, you will play a key role in designing, developing, and deploying Mujin’s advanced warehouse execution and fleet management systems. Our team works at the intersection of robotics, automation, and software engineering to optimize warehouse operations and ensure seamless orchestration of robots and industrial equipment.
+
+ 
+
+Responsibilities
+
+ Design, develop, and maintain WES software to manage warehouse inventory, scheduling, and order fulfillment.
+ Implement and integrate drivers for industrial hardware, including robots, conveyors, 3D cameras, sensors, PLCs, AGVs, ASRS, and WMS.
+ Work with real-time operating systems (RTOS) and network protocols to ensure system efficiency and low-latency communication.
+ Ensure system security by implementing robust encryption and access control mechanisms.
+ Design and optimize high-performance backend services and APIs for seamless integration with third-party warehouse software.
+ Develop and enhance scalable HTTP servers to handle large-scale warehouse operations.
+ Collaborate closely with backend and frontend teams to improve system usability and user experience.
+ Maintain code quality and testing frameworks to ensure high system reliability.
+ Occasionally travel to customer sites, both domestically and internationally, for deployment and support.
+ Tackle complex technical challenges in a fast-paced environment.
+ Take on additional tasks related to the above responsibilities as needed.
+
+ 
+
+Minimum Requirements
+
+BSc degree or higher in Computer Science, Computer Engineering, or related fields, or equivalent academic or work experience
+Excellent experience and high proficiency in C++ and Python
+Advanced Linux user, with excellent experience in Linux software development
+Expert in Linux internals, networking stack, network protocols, routing, async I/O, Docker and its internal workings
+Experience in full-stack development
+Technical communication skills in English
+
+ 
+
+Preferable Requirements
+
+Expert in real-time OS, Linux kernel module development, EtherCAT
+Experience in robotic software development
+
+ 
+
+Attractiveness
+
+We are looking for those who are prepared to dedicate themselves to facing big challenges, work proactively and independently, and take ownership when working with members across the teams!
+You will get your “hands dirty” working on all aspects of the industrial robot controller, not being confined to a specific component in the system. The work is challenging, mostly like something that you have never done before, requiring extensive research.
+Since the work is widely applicable, it will affect everyone in the engineering team, making the WES & FM team the likely “go-to” people. You will have chances to travel and work onsite to integrate cutting-edge industrial systems such as AGVs and ASRS.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/wevnal/wevnal-engrdevopsbotchan-core-platform-psfvwk","","DevOps Engineer (BOTCHAN共通 Core Platform)","wevnal","Tokyo, Tokyo, Japan","2026-01-14","","direct_data","yearly",6000000.0,12000000.0,"JPY","","","","","","事業概要
+
+「人とテクノロジーで情報を紡ぎ、日常にワクワクを」というミッションを掲げ、BtoCビジネスを展開する企業様に対し、チャットフォーム（＝会話型フォーム）を使用してマーケティング活動の支援をしている会社です。
+
+マーケティングプロセスごとに、チャットフォームを使用した消費者との最適なコミュニケーションを設計・提案をしています。これにより、顧客のLTV（＝ライフタイムバリュー）の最大化の支援に取り組んでいます。
+
+ 
+
+仕事内容
+
+募集背景
+
+当社では現在、全プロダクトを支える基盤システムの安定性・信頼性向上、そして開発スピードの最大化を少数精鋭で推進しています。長年の開発で積み重ねたシステムの技術的改善や、CI/CDパイプラインの高度化、運用プロセス全体の自動化、セキュリティ強化といった全社横断の課題に取り組むため、新たにDevOpsエンジニアを募集します。
+
+具体的な業務内容
+
+チケット駆動での開発・運用タスクの実行、自動化の推進
+事業責任者、PdM、CSなどとの連携・調整
+監視体制の整備や運用フロー改善によるアジリティ向上
+生成AIを活用した開発効率化の推進
+
+ミッション
+
+既存システムをモダンなインフラ・アーキテクチャへ進化させ、持続的に成長できる基盤をつくること
+プロダクトを迅速かつ柔軟にアップデートできる体制を構築し、継続的にユーザーへ価値を届けること
+
+ 
+
+本ポジションの魅力
+
+全プロダクトが使用する共通基盤を担当するため、事業グロースの根幹を支える経験が得られる
+生成AI（Devin, GitHub Copilot等）を活用した最先端の開発環境を経験できる
+経営層やCTO直下で、技術選定から体制構築まで大きな裁量を持てる
+フルリモート・フレックス制により、自律的かつ柔軟な働き方が可能
+
+ 
+
+開発環境
+
+バックエンド: JavaScript (Node.js), TypeScript (Nest.js), PHP (Laravel)
+フロントエンド: TypeScript (React, Next.js)
+AI / インフラ: Python / Azure
+Database / 分析: MongoDB, AtlasDB, BigQuery
+CI / モニタリング: GitHub Actions, Datadog, Sentry, New Relic
+
+ 
+
+必須要件
+
+経験
+
+Webサービスのバックエンド開発経験
+静的型付け言語（Java / Go / TypeScript など）：1年以上
+または動的型付け言語（PHP / Ruby / Python など）：3年以上
+以下いずれかの経験（1年以上）
+CI/CD導入やテスト自動化など、開発サイクル効率化に関する企画・推進経験
+エンジニアリング観点を踏まえた社内外ステークホルダーとの調整・折衝経験
+ヘルプデスク／テクニカルサポート／サポートエンジニアの経験
+
+スキル・知識
+
+日本語能力試験N1レベル相当の語学力
+基本情報処理技術者資格、または同等の知識
+プロジェクトマネジメントおよびオブザーバビリティに関する知識
+
+ 
+
+歓迎要件
+
+チームをリードした経験
+Kubernetes（AKS等）を活用したインフラ構築・運用経験
+アジャイル/スクラムでの開発経験
+生成AIを活用した開発経験
+高トラフィック・高負荷システムや大規模な技術的負債の解消経験
+
+ 
+
+エンジニア向けの福利厚生
+
+入社時にWindsurf, Cursor, GitHub Copilotより好きなAI IDEを選択可能
+Devinを毎月3,000 ACUsまで使い放題
+Anthropic, OpenAI, Google GeminiのAPIキーを一定額まで自由に利用可能
+リモートHQによるリモートワーク環境の充実支援
+月1万円までの書籍購入手当、エンジニア資格取得手当
+
+ 
+
+勤務条件
+
+雇用形態: 正社員（試用期間6か月）
+給与: 年収 600万円 〜 1200万円（昇給年2回 / 評価年4回）
+勤務地: 完全リモートOK（日本国内）/ オフィス：渋谷区恵比寿
+勤務時間: フレックスタイム制（コアタイム 11:30～15:30）
+休日: 完全週休2日制（土日祝）、年末年始、産休・育休（取得実績あり）","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/wevnal/wevnal-engrbotchan-efopayment-ml2x7z","","Backend Engineer (BOTCHAN EFO Payment/Member)","wevnal","Tokyo, Tokyo, Japan","2026-01-14","","direct_data","yearly",4200000.0,8000000.0,"JPY","","","","","","事業概要
+
+「人とテクノロジーで情報を紡ぎ、日常にワクワクを」というミッションを掲げ、BtoCビジネスを展開する企業様に対し、チャットフォーム（＝会話型フォーム）を使用してマーケティング活動の支援をしている会社です。
+
+マーケティングプロセスごとに、チャットフォームを使用した消費者との最適なコミュニケーションを設計・提案しています。これにより、商品の継続的な利用や利用頻度の向上を促し、顧客のLTV（ライフタイムバリュー）の最大化を支援しています。
+
+ 
+
+仕事内容
+
+募集背景
+
+弊社ではオフショアからの内製化を推進し、エンジニア組織を急速に拡大してきました。現在、更なる開発速度と品質向上のため生成AIを活用した「AI駆動開発」を目標としています。既存プロダクトの開発・運用を継続しつつ、AIの活用を積極的に推進し、チームとしての生産性向上を加速させ事業成長を牽引いただける方を募集いたします。
+
+具体的な業務内容
+
+自社プロダクト「BOTCHAN」の開発・運用チケットの業務遂行
+ステークホルダーの期待値やスケジュールの調整
+開発フローの継続的な改善に対する現場目線からのフィードバックやアイデアの提言
+
+ミッション
+
+安定的な既存プロダクトの開発・運用の継続
+AI駆動開発フローの遵守
+
+ 
+
+本ポジションの魅力
+
+開発生産性が数字としてフィードバックされるため、事業成長への貢献を実感できる
+プロダクト思考やオーナーシップ精神を育むことができる
+最先端の生成AIを活用した開発プロセスを経験できる
+
+ 
+
+開発環境
+
+バックエンド: TypeScript (Nest.js), Node.js, PHP (Laravel)
+フロントエンド: TypeScript (React, Next.js)
+AI / インフラ: Python / Azure
+Database / 分析: MongoDB, AtlasDB, BigQuery, Google Cloud Storage
+CI / モニタリング: GitHub Actions, Datadog, Sentry, New Relic
+コミュニケーション / 管理: Slack, Notion, Jira, Backlog, Figma, Zoom
+
+ 
+
+エンジニア向けの福利厚生
+
+MicrosoftのEnterprise Skills Initiativeを通じてAzure/Officeのトレーニング受講可能
+入社時にWindsurf, Cursor, GitHub Copilotより好きなAI IDEを選択可能
+Devinを毎月3,000 ACUsまで使い放題（Cognition AI社とのホットラインあり）
+Anthropic, OpenAI, Google GeminiのAPIキーを一定金額まで自由利用可能
+リモートHQによるリモートワーク環境の充実支援
+月1万円までの書籍購入手当、エンジニア系資格の各種取得手当
+
+ 
+
+必須要件
+
+Webサービスのバックエンド開発経験
+静的型付け言語（例：Java、Go、TypeScript）：1年以上
+または動的型付け言語（例：PHP、Ruby、Python）：3年以上
+クラウドサービス（例：Azure、AWS、GCP）を活用したインフラ運用・保守経験：1年以上
+ビジネスサイドとのコミュニケーション、折衝経験
+日本語能力試験N1レベル相当の語学力、論理的思考力、テクニカルライティングスキル
+
+ 
+
+勤務条件
+
+雇用形態: 正社員（試用期間6か月）
+給与: 年収 420万円 〜 800万円（昇給年2回 / 評価年4回）
+勤務地: 完全リモートOK（日本国内）/ オフィス：渋谷区恵比寿
+勤務時間: フレックスタイム制（コアタイム 11:30～15:30）
+休日: 完全週休2日制（土日祝）、年末年始休暇、産休・育休（実績あり）","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/wevnal/wevnal-engrvpoe-s0s3nw","","VP of Engineering","wevnal","Tokyo, Tokyo, Japan","2026-01-14","","direct_data","yearly",10000000.0,15000000.0,"JPY","","","","","","事業概要
+
+「人とテクノロジーで情報を紡ぎ、日常にワクワクを」というミッションを掲げ、BtoCビジネスを展開する企業様に対し、チャットフォーム（＝会話型フォーム）を使用してマーケティング活動の支援をしている会社です。
+
+マーケティングプロセスごとに消費者との最適なコミュニケーションを設計・提案し、顧客のLTV（ライフタイムバリュー）の最大化を支援しています。これにより、消費者への良質なオンライン接客体験と、企業のブランド価値最大化の双方に貢献し続けています。
+
+ 
+
+仕事内容
+
+募集背景
+
+開発チームの内製化に伴い、これまでCTOが担っていたエンジニア組織マネジメントを新規の担当者にお任せする予定です。CTOが技術戦略やプロダクトに注力できる体制を築きつつ、VPoEとして組織運営・採用・開発体制の強化をリードしていただきます。
+
+具体的な業務内容
+
+1. エンジニア組織のマネジメント
+
+組織のチームビルディング、カルチャー醸成。
+採用戦略の策定・推進、および採用広報のリード。
+
+2. 開発プロセスと体制の構築
+
+AI活用を推進した開発フローの整備と改善。
+品質保証、リリース体制、技術的負債管理の仕組み化。
+組織の成長に応じたスケーラブルな体制づくり。
+
+3. 経営と開発チームの橋渡し
+
+経営戦略の技術組織への翻訳と浸透。
+技術投資の優先順位付けと経営層への説明。
+他部門との連携を通じた全社協働のリード。
+
+ミッション
+
+拡大フェーズにある開発組織をリードし、採用・育成・体制構築を推進することで組織を成長させ、技術面から事業成長を加速させること。
+
+ 
+
+本ポジションの魅力
+
+AI駆動開発を前提とした体制づくりを、ゼロベースに近い環境から推進できる。
+海外エンジニアを含む多様なバックグラウンドを持つチームのマネジメントが可能。
+完全内製化された迅速かつ柔軟な開発体制の中で、大きな裁量を持って組織を形作れる。
+
+ 
+
+開発環境
+
+バックエンド: TypeScript (Node.js, Nest.js), PHP (Laravel)
+フロントエンド: TypeScript (React, Next.js)
+AI / インフラ: Python / Azure
+Database: MongoDB, AtlasDB, BigQuery
+管理ツール: Jira, Backlog, Slack, Notion
+
+ 
+
+必須要件
+
+エンジニア組織のマネジメント経験（20名以上）。
+Webアプリケーションの開発経験（5年以上）。
+日本語能力試験N1レベル相当の語学力。
+システム設計・アーキテクチャ設計能力、およびプロジェクトマネジメントスキル。
+
+ 
+
+歓迎要件
+
+エンジニア組織の立ち上げ経験。
+事業会社におけるCTOまたはVPoE経験。
+100名以下のエンジニア組織のマネジメント経験。
+エンジニア採用および採用広報の経験。
+
+ 
+
+勤務条件
+
+雇用形態: 正社員（試用期間6か月）。
+給与: 年収 1000万円 〜 1500万円（昇給年2回 / 評価年4回）。
+勤務地: 東京都渋谷区恵比寿（一部リモート可 / 日本国内のみ）。
+勤務時間: フレックスタイム制（コアタイム 11:30～15:30）。
+休日: 完全週休2日制（土日祝）、年末年始休暇、産休・育休（実績あり）。","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/wevnal/wevnal-engrbotchan-i5c2rt","","Backend Engineer (BOTCHAN/Open Position)","wevnal","Tokyo, Tokyo, Japan","2026-01-14","","direct_data","yearly",4200000.0,12000000.0,"JPY","","","","","","事業概要
+
+「人とテクノロジーで情報を紡ぎ、日常にワクワクを」というミッションを掲げ、BtoCビジネスを展開する企業様に対し、チャットフォーム（＝会話型フォーム）を使用してマーケティング活動の支援をしている会社です。
+
+マーケティングプロセスごとに消費者との最適なコミュニケーションを設計・提案し、商品の継続利用や利用頻度の向上を促すことで、顧客のLTV（ライフタイムバリュー）の最大化を支援しています。これにより、消費者への良質なオンライン接客体験と、企業のブランド価値最大化の双方に貢献し続けています。
+
+ 
+
+仕事内容
+
+募集背景
+
+wevnalでは自社プロダクトを中心に事業成長を加速させる仲間を募集しています。基盤システムや開発プロセスの改善にとどまらず、プロダクトの進化やクライアントの課題解決にも直接つながる領域で活躍いただけるポジションです。「wevnalに興味はあるけれど、自分に合う職種がわからない」という方も、まずはこちらからご応募ください。最適な役割を一緒に探していきましょう。
+
+想定される職務内容
+
+エンジニアリングのスペシャリストやマネージャーとして、以下のいずれかもしくは複数を担当いただきます。
+
+バックエンドエンジニア: 「BOTCHAN」や新規「AIエージェント」のAPI設計・開発、生成AIを活用した効率化施策（コード補完・テスト自動生成）の実装、AI技術の調査・検証。
+DevOpsエンジニア: サービス基盤の安定性と速度の両立。CI/CDパイプラインや監視体制の整備、セキュリティ強化、システム信頼性向上のための改善提案・実行。
+
+ 
+
+本ポジションの魅力
+
+スモールチームで包括的なプロダクト開発・運用経験を得ることができる。
+コーディングだけでなく技術選定やアーキテクチャ改善にも主体的に関与できる。
+AI駆動開発のプロセス構築と改善に携わることができる。
+
+ 
+
+開発環境
+
+バックエンド: TypeScript (Nest.js), Node.js, PHP (Laravel)
+フロントエンド: TypeScript (React, Next.js)
+AI / インフラ: Python / Azure
+Database / 分析: MongoDB, AtlasDB, BigQuery
+CI / モニタリング: GitHub Actions, Datadog, Sentry, New Relic
+管理ツール: JIRA, Backlog, Slack, Notion
+
+ 
+
+エンジニア向けの福利厚生
+
+入社時にWindsurf, Cursor, GitHub Copilotより好きなAI IDEを選択可能
+Devinを毎月3,000 ACUsまで使い放題（Cognition AI社とのホットラインあり）
+Anthropic, OpenAI, Google GeminiのAPIキーを一定金額まで自由利用可能
+リモートHQによるリモートワーク環境の充実支援
+月1万円までの書籍購入手当、エンジニア系資格の各種取得手当
+
+ 
+
+必須要件
+
+同一サービスの運用/改善経験（1年以上）
+Webサービスのバックエンド開発経験
+静的型付け言語（例：Java、Go、TypeScript）：3年以上
+または動的型付け言語（例：PHP、Ruby、Python）：5年以上
+日本語能力試験N1レベル相当の語学力
+
+ 
+
+勤務条件
+
+雇用形態: 正社員（試用期間6か月）
+給与: 年収 420万円 〜 1200万円（昇給年2回 / 評価年4回）
+勤務地: 完全リモートOK（日本国内）/ オフィス：渋谷区恵比寿
+勤務時間: フレックスタイム制（コアタイム 11:30～15:30）
+休日: 完全週休2日制（土日祝）、年末年始休暇、産休・育休（実績あり）","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/wevnal/wevnal-engrphpada-2n94tk","","PHP Engineer (ADA/Tech Lead)","wevnal","Tokyo, Tokyo, Japan","2026-01-14","","direct_data","yearly",6000000.0,9000000.0,"JPY","","","","","","事業概要
+
+「人とテクノロジーで情報を紡ぎ、日常にワクワクを」というミッションを掲げ、BtoCビジネスを展開する企業様に対し、チャットフォーム（＝会話型フォーム）を使用してマーケティング活動の支援をしている会社です。
+
+マーケティングプロセスごとに消費者との最適なコミュニケーションを設計・提案し、顧客のLTV（ライフタイムバリュー）の最大化を支援しています。これにより、消費者への良質なオンライン接客体験と、企業のブランド価値最大化の双方に貢献し続けています。
+
+ 
+
+仕事内容
+
+募集背景
+
+これまでパートナー企業と協力してきたポップアップツールの開発を自社体制へ移行し、現在は基盤強化と機能拡張を進めるフェーズです。開発いただくツールは、Webサイト訪問者に最適なタイミングでメッセージを届け、『BOTCHAN』のチャットフォーム入力（申し込み・購入等）へ誘導する、事業成長に直結する重要な役割を担います。
+
+具体的な業務内容
+
+ビジネスサイドと議論を重ねながら、機能要件の定義や仕様策定をリード。
+合意した仕様に基づき、開発〜テスト〜リリースまでを一貫して推進。
+プロダクトの継続的な価値提供に向けたインフラ・コード・開発プロセスの改善。
+
+ミッション
+
+AIを活用した開発基盤を強化し、ビジネスサイドと並走しながら、高品質かつアジリティの高い機能提供を実現すること。
+
+ 
+
+本ポジションの魅力
+
+少数精鋭チームにて、企画から運用までプロダクトの全工程に主体的に関わることができる。
+コーディングのみならず、技術選定やアーキテクチャ改善など根幹の意思決定に携われる。
+ClaudeCodeやDevinなど、AIを活用した次世代の新しい開発プロセスの構築に挑戦できる。
+
+ 
+
+開発環境
+
+言語/フレームワーク: PHP (Laravel), JavaScript
+インフラ/DB: AWS, MySQL (Amazon Aurora)
+モニタリング/CI: Sentry, New Relic, GitHub Actions
+AIツール: ClaudeCode, Cursor, Devin
+管理/ツール: Jira, Backlog, Slack, Notion
+
+ 
+
+エンジニア向けの福利厚生
+
+入社時にWindsurf, Cursor, GitHub Copilotより好きなAI IDEを選択可能。
+Devinを毎月3,000 ACUsまで使い放題。
+Anthropic, OpenAI, Google GeminiのAPIキーを一定額まで自由利用可能。
+リモートHQによるリモートワーク環境の充実支援。
+月1万円までの書籍購入手当、エンジニア系資格取得手当。
+
+ 
+
+必須要件
+
+PHP × Laravel でのWebアプリケーション開発経験（2年以上）。
+Gitを用いたチームでの実務経験。
+日本語能力試験N1レベル相当の語学力。
+論理的思考力、およびテクニカルライティングスキル。
+
+ 
+
+勤務条件
+
+雇用形態: 正社員（試用期間6か月）。
+給与: 年収 600万円 〜 900万円（昇給年2回 / 評価年4回）。
+勤務地: 完全リモートOK（日本国内）/ オフィス：渋谷区恵比寿。
+勤務時間: フレックスタイム制（コアタイム 11:30～15:30）。
+休日: 完全週休2日制（土日祝）、年末年始休暇、産休・育休（実績あり）。","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/paypay/paypay-cloud-platform-engineer-co8h10","","Cloud Platform Engineer","PayPay","Remote, Remote, Japan","2026-01-14","","","","","","","","","","","","PayPay is looking for a Cloud Platform Engineer for PayPay's Cloud Based payment system. This role will be responsible for the engineering of Cloud Infrastructure Platforms to provide robust, reliable and cost-efficient Platform so that we can deliver the best experience for our growing customers base.
+
+ 
+
+Primary Responsibilities
+
+Architect and build a robust, scalable and stable infrastructure
+Architect and build Infrastructure that is easily maintainable during patching and upgrades without downtime
+Architect and build Infrastructure with AWS regional level failure tolerance
+Work together with our Security Engineers to provision a secure Infrastructure
+Automations for AWS Deployments to ensure fast delivery of Cloud Services to our developers
+Provide through Automations means for developers to easily deploy resources on AWS
+
+ 
+
+Tech Stack
+
+AWS:
+VPC, EC2, ECS, EKS, Lambda, Cloudfront, MWAA, RDS, ElastiCache, DynamoDB, Opensearch, S3, CloudWatch, Cognito, SQS, KMS, Secret Manager, KMS, MSK, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, CloudFormation and other services
+Terraform, Github Actions, Prometheus, Grafana, Atlantis, ArgoCD, OpenTelemetry
+
+ 
+
+Qualifications
+
+More than 8 years of technical experience in cloud-based infrastructure platforms
+Extensive technical hands-on experience with computing, storage, and analytical services on AWS
+Demonstrated skill in programming and scripting languages, including Python, Shell Scripting, Go, and Rust
+Experience with infrastructure as code (IAC) tools in AWS, such as Terraform, CloudFormation, and CDK
+Proficient in Linux internals and system administration
+Experience in production level infrastructure change management and releases for high traffic & business-critical systems
+Experience in Cloud infrastructure and platform systems availability, performance and cost management
+Strong understanding of cloud security best practices and payment industry compliance standards
+Ability to demonstrate a high degree of ownership in a production environment, including incident management and cross-team collaboration
+Experience with cloud services monitoring, detection, and response, as well as performance tuning and cost control
+Familiarity with cloud infrastructure service patching and upgrades
+Good understanding and experience with network especially on cloud platforms
+Experience in AI/ML infrastructure design and operations
+Excellent oral, written, and interpersonal communication skills
+Proficiency in either English or Japanese
+
+ 
+
+Preferred Qualifications
+
+Bachelor’s degree and above in a technology-related field
+Experience with other cloud service providers (e.g GCP, Azure)
+Experience with Kubernetes
+Experience with Event-Driven Architecture (Kafka preferred)
+Experience using and contributing to Open Source tools
+Experience in managing IT compliance and security risk
+Published papers / blogs / articles
+Relevant and verifiable certifications
+Bilingual in English and Japanese is nice to have, but not required
+JLPT Level 3 or above","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-engineering-manager-business-platform-development-division-tokyo-1mn6lm","","Engineering Manager (Business Platform Development Division)","Money Forward","Tokyo, Tokyo, Japan","2026-01-14","","direct_data","yearly",9000000.0,15000000.0,"JPY","","","","","","Overview
+
+At Money Forward Inc., we are dedicated to transforming financial services using advanced technology. With over 50 services for individuals and businesses, including popular products like Money Forward ME and Money Forward Cloud, we help make managing money easier.
+
+Within the Money Forward Business Segment (MFBS), our Business Platform Development (BPD) division builds the common foundations that unify these services and ensures their stable use across the company. We are responsible for shared microservices and backend systems that power workflows and platform functionality across Money Forward Cloud.
+
+We are looking for an Engineering Manager who can balance people leadership, delivery ownership, and technical direction. In this role, you will guide Agile execution, align stakeholders, and support engineers through coaching, feedback, and clear prioritization.
+
+ 
+
+Responsibilities and Duties
+
+Build and develop a high-performing engineering team by improving delivery quality and productivity through clear goals and strong collaboration.
+Own people management, including coaching, career development, performance evaluation, and hiring, within a global engineering organization.
+Take accountability for delivery and execution across projects in collaboration with Product Managers and Tech Leads.
+Guide Agile execution at the team level, ensuring planning and prioritization support predictable delivery.
+Act as a key communication bridge between engineering, product, and business teams.
+Support technical direction and quality by working closely with Tech Leads on design discussions and reviews.
+Monitor team health and delivery metrics using tools such as Jira to drive continuous improvement.
+
+ 
+
+Required Skills and Experience
+
+5+ years of professional experience as a software engineer, with sufficient technical depth to guide design discussions.
+Proven experience managing engineers (typically 5+), including coaching, performance evaluation, and hiring.
+Experience leading or managing development teams in an Agile environment.
+Experience collaborating with cross-functional stakeholders (PdMs, designers, business teams).
+Experience working with globally distributed or multinational engineering teams, including communication in English.
+Solid understanding of backend systems, software architecture, and modern web services.
+
+ 
+
+Preferred Skills and Experience
+
+Experience as a Tech Lead or EM in an organization of 10+ engineers.
+Experience designing, developing, or operating cloud-based systems and microservices.
+Familiarity with modern platform architectures, including distributed systems or event-driven designs.
+Experience improving services over a long lifecycle (modernization, refactoring, stability).
+Experience with AI-assisted development or productivity tools (e.g., AI coding assistants).
+
+ 
+
+Language Requirements
+
+English: Business level proficiency (TOEIC 700+ equivalent).
+Japanese: Not required, but nice to have.
+
+ 
+
+Technology Stack & Tools
+
+Languages: Go, Java
+Databases: MySQL, DynamoDB, Redis
+Infrastructure: AWS (EKS, RDS, S3, SQS, etc.), Kubernetes, Terraform, Docker, Kafka
+CI/CD & Monitoring: Argo CD, Circle CI, GitHub Actions, Datadog, Rollbar, Sentry
+AI Tools: Claude Code, Cursor, and other AI productivity tools
+
+ 
+
+Work Environment
+
+Provided PC Specs: Latest CPU-equipped PC (MacOS or Windows). Custom-made PCs tailored to business requirements are possible.
+Development Support: Peripherals (displays, mice, keyboards) can be purchased as office supplies.
+Money Forward Library: System to borrow or purchase technical/management books at company expense.
+Referral & Conferences: Referral reward system and partial support for domestic/international conferences (e.g., Google I/O).","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/wevnal/wevnal-engrbotchan-efopayment-serx8t","","Backend Engineer (BOTCHAN EFO Payment/Tech Lead)","wevnal","Tokyo, Tokyo, Japan","2026-01-13","","direct_data","yearly",6000000.0,12000000.0,"JPY","","","","","","事業概要
+
+「人とテクノロジーで情報を紡ぎ、日常にワクワクを」というミッションを掲げ、BtoCビジネスを展開する企業様に対し、チャットフォーム（＝会話型フォーム）を使用してマーケティング活動の支援をしている会社です。
+
+マーケティングプロセスごとに、チャットフォームを使用した消費者との最適なコミュニケーションを設計・提案しています。これにより、顧客のLTV（＝ライフタイムバリュー）の最大化の支援に取り組んでいます。
+
+ 
+
+仕事内容
+
+募集背景
+
+弊社ではオフショアからの内製化を推進し、エンジニア組織を急速に拡大してきました。現在、更なる開発速度と品質向上のため生成AIを活用した「AI駆動開発」を目標としています。既存プロダクトの開発・運用を継続しつつ、AIの活用を積極的に推進し、チームとしての生産性向上を加速させ事業成長を牽引いただける方を募集いたします。
+
+具体的な業務内容
+
+自社プロダクト「BOTCHAN」の開発・運用チケットの業務遂行
+ステークホルダー（事業責任者、PdM、CSなど）との期待値やスケジュールの調整
+AI駆動開発に向けた業務改善の提案・実行
+
+※ご志向性に応じて、開発スペシャリストまたはマネジメントのキャリアパスを選択可能です。
+
+ミッション
+
+安定的な既存プロダクトの開発・運用の継続
+ドメイン知識からAI駆動開発の取り組みに繋げるための提案・実行
+
+ 
+
+本ポジションの魅力
+
+開発生産性が数字としてフィードバックされるため、事業成長への貢献を実感できる
+プロダクト思考やオーナーシップ精神を育むことができる
+最先端の生成AIを活用した開発プロセスを経験できる
+
+ 
+
+開発環境
+
+バックエンド: TypeScript (Nest.js), Node.js, PHP (Laravel)
+フロントエンド: TypeScript (React, Next.js)
+AI / インフラ: Python / Azure
+Database / 分析: MongoDB, BigQuery
+CI / モニタリング: GitHub Actions, Datadog, Sentry, New Relic
+
+ 
+
+エンジニア向けの福利厚生
+
+Microsoft Enterprise Skills Initiativeを通じてAzure等のトレーニング受講可能
+入社時にWindsurf, Cursor, GitHub Copilotより好きなAI IDEを選択可能
+Devinを毎月3,000 ACUsまで使い放題（Cognition AI社とのホットラインあり）
+Anthropic, OpenAI, Google GeminiのAPIキーを一定金額まで自由利用可能
+リモートHQによるリモートワーク環境の充実支援
+月1万円までの書籍購入手当、エンジニア系資格の各種取得手当
+
+ 
+
+必須要件
+
+Webサービスのバックエンド開発経験
+静的型付け言語（例：Java、Go、TypeScript）：3年以上
+もしくは動的型付け言語（例：PHP、Ruby、Python）：5年以上
+クラウドサービス（例：Azure、AWS、GCP）を活用したインフラ運用・保守経験：1年以上
+同一サービスの開発/運用経験：2年以上
+アジャイル/スクラムでの開発経験、およびメンバーのメンター経験
+日本語能力試験N1レベル相当の語学力
+
+ 
+
+勤務条件
+
+雇用形態: 正社員（試用期間6か月）
+給与: 年収 600万円 〜 1200万円（昇給年2回 / 評価年4回）
+勤務地: 完全リモートOK（日本国内）/ オフィス：渋谷区恵比寿
+勤務時間: フレックスタイム制（コアタイム 11:30～15:30）
+休日: 完全週休2日制（土日祝）、年末年始休暇、産休・育休（実績あり）","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/wevnal/wevnal-engr-aibotchan-ai-ktlold","","Backend Engineer (New Product AI Agent & BOTCHAN AI/Team Leader)","wevnal","Tokyo, Tokyo, Japan","2026-01-13","","direct_data","yearly",6000000.0,12000000.0,"JPY","","","","","","事業概要
+
+「人とテクノロジーで情報を紡ぎ、日常にワクワクを」というミッションを掲げ、BtoCビジネスを展開する企業様に対し、チャットフォーム（＝会話型フォーム）を使用してマーケティング活動の支援をしている会社です。
+
+マーケティングプロセスごとに、チャットフォームを使用した消費者との最適なコミュニケーションを設計・提案しています。これにより、顧客のLTV（＝ライフタイムバリュー）の最大化の支援に取り組んでいます。
+
+ 
+
+仕事内容
+
+募集背景
+
+当社では3年前よりオフショア開発の内製化を推進し、エンジニア組織は10名から50名規模へと拡大しました。組織のスケールに伴い、メンバーの育成、プロジェクト進行の可視化、チーム生産性の最大化を牽引できるチームリーダーを新たに募集しています。
+
+本ポジションでは、5〜10名規模のチームをリードし、AI SaaS 領域のプロダクト開発（BOTCHAN AI, AICALL）を推進しながら、組織成長そのものにドライブをかけていただきます。
+
+具体的な業務内容
+
+1. 組織マネジメント / チームリード
+
+エンジニア5〜10名のピープルマネジメント、1on1、評価、育成
+ジュニア〜ミドル層のイネーブルメント（技術支援、キャリア支援）
+チームのアウトプット最大化に向けたプロセス改善、課題発見、仕組み化
+
+2. プロジェクトマネジメント
+
+PdM / 事業責任者 / CS などステークホルダーとの要件調整
+メンバーへのタスクアサイン・進捗管理
+不具合対応・改善タスクの優先順位付けと推進
+KPI / 進行の可視化と意思決定支援
+
+ミッション
+
+数十人規模の開発組織において生産性向上と成果最大化を実現すること
+5〜10名のエンジニアの組織マネジメントおよびプロジェクトマネジメント
+新規プロダクトの機能開発・運用を通じてプロダクト価値と開発組織の両方を強化すること
+
+ 
+
+本ポジションの魅力
+
+「生成AI領域」という今後の事業成長のエンジンとなる領域で、戦略の両面に影響を与えられる
+多国籍なメンバーで構成されたダイバーシティの高い組織のマネジメントに挑戦できる
+フルリモート・フレックス制により、成果にコミットしながら柔軟な働き方が可能
+
+ 
+
+開発環境
+
+バックエンド: JavaScript (Node.js), TypeScript (Nest.js), PHP (Laravel)
+フロントエンド: TypeScript (React, Next.js)
+AI / インフラ: Python / Azure
+Database: MongoDB, AtlasDB, BigQuery
+モニタリング / CI: Datadog, Sentry, GitHub Actions
+コミュニケーション / 管理: Slack, Notion, Jira, Backlog
+
+ 
+
+エンジニア向けの福利厚生
+
+入社時にWindsurf, Cursor, GitHub Copilotより好きなAI IDEを選択可能
+Devinを毎月3,000 ACUsまで使い放題（Cognition AI社とのホットラインあり）
+Anthropic, OpenAI, Google GeminiのAPIキーを一定額まで自由に利用可能
+リモートHQによるリモートワーク環境の充実支援
+月1万円までの書籍購入手当、エンジニア系資格取得手当
+
+ 
+
+必須要件
+
+静的型付け言語でのWebアプリケーション開発経験（Java / Go / Node.js / TypeScript 等）
+AWS / GCP / Azure いずれかのクラウド基盤での開発経験
+3〜5名規模のチームマネジメント経験
+同一サービスの運用/改善経験（1年以上）
+日本語能力試験N2レベル相当の語学力
+
+ 
+
+歓迎要件
+
+5~10名規模のチームマネジメント経験
+TypeScript（特に Next.js / NestJS）での開発経験
+Azureの利用経験、SaaS プロダクトの EM 経験
+スクラム / アジャイルでの開発経験
+AI Agent（Devin / Claude Code等）の利用経験
+
+ 
+
+勤務条件
+
+雇用形態: 正社員（試用期間6か月）
+給与: 年収 600万円 〜 1200万円（昇給年2回 / 評価年4回）
+勤務地: 完全リモートOK（日本国内）/ オフィス：渋谷区恵比寿
+勤務時間: フレックスタイム制（コアタイム 11:30～15:30）
+休日: 完全週休2日制（土日祝）、年末年始休暇、産休・育休（実績あり）","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/wevnal/wevnal-engr-ai-rtbvkk","","Backend Engineer (New Product AI Agent/Member)","wevnal","Tokyo, Tokyo, Japan","2026-01-13","","direct_data","yearly",6000000.0,12000000.0,"JPY","","","","","","事業概要
+
+「人とテクノロジーで情報を紡ぎ、日常にワクワクを」というミッションを掲げ、BtoCビジネスを展開する企業様に対し、チャットフォーム（＝会話型フォーム）を使用してマーケティング活動の支援をしている会社です。
+
+マーケティングプロセスごとに、チャットフォームを使用した消費者との最適なコミュニケーションを設計・提案しています。これにより、顧客のLTV（＝ライフタイムバリュー）の最大化の支援に取り組んでいます。
+
+ 
+
+仕事内容
+
+募集背景
+
+現在、マーケティングデータの分散や、Webサイトが「情報を並べるだけの場」にとどまっているという課題に対し、私たちはAIエージェントサービスへの進化という大きな挑戦を始めています。
+
+既存サービスを運用しながら、AI駆動開発を活用して次世代のマーケティング基盤を構築する重要プロジェクトを専任でリードいただけるエンジニアをお迎えしたいと考えています。CTOやシニアエンジニアと共に、この変革を推進していただきます。
+
+具体的な業務内容
+
+自社プロダクト「ブランドAIエージェントBOTCHAN」の新規機能の設計・開発
+既存機能の改善および保守運用
+新技術の調査・検証とプロダクトへの適用検討
+PdMやPO・AIエンジニアとの協働による仕様策定・品質向上
+
+ミッション
+
+プロダクトロードマップを実現するため、仕様設計から開発・運用までを一貫して担い、プロダクトの成長を推進すること
+
+ 
+
+本ポジションの魅力
+
+最先端のAI技術と、TypeScriptを活用した最新のT3Stack（Next.js軸）を用いた開発に携われます。
+AI活用領域を「マーケティングプロセス×接客」という広がりある独自領域で展開可能です。
+外国籍エンジニアが過半数を占めるグローバルかつ多様性豊かなチームで刺激を受けながら成長できます。
+アーキテクチャや技術選定についてエンジニア同士で活発に議論できる裁量の大きい環境です。
+
+ 
+
+開発環境
+
+バックエンド: TypeScript (Node.js, Nest.js), PHP (Laravel)
+フロントエンド: TypeScript (React, Next.js)
+AI / インフラ: Python / Azure
+Database / 分析: MongoDB, AtlasDB, BigQuery
+CI / モニタリング: GitHub Actions, Datadog, Sentry, New Relic
+
+ 
+
+エンジニア向けの福利厚生
+
+入社時にWindsurf, Cursor, GitHub Copilotより好きなAI IDEを選択可能
+Devinを毎月3,000 ACUsまで使い放題（Cognition AI社とのホットラインあり）
+Anthropic, OpenAI, Google GeminiのAPIキーを一定額まで自由に利用可能
+リモートHQによるリモートワーク環境の充実支援
+月1万円までの書籍購入手当、エンジニア系資格取得手当
+
+ 
+
+必須要件
+
+経験
+
+Webサービスのバックエンド開発経験
+静的型付け言語（Java / Go / TypeScript など）：1年以上
+または動的型付け言語（PHP / Ruby / Python など）：3年以上
+以下いずれかの経験（1年以上）
+CI/CD導入やテスト自動化など、開発サイクル効率化に関する企画・推進経験
+エンジニアリング観点を踏まえたステークホルダーとの調整・折衝経験
+テクニカルサポート／サポートエンジニアの経験
+
+スキル・知識
+
+日本語能力試験N1レベル相当の語学力
+基本情報処理技術者資格、または同等の知識
+プロジェクトマネジメントおよびオブザーバビリティに関する知識
+
+ 
+
+勤務条件
+
+雇用形態: 正社員（試用期間6か月）
+給与: 年収 600万円 〜 1200万円（昇給年2回 / 評価年4回）
+勤務地: 完全リモートOK（日本国内）/ オフィス：渋谷区恵比寿
+勤務時間: フレックスタイム制（コアタイム 11:30～15:30）
+休日: 完全週休2日制（土日祝）、年末年始休暇、産休・育休（取得実績あり）","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/mantra/mantra-mobile-app-engineer-langaku-ehqyic","","Flutter Engineer (Langaku)","Mantra","Tokyo, Tokyo, Japan","2026-01-13","","direct_data","yearly",6000000.0,9000000.0,"JPY","","","","","","Primary Responsibilities
+
+Designing, developing, operating, testing, and documenting mobile applications using Flutter.
+Enhancing productivity and quality through automation of testing and operations.
+Collaborating with product managers and designers to design user experiences and features that solve user problems.
+Making technical decisions and building/managing development schedules.
+
+ 
+
+Technical Stack:
+
+Frontend: Flutter
+Backend: Python
+Infrastructure: AWS, GCP
+
+ 
+
+Basic Qualifications
+
+3+ years of experience in developing with Flutter.
+Ability to design and develop software with maintainability and performance in mind.
+Ability to design and propose improvements for mobile apps considering user experience.
+Experience in team development using Git, GitHub, etc.
+
+ 
+
+Preferred Qualifications
+
+Experience in developing BtoC mobile applications.
+Experience in building and operating infrastructure using AWS.
+Knowledge and understanding of UI/UX design, and experience in designing.
+Experience in implementing and operating automated testing for frontend apps.
+Knowledge and experience with server-side development using Django.
+
+ 
+
+The Ideal Candidate
+
+Someone accustomed to continuous learning
+Able to approach problems by formulating and then verifying hypotheses
+Enjoys communicating with people from different fields and backgrounds
+Able to take ownership and handle working independently
+Strong interest in Mantra's focus areas (manga, language, machine learning)
+
+ 
+
+Selection process
+
+Document screening (resume, detailed career and job history, portfolio)
+~3 Interviews
+Final meeting to discuss terms of employment and compensation","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/amptalk/amptalk-sr-software-engineer-moucp8","","Senior Software Engineer","amptalk","Tokyo, Tokyo, Japan","2026-01-09","","direct_data","yearly",8000000.0,10000000.0,"JPY","","","","","","At amptalk, we employ a compound strategy to deliver multiple products aimed at achieving sales enablement. As a Senior Software Engineer, you will be responsible for one of these products and lead its development. When necessary, you will also take on the role of guiding the software engineering team from a technical perspective. Delivering high-quality products with agility and efficiency will be essential.
+
+ 
+
+Technologies Used
+
+Frontend: Nuxt.js, TypeScript
+Backend: Node.js, TypeScript
+Cloud: AWS, Google Cloud, Microsoft Azure
+Database: PostgreSQL, Amazon DynamoDB
+CI/CD: GitHub Actions
+
+Note: The above technologies are examples of what we use, but the team has the flexibility to make their own technology choices. For new products, you will be involved from the technology selection stage.
+
+ 
+
+Job Description
+
+Understand business goals and translate them into well-designed, reliable software.
+Design, implement, and operate systems across frontend, backend, and infrastructure.
+Lead by example through high-quality code, testing, and system design.
+Review code, pair program, and mentor team members to raise overall engineering quality.
+Own systems in production: monitoring, debugging, incident response, and continuous improvement.
+Proactively identify technical risks and propose improvements before they become problems.
+
+ 
+
+Must Have
+
+5+ years of experience in product development.
+End-to-end engineering process experience in a single product, from design and development to operation and maintenance.
+Proven full-stack development experience across frontend, backend, database, and cloud.
+Ability to communicate effectively with stakeholders.
+Passion for continuous reflection and improvement.
+Experience mentoring junior engineers.
+
+ 
+
+Nice to Have
+
+Experience in designing, building, and operating architectures on AWS.
+Development experience with Test-Driven Development (TDD).
+Knowledge of design principles that enhance software scalability and maintainability, such as SOLID principles, Clean Architecture, and Domain-Driven Design (DDD).
+Experience building production systems using functional programming concepts.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/cybozu/cybozu-senior-backend-engineer-microservices-go-gk8458","","Senior Backend Engineer, Microservices (Go)","Cybozu","Tokyo, Tokyo, Japan","2026-01-06","","direct_data","yearly",10000000.0,12000000.0,"JPY","","","","","","Position Overview
+
+We are seeking highly experienced backend engineers who are responsible for designing and developing backend systems for our new products. We use technologies such as OAuth2/OIDC, gRPC, Kubernetes, and distributed databases to build the backend.
+
+As a senior backend software engineer, you will analyze the business and technical requirements, design software and systems, and implement them by collaborating with others. You will be responsible for the quality and maintainability of your code, so you must be a very good document writer and set up continuous integration systems with a good set of tests. In the early stage, you will also be responsible for running the services on Google Cloud and dealing with incidents.
+
+ 
+
+Job Duties & Responsibilities   
+
+Analyze business and technical requirements to design our backend systems.
+Implement the designed system yourself with good documentation and tests.
+Review other backend engineers' design and code.
+Collaborate with frontend engineers, product designers, and architects.
+Build CI/CD pipelines.
+Run and operate the backend services on Google Cloud.
+
+ 
+
+Expected Knowledge, Skills, and Abilities
+
+5+ years of experience working in development roles in B2B software engineering.
+Hands-on experience in writing software in Go.
+Experience with Kubernetes.
+Knowledge and experience with CI/CD.
+Professional English communication skills.
+
+ 
+
+Additional Desirable Knowledge, Skills, and Abilities
+
+Experience with Google Cloud, gRPC, or Istio/Envoy.
+Knowledge of OAuth2, OIDC, SCIM, and SAML.
+Experience in building AI features/functionalities
+Experience in building and managing production services
+
+ 
+
+Work Hours    
+
+Flexible working hours
+Core collaboration time: Tue - Fri: 9am - midday (JST)
+ 　・Note: This is because some teammates are in the US, we often have morning meetings from 9am - midday
+Employees may determine their own start and end times, as well as break times, between 5:00 and 22:00.
+Adjustments should be made to align with the team’s working style.
+　・Example working hours: 9:00–18:00 (including a 60-minute break)
+
+ 
+
+Location    
+
+Hybrid / In-Office (Tokyo)
+We have a fantastic office in Nihonbashi, Tokyo .
+In general, you can work remotely from home.
+Working from the Tokyo office may be required, such as during the first three months for onboarding.
+
+ 
+
+Salary Range    
+
+Salary Range（※1）:  JPY 10,000,000 – JPY 12,000,000
+Estimated annual salary:  Base Salary (12 months) + Bonus (Base salary x 1 month x twice a year = 2 months)
+Monthly salary system:  Base salary is determined based on your skill set, experience, and abilities, etc.
+An allowance for additional overtime（※2）is included in the base salary. 　
+However, work exceeding additional overtime agreed to between the employer and employee will be compensated separately.
+Base monthly salary（※1）:  JPY 710,000 – JPY 860,000
+The base monthly salary breakdown as follows:
+　・Base salary:  JPY 540,950 – JPY 655,200
+　・Allowance for additional overtime（※2）:  JPY 169,050 to JPY 204,800
+
+
+※Notes:
+1. Depending on your skill set and experience, the amount set may be outside the above range.
+2. Calculated based on 160 hours of scheduled working hours per month and 40 hours of additional overtime.
+
+ 
+
+Benefits   
+
+Remote work allowance (5,000/month)
+Employee stock ownership plan (company matches purchase of up to 10% of paycheck)
+Skill development support/Language Learning Support (120,000 yen a year)
+New tech gear (PC)
+Commuter allowance
+Comprehensive health and social insurance
+Parental Leave
+Visa sponsorship and relocation support will be provided for those who do not reside in Japan
+
+ 
+
+Vacations    
+
+20 days of paid leave
+5 days of Proactive Personal Leave
+5 days of Family Care / Personal Sick Leave
+Two days off per week (Saturday and Sunday), Public holidays in Japan
+
+ 
+
+Selection Process
+
+Document screening
+Interviews (4 times, the 2nd interview is a technical interview)
+Background Check, Reference check
+Offer meeting
+
+*We conduct a background check & reference check prior to the final interview.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/exawizards/exawizards-exabase-studioplatform-engineertechlead-ghtrmy","","【exaBase Studio】Senior Platform Engineer","ExaWizards","Tokyo, Tokyo, Japan","2026-01-05","","direct_data","yearly",8000000.0,13000000.0,"JPY","","","","","","About ""exaBase Studio""
+
+exaBase Studio is a development platform designed to bring operations teams and developers closer together. By integrating internal and external AI models, services, and data, it enables the seamless creation of AI software.
+
+ 
+
+Fast, Simple Development with Room for Gradual Improvements
+
+Many companies face the dilemma of wanting to improve their systems using feedback from the field, but being unable to do so due to the heavy burden of redesigning system architectures or upgrading infrastructure for production-level systems.
+exaBase Studio addresses this challenge by providing a simple, visual UI that allows anyone to build AI software. This empowers teams to move projects forward without being constrained by resource or organizational limitations. Furthermore, the AI technologies embedded within exaBase Studio are continuously updated with cutting-edge advancements, thanks to our accumulated expertise. This ensures you can always leverage the latest AI capabilities.
+
+ 
+
+Seamless API Integration of Internal and External Data
+
+With exaBase Studio, you can integrate various datasets, including those previously downloaded and processed from external tools, as well as proprietary internal company data. This significantly reduces manual workload and allows users to create models or business improvement applications tailored to specific datasets.
+
+This development platform is driving the creation of AI implementation use cases across diverse industries and domains to transform business operations. Responding to the growing demand for such innovations, we are looking for team members who can help turn these needs into actionable solutions. At the same time, you will help establish standardized offerings for AI development using exaBase Studio.
+
+ 
+
+The Vision Behind exaBase Studio
+
+A Platform to Break Through the ""PoC Deadlock"" and Bring AI to Real-World Implementation
+
+Many AI projects stall at the PoC (Proof of Concept) stage and fail to move into practical application. Challenges such as ""achieving high accuracy but struggling to integrate it into a system,"" ""burdensome operational requirements,"" or ""insufficient IT resources to embed AI"" often prevent promising technologies from being realized in the field.
+exaBase Studio is designed to overcome this ""PoC deadlock"" by transforming AI into functional products that operate effectively in real-world environments. Through a GUI-based development platform, it enables rapid systemization of AI models from the PoC stage and adapts them to enterprise environments. This makes it possible to create AI solutions that are not just developed, but actively used in business operations.
+
+ 
+
+Democratizing AI-Powered Business App Development: Delivering Value at Unprecedented Speed
+
+AI is often perceived as a tool reserved for engineers, but exaBase Studio takes a radically different approach. It is a development platform built to usher in an era where ""anyone can integrate AI into their business operations."" By leveraging a low-code/no-code environment, users without specialized AI knowledge can deploy solutions to production environments within weeks. Those on the front lines of business can design, test, and implement AI-driven improvements themselves. This unmatched speed and flexibility are fundamentally transforming the traditional AI adoption process.
+
+ 
+
+Breaking Down Barriers to AI Adoption and Driving Cross-Industry Transformation
+
+AI is no longer a ""specialized technology reserved for large enterprises."" Its potential is expanding across industries such as manufacturing, finance, energy, healthcare, and logistics. However, the key challenge remains: ""How can AI be effectively implemented and managed?""
+exaBase Studio serves as a solution to this challenge. It enables the deployment of AI applications that would traditionally take a year to develop in as little as a few weeks. This speed and agility are accelerating cross-industry transformations, breaking down the barriers to AI adoption, and empowering organizations of all sizes to unlock the full potential of AI.
+
+ 
+
+Job Description
+
+As a candidate for the Tech Lead role on the exaBase Studio Platform team, you will be responsible for the following:
+
+Collaborating with the Product Manager (PdM) to define development policies
+Leading technical strategy and technology selection
+Managing development teams and project execution
+
+ 
+
+Specific Responsibilities:
+
+Defining development policies and creating development roadmaps
+Leading the formulation and execution of technical strategies and technology selection
+Planning, designing, and leading the development of systems across the stack, including front-end, back-end, and cloud infrastructure (e.g., AWS, Kubernetes), with hands-on contributions
+Improving product and code quality through activities such as code reviews and various testing processes
+Managing the development team, including assigning tasks to members based on their roles and expertise
+
+ 
+
+Technical Stack
+
+Infrastructure: AWS, Azure, GCP, Kubernetes
+Backend: Go
+Frontend: TypeScript, React, Vue.JS
+Others: Operator, Visual Studio Code
+
+
+
+Opportunities Gained from this Position
+
+As a strategic product that reports directly to the CTO and is expected to become the next pillar of our business, this role offers numerous challenging opportunities, allowing you to be a core member who drives the product’s growth.
+Because the service is not a simple SaaS but a PaaS, you will work across all technical domains—including frontend, backend, cloud infrastructure, and security—enabling you to gain comprehensive full-stack engineering experience.
+You will join a global engineering team with members from overseas and use English in your daily work.
+We offer flexible work styles, including remote work and a discretionary labor system.
+
+Required Qualifications
+
+3+ years of experience in cloud infrastructure architecture design and system development
+Hands-on experience with Kubernetes
+Development experience in Go
+Development experience or solid understanding of Node.js and/or Python
+Japanese communication skills equivalent to JLPT N2 or higher, plus English communication skills at least at a daily conversational level
+
+Compensation
+
+Annual Salary: ¥8,040,000 – ¥13,080,000
+Monthly salary is calculated as 1/12 of the annual salary.
+
+Lower limit: ¥670,000/month (Base salary: ¥495,680, Fixed overtime pay for 45 hours: ¥174,320)
+Upper limit: ¥1,090,000/month (Base salary: ¥806,470, Fixed overtime pay for 45 hours: ¥283,530)
+Additional overtime pay will be provided for work exceeding 45 hours.
+The final salary will be determined based on experience, skills, and desired compensation in accordance with company policies.
+Employment may involve a flexible work schedule, a discretionary labor system, or a managerial position, depending on job responsibilities.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe","","Senior Full Stack Engineer","Kamikai","Tokyo, Tokyo, Japan","2025-12-30","","","","","","","","","","","","About Us
+
+Kamikai Labs is reimagining the future of 2D animation. Through our AI-powered suite of production tools, we help the world’s leading animation studios and indie creators ship higher-quality work faster than ever before. Our products are already in active use across top-tier Japanese studios, and we’re growing quickly as demand accelerates.
+
+We’re now looking for a Senior or Staff Full-Stack Engineer, a strong generalist who loves shipping real products and owning problems end-to-end, to join our Tokyo-based team.
+
+ 
+
+in applying to this job listing - please write only 1-3 bullet points about why you are an excellent fit.
+
+ 
+
+About the Role
+
+This is a product-driven, high-autonomy engineering role. You’ll work across the entire stack to design, build, and ship user-facing features used daily by professional animators and production teams. You’ll collaborate closely with designers, ML engineers, and founders, but you’ll also be trusted to independently take ideas from concept to production.
+
+We’re looking for engineers who care deeply about shipping, have a strong JavaScript foundation, and can point to real products or systems they’ve built and delivered.
+
+ 
+
+Key Responsibilities
+
+Own features end-to-end: scoping, implementation, launch, iteration, and maintenance
+Build and ship product-facing web applications with a strong focus on usability and performance
+Develop and maintain backend APIs and services that support production workflows
+Integrate ML inference endpoints and internal services via clean, reliable APIs
+Move quickly in a scrappy environment — while progressively hardening systems for scale
+Collaborate with designers and artists to ensure tools match real studio workflows
+Improve product quality through thoughtful refactors, testing, and system design
+Help shape engineering standards, architecture, and development velocity as the team grows
+
+ 
+
+Requirements
+
+Senior- or Staff-level experience as a full-stack engineer
+Strong fluency in JavaScript and modern web development
+Proven track record of shipping real products — personal projects, startups, or production systems
+Comfortable working across frontend, backend, and infrastructure as needed
+Experience building and consuming APIs (REST, WebSockets, etc.)
+Strong product instincts: you think about users, edge cases, and long-term maintainability
+Able to work autonomously, take ownership, and make pragmatic tradeoffs
+English fluency required; Japanese is a bonus
+Based in Japan or willing to relocate (relocation support provided)
+
+ 
+
+Bonus Qualifications
+
+Experience with modern frontend frameworks (React, Svelte, Next.js, etc.)
+Backend experience in Node.js, Python, or similar
+Familiarity with production databases (Postgres, Redis, etc.)
+Experience scaling systems from early-stage to production-grade
+Past work in creative tools, SaaS, or developer-facing products
+Interest in animation, creative software, or artist workflows
+
+ 
+
+Why Join Kamikai?
+
+Ship real products used by some of the best animation studios in the world
+High autonomy and ownership in a fast-moving, growing company
+Work alongside a deeply creative, technical, and passionate team
+Direct influence on product direction, engineering culture, and company trajectory
+Competitive compensation, relocation support, and equity","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/owndays/owndays-senior-product-manager-v2i5cx","","Senior Bilingual Product Manager","Owndays","Tokyo, Tokyo, Japan","2025-12-29","","direct_data","yearly",6500000.0,8500000.0,"JPY","","","","","","About The Company
+
+OWNDAYS (part of Lenskart) is a leading eyewear company that offers a wide range of high-quality spectacles to customers worldwide. Established in Tokyo, Japan in 1989, the company has grown to over 500 stores in 13 countries worldwide and has become one of the most trusted and innovative eyewear brands in many parts of the world. The company's success is a testament to its commitment to quality, innovation, and customer satisfaction.
+
+ 
+
+Company Mission
+
+Our mission goes beyond just providing clear vision; we aim to enrich our customers' lives by offering glasses that enhance their daily experiences. Committed to exploring new demands and services from Japan to the world, OWNDAYS continuously takes on the challenge of innovation. We are committed to providing customers with the highest quality products at the most affordable prices. With over 1,500 styles of frames available in-store and online, customers can choose from a vast selection of designs to suit their unique style and personality.
+
+ 
+
+About The Role
+
+We are seeking a savvy and analytical Senior Bilingual Online Product Manager to join our dynamic team. You will be responsible for managing and developing the online ecommerce platform. You will collaborate closely with executive teams in Japan and abroad (including Taiwan, Singapore, Thailand, and India) to lead the product roadmap and deployment of our online (web and app) properties. Reporting to the Global Head of Online, you will play a crucial role in driving strategic initiatives and shaping our company's growth trajectory across all markets.
+
+Native or fluent in both Japanese (N1) and English is a must.
+
+ 
+
+What your responsibilities will be
+
+Work closely with the Japan and global leadership team as well as the Group’s strategy team to identify development opportunities for online properties, evaluate business performance, and drive key strategic initiatives
+Conduct thorough analysis and develop actionable insights to support strategic decision-making
+Lead product expansion efforts and oversee the launch of new online products and services.
+Partner with the IT and DX teams in Japan and abroad to create development roadmaps, prioritize the initiatives, manage the deployment of the product, and measure the success of the product
+Work with the marketing team to ensure successful product deployment and customer adoption of online products/services.
+Collaborate with local retail teams to ensure product alignment with their needs and raise awareness of new developments.
+Drive cross-functional projects and manage a project from ideation to deployment across multiple time zones
+Develop and maintain key performance indicators (KPIs) to monitor business performance and identify areas for improvement
+Build and maintain strong relationships with internal stakeholders and external partners
+
+ 
+
+Who we are looking for
+
+Minimum Qualifications:
+
+Bachelor's degree
+5+ years of experience in product management, management consulting, system integrations, business strategy or strategic planning
+Must have experience in product management and leading global product management projects
+Excellent problem-solving and analytical skills with strong commercial acumen. Deep data analysis and building insights capabilities
+Proven track record of developing and executing successful business strategies in a fast-paced, dynamic environment.
+Strong communication, organizational skills and attention to detail
+Strong project management and stakeholder influencing skills
+Ability to work in a fast-paced environment with multiple stakeholders and competing priorities
+Native or fluent in both Japanese and English is a must
+
+ 
+
+Preferred Qualifications:
+
+MBA or advanced degree preferred
+Experience in ecommerce, retail, or fashion sector preferred","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/hennge/hennge-front-end-engineering-internship-onsite-tokyo-japan-8lbfyd","","Front-end Engineering Internship (Onsite Tokyo, Japan)","HENNGE","Tokyo, Tokyo, Japan","2025-12-26","","","","","","","","","","","","COMPANY OVERVIEW
+
+Established in 1996, HENNGE is one of the first IT ventures in Japan. Controlling a majority of the nation’s market share, we are the leading cloud-based security company based in Tokyo. We aim to become a world-class IT company by expanding our business globally, having English as our official language, and hiring international talents worldwide. We are looking for highly talented and motivated engineers (front-end, back-end, DevOps, mobile development) to join our team in Tokyo
+
+ 
+
+Front-end Engineering Internship: Job Description
+
+Ready for a Tech Adventure in Tokyo? Join Our Internship Program – 4-5 Weeks of Software Engineering Internship Await!
+
+Join HENNGE’s Global Internship Program (GIP): Front-End Software Engineering Pathway in Tokyo, Japan. This unique 4-5 week internship at our Shibuya headquarters offers you personal and professional growth in an internationally diverse environment.
+
+In HENNGE’s GIP: Front-end Engineering Pathway, you will acquire practical application development skills primarily in Typescript using React or Vue. GIP will provide you with hands-on experience using state-of-the-art cloud platforms such as Amazon Web Services and offer a real-world experience for application development.
+
+Our primary working language is English, so no Japanese is required. The program is held at our Shibuya headquarters in Tokyo for 4-5 weeks, Monday to Friday, from 10 AM to 7 PM (JST). As the entire HENNGE’s engineering team is based in the same office, interns will have the opportunity to communicate directly with mentors and other engineers. While the program is unpaid, we provide comprehensive subsidies, and outstanding participants may be offered full-time employment opportunities.
+
+If you are interested in HENNGE’s GIP: Full Stack Engineering Pathway, please check it out here.
+
+Internship Overview
+
+Build real-world applications using TypeScript with React or Vue.
+Sharpen your skills in front-end frameworks while designing user experiences that matter.
+
+Program Structure
+Weeks 1-4: Application Development Project
+Week 5: DevOps Project
+Benefits 
+Round-trip airfares from and back to your country of residence
+Pre-arrival support and visa guidance
+Medical insurance* and a phone with mobile data will be provided during your internship in Tokyo, Japan**
+Up to 150,000 JPY of monthly subsidy to cover accommodation, meals, transportation, and networking activities
+Subsidized company events on top of monthly subsidy (Monthly Technical Sessions, Board Game Night, Get-to-know-you Lunches, and many others!) to get to know teams across divisions
+Access to online learning platform during the internship period
+
+* Medical insurance will only be provided to interns who do not reside in Japan
+** This internship is an unpaid training program with a subsidy provided to all interns
+
+Essential Qualifications
+Third-year undergraduate or higher (including Master's and Doctoral students). Recent graduates are also welcome to apply
+Pursuing or holding a degree in Computer Science or a related field. If not, equivalent experience from a tech internship or bootcamp is expected
+Fluency in English (Japanese not required)
+Proficiency in frontend frameworks such as React or Vue in Typescript, preferably with knowledge of the nuances of building at scale such as form validation, data fetching and state management
+Knowledge of Linux / MacOS / Unix-like environments
+Interested in open source or tech community activities
+Interested in pursuing a career in Japan
+
+At least meet three of the following:
+
+Experience in cloud computing platforms, especially AWS
+Experience in full stack web application development
+Proficiency in Python or Go
+Knowledge of distributed systems
+Knowledge of DevOps tools and practices (CI/CD, Infrastructure as Code)
+Experience in software testing methodologies (unit testing, integration testing, end-to-end testing)
+Experience with UI/UX design tools, especially Figma
+Experience implementing responsive web design in a web app
+Experience implementing SSO in a web app
+Our Ideal Candidate
+
+Our ideal candidate is more than just a front-end developer - they’re a curious builder with a broad technical perspective. We're especially excited about applicants who:
+
+Have experience in back-end or full stack development
+Are familiar with DevOps practices and tools like CI/CD pipelines or cloud services
+Understand the value of thoughtful UI/UX design
+Bring a well-rounded approach to building complete, user-focused products
+
+Bring your range - we want to see the full picture of what you can do.
+
+Internship schedule
+
+We open batches multiple times a year.
+
+Available batch (as of Dec 26)
+
+Batch 5 (2026): Nov 16 - Dec 18 (5 weeks) 
+How to apply
+Register through the apply button below and verify your email address.
+Solve the coding challenge and submit your work with your CV and cover letter.
+An HR interview followed by an online interview, will be given to those who pass Step 2.
+
+Notice for Applicants
+
+A limited number of internship slots are available. Applications will be reviewed as they are received, and positions will be filled on a first-come, first-served basis.  We encourage you to apply early, as applications will close once all positions are filled.
+The coding challenge has no time limit, and the screening process will not consider solving time. Please note that the application is completed after uploading application documents and filling in the batch preferences.
+Please take another challenge if you are (also) interested in applying for HENNGE’s GIP: Full Stack Engineering Pathway. Please use different emails to sign up if you apply for both internships.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-ai-program-manager-productivity-innovation-department-tokyo-kl3v8b","","AI Program Manager (Productivity Innovation Department)","Money Forward","Tokyo, Tokyo, Japan","2025-12-24","","direct_data","yearly",7900000.0,12000000.0,"JPY","","","","","","Overview
+
+The SMB Product Development Division is seeking a strategic and execution-focused AI Program Manager to drive our AI transformation. While your primary initial focus will be leading the AI Innovation Hub, this role is designed for a change agent capable of managing a portfolio of AI initiatives.
+
+Your mission is to act as a bridge between technical potential and business value—stimulating high-quality ideas, incubating them into impactful PoCs, and driving the cultural and operational changes required to make AI a natural part of our engineering, product, and design DNA. You will look beyond single projects to build a sustainable engine for innovation and productivity.
+
+ 
+
+Responsibilities and Duties
+
+1. Strategic Program Management & Initiative Leadership
+
+Lead the AI Innovation Hub: Own the roadmap and execution of our SMB internal incubation program, including ""Idea & Demo Days"" and structured incubation cycles.
+Drive Multiple AI Initiatives: Beyond the Hub, identify, scope, and lead ad-hoc strategic AI projects (e.g., specific workflow automations, tool rollouts, or pilot programs) that require cross-functional coordination.
+Portfolio Management: Maintain a holistic view of various AI experiments and PoCs across the division to prevent silos, reduce redundancy, and ensure alignment with business goals.
+
+2. Incubation & Experimentation Architecture
+
+Structure Success: Design and refine the end-to-end incubation process (application, selection, validation, milestones) to ensure teams move effectively from loose concepts to ""Demo Day-ready"" PoCs.
+Focus on Impact: Collaborate with technical leaders to ensure initiatives are not just ""cool tech,"" but are rooted in solving genuine user problems or achieving measurable internal productivity gains.
+Advisor Orchestration: Recruit and coordinate a pool of experts (Senior Engineers, AI Specialists, PdMs) to mentor teams, providing the right technical and product guidance at the right time.
+
+3. Change Management & Cultural Transformation
+
+Community Building: Nurture a vibrant, cross-functional AI community. Move beyond simple ""engagement"" to creating a culture of continuous learning and experimentation.
+Best Practice Enablement: Partner with technical leads to translate complex AI capabilities into accessible playbooks, ""getting started"" guides, and reusable templates for engineers, PdMs, and designers.
+Event Management: Plan and execute high-impact events (Hackathons, Demo Days, Sharing Sessions) that celebrate success and inspire broad adoption.
+
+4. Operational Excellence & Continuous Improvement
+
+Measure What Matters: Define and track success metrics not just for the program (participation, completion), but for business impact (adoption rates, time saved, productivity improvements).
+Feedback Loops: Actively collect qualitative and quantitative data after every cycle or initiative. Analyze ""what worked"" and ""what didn't"" to iterate on the program structure and the division’s overall AI strategy.
+Stakeholder Communication: Keep leadership and cross-functional partners informed on progress, resource requirements, and outcomes.
+
+ 
+
+Required Skills and Experience
+
+Core Program & Change Management
+
+5+ years of experience in program management, product operations, innovation management, or technical project management.
+Change Management: Proven track record of driving adoption of new technologies or processes within a large organization. You know how to influence without direct authority.
+Strategic Agility: Ability to switch contexts between high-level strategy (roadmapping, culture building) and tactical execution (event logistics, sprint planning).
+
+Product & Technical Aptitude
+
+Product Development Context: Deep experience working closely with software development teams (Engineering, Product, Design). You understand the software lifecycle (SDLC) and how AI fits into it.
+AI Operational Fluency: You view AI through a lens of business value, not just technical novelty. While you don't need to understand the engineering complexities of how models work (e.g., hallucinations or privacy architecture), you must be adept at consulting with our technical experts to vet feasibility. Your primary role is to bridge the gap: determining if a solution generates real ROI, validating its utility for the business, and managing the operational rollout to ensure adoption.
+
+Leadership & Soft Skills
+
+Facilitation: Excellent communication skills, capable of leading workshops, moderating panels, and articulating a clear vision to senior leadership.
+Entrepreneurial Mindset: You are self-driven and proactive. You don't just run existing programs; you identify gaps and propose new solutions to fill them.
+
+ 
+
+Preferred Skills and Experience
+
+Experience running internal startups, accelerators, or corporate innovation labs.
+Experience measuring productivity metrics (e.g., SPACE framework, DORA metrics) in an engineering context.
+Technical background (CS degree or coding bootcamp) is a plus, but not required if you have strong technical literacy.
+
+ 
+
+Language Requirements
+
+Business level English
+(Nice to have) Conversational or business level Japanese.
+
+ 
+
+Work Environment
+
+At Money Forward, we provide an environment where we can create world-class services together, and we are looking forward to welcoming you.
+
+Provided PC Specs: We provide PCs equipped with the latest CPUs (MacOS or Windows). Custom-made PCs tailored to business requirements and replacements with the latest OS are also possible.
+Systems to Enhance the Development Environment: Peripheral devices necessary for work (such as displays, mice, keyboards) can be purchased as office supplies.
+Money Forward Library: We have a library system where you can freely borrow books, ranging from technical books to management books. Desired books can be purchased at the company's expense.
+Referral Driven: We cover the cost of recruitment meals. There is a referral reward system.
+Conference Participation Support: The company partially covers participation in domestic and international conferences, such as RubyKaigi and Google I/O.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-robotics-software-engineer---navigation-66py1c","","Robotics Software Engineer - Navigation","Rapyuta Robotics","Tokyo, Tokyo, Japan","2025-12-23","","","","","","","","","","","","We are seeking a proactive and skilled Navigation Engineer to join our robotics team, focusing on wheeled mobile platforms. This role is ideal for engineers who are passionate about autonomous navigation and eager to push the boundaries of robotic mobility.
+
+You will work closely with cross-functional teams—including perception, control, hardware, and software engineers—to design, implement, and optimize navigation systems for real-world deployment. Your ability to communicate effectively, share knowledge, and contribute to a dynamic development environment will be key to your success.
+
+ 
+
+Key Responsibilities
+
+Develop and maintain navigation stacks using ROS (Robot Operating System), including ROS Navigation Stack and custom solutions
+Implement and optimize path planning algorithms such as Hybrid A* for dynamic environments
+Containerize and manage development environments using Docker for scalable deployment
+Collaborate with perception, localization and control teams to ensure seamless integration of navigation modules
+Conduct simulation and real-world testing of navigation systems
+Stay up-to-date with the latest research, tools, and trends in robotic navigation and actively propose new technologies and approaches
+Document system architecture, design decisions, and performance evaluations
+
+ 
+
+Requirements
+
+Minimum skills:
+
+Master's degree in Robotics, Computer Science, or a related field
+5+ years of professional software development experience
+Solid experience with ROS and navigation stack development
+Proficiency in path planning algorithms
+Hands-on experience with ROS (Robot Operating System), Docker and CI/CD tools
+Strong programming skills in C++ and Python
+Hands-on with Linux-based development environments
+Demonstrated ability to work independently and proactively explore new technologies
+
+ 
+
+Preferred skills:
+
+Experience with ROS2 and transitioning systems from ROS1 to ROS2
+Knowledge in Perception and Computer Vision, including sensor fusion, object detection, SLAM, and AI
+Familiarity with simulation and visualization tools
+Experience working in agile development environments and using version control systems like Git
+Experience with Behavior Tree
+
+ 
+
+Benefits
+
+Competitive salary and benefits package
+Opportunity to work on cutting-edge robotics technologies
+Collaborative and innovative work environment
+Career growth and development opportunities
+VISA application support","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-senior-robotics-engineer---localization--perception-9rkcjy","","Senior Robotics Engineer - Localization & Perception","Rapyuta Robotics","Tokyo, Tokyo, Japan","2025-12-23","","","","","","","","","","","","We are looking for a Senior Robotics Engineer who excels in localization, SLAM, and perception-driven robotics. You will design, build, and optimize algorithms that let our robots understand where they are and what surrounds them—then deliver those capabilities in production-grade ROS/Docker environments.
+
+If you thrive on turning cutting-edge research into reliable, real-world performance, we’d love to meet you.
+
+ 
+
+Key Responsibilities
+
+Design, implement, and refine localization & SLAM pipelines for mobile and stationary robots.
+Build perception modules for 3-D point-cloud processing, object detection, tracking, and sensor fusion.
+Integrate, test, and release software in ROS with Docker-based CI/CD.
+Profile, debug, and tune performance on CPU / GPU hardware for real-time operation.
+Work with mechanical, firmware, and product teams to ship robust, scalable solutions.
+Own features end-to-end—from architecture through field validation—and mentor junior engineers.
+Track emerging research; propose and prototype improvements to keep us at the state of the art.
+
+ 
+
+Requirements
+
+Minimum skills:
+
+5 + years delivering localization and SLAM in production robots.
+Deep knowledge of perception libraries (PCL or equivalent), classical & ML-based detection/tracking, and multi-sensor data fusion.
+Expert C++ and solid Python; strong grasp of software design patterns, testing, and code review.
+Hands-on ROS 1 / 2, Docker, and automated build / deploy pipelines.
+Demonstrated success bringing robots from lab to field.
+
+ 
+
+Preferred skills:
+
+M.S. or Ph.D. in Robotics, Computer Science, or related discipline.
+GPU programming (CUDA, TensorRT) and real-time optimization.
+Embedded or hardware-level integration experience.
+
+ 
+
+Benefits
+
+Competitive salary
+Working with exceptionally talented and diverse team
+Visa and relocation support","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-quality-assurance-architect---robotics--automation-l40644","","Quality Assurance Architect - Robotics & Automation","Rapyuta Robotics","Tokyo, Tokyo, Japan","2025-12-23","","","","","","","","","","","","Our Tokyo Engineering team is rapidly scaling to meet the evolving needs of enterprise customers — from a handful of robots to large fleets operating in live warehouses. We build next-generation logistics automation solutions powered by rapyuta.io, our cloud robotics platform.
+
+As a Quality Assurance Architect, you will architect and own the entire QA ecosystem — spanning test strategy, infrastructure, automation, CI/CD integration, and quality governance across multiple agile teams. You will work hands-on with real and simulated robots, define scalable testing frameworks, and lead initiatives to embed quality into every stage of the product lifecycle.
+
+This is a strategic, high-impact role for a QA professional who thrives in fast-evolving environments and can bring together software, hardware, and systems-level quality engineering into a unified pipeline.
+
+ 
+
+Key Responsibilities
+
+Collaborate with Product Managers, System Architects, and Agile teams to ensure quality gates across all stages of release.
+Define and implement an end-to-end QA strategy covering simulation, hardware-in-the-loop (HIL), API, integration, and field-level testing.
+Build and maintain test automation frameworks (Python/C++/ROS ecosystem) integrated with CI/CD pipelines (GitHub Actions, Jenkins, etc.).
+Design, review, and optimize test plans, test cases, and acceptance criteria in alignment with agile development processes.
+Set up automated regression, load, and performance testing suites for robotics systems and APIs.
+Mentor QA and development teams in testing best practices, metrics, and continuous improvement.
+Drive defect triage and root-cause analysis to prevent recurrence and ensure traceability.
+Contribute to process maturity and tooling roadmap for organization-wide QA scalability.
+
+ 
+
+Requirements
+
+Minimum skills:
+
+5+ years of progressive experience in software quality assurance or test automation, with at least 2 years in a lead or architect role
+Experience leading, mentoring QA engineers and driving quality best practices across teams
+Bachelor’s degree in engineering, Computer Science, or equivalent
+Understanding of system-level validation, including integration across multiple components (firmware, middleware, UI, APIs)
+Solid grounding in Agile and DevOps methodologies
+Deep understanding of Linux environments, version control (Git), and modern CI/CD pipelines
+Proven ability to design scalable automation architectures and implement reusable QA libraries
+Strong expertise in Python testing frameworks (e.g., Pytest, Robot Framework)
+Strong analytical, documentation, and communication skills.
+
+ 
+
+Preferred skills
+
+Familiarity with containerized environments (Docker, Kubernetes) and cloud-based testing
+Experience in performance and reliability testing for distributed systems
+ISTQB certification or equivalent QA credentials
+Japanese language proficiency is a plus
+
+ 
+
+Benefits
+
+Competitive salary
+Working with exceptionally talented and diverse team
+Visa and relocation support","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-lead-backend-engineerdigital-banktokyo-r1emdu","","Lead Backend Engineer (Digital Bank)","Money Forward","Tokyo, Tokyo, Japan","2025-12-19","","direct_data","yearly",7900000.0,15000000.0,"JPY","","","","","","Overview
+
+Under the mission of ""Money Forward. Move your life forward,"" Money Forward aims to resolve the financial concerns and anxieties of individuals and businesses through the power of technology.
+
+We have partnered with Sumitomo Mitsui Financial Group, Inc. and Sumitomo Mitsui Banking Corporation to establish a new company in preparation for the launch of a new digital bank.
+
+We are currently seeking candidates for the position of Lead Backend Engineer as part of this initiative.
+*Based on the press release announced on April 16, 2025.
+
+※ This position involves employment with Money Forward, Inc., and a secondment to the new company (SMBC Money Forward Bank Preparatory Corporation). The evaluation system and employee benefits will follow the policies of Money Forward, Inc.
+
+ 
+
+Who we are?
+
+We are a startup team partnering with Sumitomo Mitsui Financial Group and Sumitomo Mitsui Banking Corporation to establish a new digital bank. Our mission is to build embedded financial products from the ground up, with a strong focus on supporting small and medium-sized businesses (SMBs).
+
+ 
+
+Development Structure
+
+We operate in a small, fast-moving team while collaborating closely with Money Forward Group companies (MFV and MFI).
+The team consists of cross-functional members Product Managers, Backend Engineers, Frontend Engineers, QA Engineers, and SRE working together with tight communication throughout the development process.
+
+ 
+
+Responsibilities and Duties
+
+As a Software Engineer in the Application Development Team, you will leverage Mambu, a leading cloud banking platform for neobanks and challenger banks, to build one of the most reliable and agile banking systems in the industry. Our goal is to shape the future of digital banking in Japan, making it more accessible and user-friendly than ever before.
+
+Acquire domain knowledge in digital banking, including deposits, loans, clearing and settlement, basic accounting, domestic exchange, and Zengin network.
+Promote development as a Scrum team leader
+Actively engage with product owners to define requirements.
+Develop, test, and deploy code that meets non-functional quality gates such as static code analysis, software composition analysis, SAST, and DAST, while maintaining numerical accuracy.
+Design and build high-performance, scalable microservices centered around APIs.
+Pursue test automation and continuous improvement, including API testing.
+Take responsibility for the entire software development lifecycle.
+
+ 
+
+Required Skills and Experience
+
+We are seeking candidates who bring strong experience and expertise in some of the following areas.
+
+Experience in understanding the background and intent of business requirements and independently defining application specifications.
+Ability to proactively design specifications and move forward even when requirements are not fully finalized.
+Knowledge or hands-on experience in at least one banking domain area, such as customer management, core banking systems, AML, compliance, accounting, or knowledge and experience in the banking domain, such as Zengin connection.
+7 or more years of deep experience, or a proven track record of leading the design and development of large-scale, mission-critical systems.
+Proven track record of leading technical recommendations (considering feasibility and technical risks) on product requirements based on domain knowledge.
+Proven track record of driving technical selection, formulating design policies, and leading the elimination of technical debt in microservice architecture.
+Proven track record of designing and implementing systems to ensure the integrity of complex financial transactions and resolving database performance bottlenecks.
+Experience in leading the formulation of testing strategies (e.g., unit, integration, load, contract testing) and the introduction/improvement of test automation frameworks.
+Experience in production-level service operation and design based on cost optimization and reliability (SRE principles) in major cloud environments (e.g., AWS).
+Bachelor's or Master's degree in Computer Science or a related field, or equivalent practical experience.
+
+ 
+
+Preferred Skills and Experience
+
+Experience in designing systems that comply with complex financial regulations and security requirements (e.g., PCI DSS, FISC Security Guidelines).
+Experience in leading data model design for journal entry and balance management in core banking systems based on double-entry bookkeeping knowledge.
+Knowledge and experience in designing interfaces for cooperation with domestic settlement networks (e.g., Zengin Net) and CCPs (Clearing Organizations).
+Experience in introducing and establishing a culture of DevOps/SRE across teams and improving incident response and post-mortem processes.
+Experience contributing to the recruitment and development of engineers (mentoring, evaluation, training).
+Experience in formulating a technical selection roadmap and explaining/proposing technical strategy to management and product teams.
+Proven track record of formulating concrete strategies for improving development efficiency using AI and driving technical standardization and adoption within the team.
+Money Forward recently announced our AI Strategy roadmap which focuses on improving AI-driven operational efficiencies, as well as integrating AI agents into our products to deliver better value to our users.
+
+ 
+
+Language Requirements
+
+Japanese: Business level
+English: Business level (TOEIC score of 700 or above)
+
+ 
+
+Who We’re Looking For
+
+Excited about being part of a startup launching a new digital bank.
+Ability to quickly adapt to changing priorities and situations.
+A critical thinker who questions the status quo.
+Excellent communication skills with the ability to articulate ideas clearly.
+Willingness to learn necessary domain knowledge and technologies.
+Understanding of DevOps/DevSecOps.
+
+ 
+
+Technology Stack and Tools Used
+
+Kotlin, Spring Boot, Gradle, jOOQ, Liquibase, Kotest/JUnit, Karate/Rest Assured
+Redis, Postgresql
+Docker, AWS ECS
+AWS SQS, SNS, EventBridge
+Mambu cloud banking platform
+GitHub, Backstage, Amazon ECR
+Claude Code, GitHub Actions, ArgoCD, Sonar Cloud, Detekt, AeyeScan
+ChatGPT, Copilot, Gemni
+
+ 
+
+Work Environment
+
+At Money Forward, we provide an environment where we can create world-class services together, and we are looking forward to welcoming you.
+
+Provided PC Specs: We provide PCs equipped with the latest CPUs (MacOS or Windows). Custom-made PCs tailored to business requirements and replacements with the latest OS are also possible.
+Money Forward Library: We have a library system where you can freely borrow books, ranging from technical books to management books. Desired books can be purchased at the company's expense.
+Referral Driven: We cover the cost of recruitment meals. There is a referral reward system.
+Conference Participation Support: The company partially covers participation in domestic and international conferences, such as RubyKaigi and Google I/O.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/ystory/ystory-iosandroid-app-development-engineer-areddr","","IOS/Android App Development Engineer","YStory","Tokyo, Tokyo, Japan","2025-12-17","","direct_data","yearly",6000000.0,9000000.0,"JPY","","","","","","Job Description
+
+Utilize optimal technologies to implement various functions, including existing and new features of the ""JoyHer"" app.
+Develop while closely communicating with designers based on screen transitions, considering feasibility.
+Perform troubleshooting calmly and promptly address and resolve any bugs that occur.
+A strong willingness to learn new technologies and a spirit of challenge is essential.
+
+ 
+
+Requirements
+
+Alignment with YStory's mission and vision.
+Experience in developing and operating consumer-facing apps, or experience in technical selection and codebase improvement, current or past affiliation with web, tech, or startup companies.
+Mobile: Experience with iOS development using Swift and Android development using Kotlin.
+Mobile：If you could only use swift or Kotlin but want to learn new language, we also welcome you to join us.
+Data Platform: Experience with development using Firebase.
+Ability to design and develop with consideration for performance and scalability.
+Communication skills to collaborate with stakeholders and execute product development.
+Japanese or English in communication level.
+Ability to review design documents from tools such as Figma and Canva.
+(Preferred) Experience in project management or as a team leader.
+
+ 
+
+Work Conditions
+
+Employment type (permanent employee, contractor, intern, etc.): Permanent employee, side jobs allowed.
+Work location: Remote work allowed, with the ability to come to the Roppongi Hills ANRI CIRCLE Office once a month.
+Working hours: Flexible working hours (no core time, no flexible time).
+
+ 
+
+Salary
+
+Monthly salary (including fixed overtime pay).
+Determined based on skills, experience, and abilities.
+Probation period: 6 months after joining (salary same as permanent employment during this period).","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-full-stack-engineer-sliy8x","","Full Stack Engineer","AI Robot Association (AIRoA)","Tokyo, Tokyo, Japan","2025-12-16","","direct_data","yearly",6000000.0,20000000.0,"JPY","","","","","","Description
+
+About AIRoA
+
+The AI Robot Association (AIRoA) is launching a groundbreaking initiative: collecting one million hours of humanoid robot operation data with hundreds of robots, and leveraging it to train the world’s most powerful Vision-Language-Action (VLA) models.
+
+What makes AIRoA unique is not only the unprecedented scale of real-world data and humanoid platforms, but also our commitment to making everything open and accessible. We are building a shared “robot data ecosystem” where datasets, trained models, and benchmarks are available to everyone. Researchers around the world will be able to evaluate their models on standardized humanoid robots through our open evaluation platform.
+
+ 
+
+For researchers, this means an opportunity to:
+
+Work on fundamental challenges in robotics and AI: multimodal learning, tactile-rich manipulation, sim-to-real transfer, and large-scale benchmarking.
+Access state-of-the-art infrastructure: hundreds of humanoid robots, GPU clusters, high-fidelity simulators, and a global-scale evaluation pipeline.
+Collaborate with leading experts across academia and industry, and publish results that will shape the next decade of robotics.
+Contribute to an initiative that will redefine the future of embodied AI—with all results made open to the world.
+
+ 
+
+Key Responsibilities
+
+Design, develop and implement teleoperation systems, including real‑time control, low‑latency audio/video streaming and operator-facing interfaces.
+Work closely with robot operators to gather feedback from real‑world use and continuously improve the user experience.
+Provide data‑quality feedback through the teleoperation UI to encourage higher‑quality data collection.
+Develop and maintain applications that support data collection, such as internal tools and dashboards.
+Build intuitive web‑based interfaces for managing and monitoring data pipelines.
+Collaborate with VLA teams and Data/ML platform teams to ensure seamless data ingestion and workflow management.
+Design and implement APIs to facilitate data interactions between internal services and external data sources.
+Develop configuration‑management systems to store and update metadata, including robot configurations and task descriptions.
+Ensure secure communication through robust authentication and access‑control mechanisms.
+
+ 
+
+Requirements
+
+Required Qualifications
+
+Bachelor’s degree in Computer Science or a related field (or equivalent practical experience).
+4+ years of professional experience as a full‑stack engineer.
+Proficiency in frontend frameworks such as Next.js, React or Vue.
+Proficiency in implementing backend solutions using such technologies as Go and Python FastAPI.
+
+ 
+
+Preferred Qualifications
+
+Experience developing real-time dashboards, robot control interfaces, or similar applications.
+Experience with web crawling and large-scale data processing is a plus.
+Familiarity with cloud platforms such as AWS, GCP or Azure.
+Strong understanding of web/mobile app development and real‑time communication protocols (WebSocket, MQTT, gRPC).
+Experience with ROS/ROS2 and related web tools (e.g., ROSBridge, Foxglove, Webviz).
+Familiarity with robot telemetry, sensor data visualization, and live camera feeds.
+Experience optimizing system performance using performance analysis tools.
+
+ 
+
+Benefits
+
+There are currently no comparable projects in the world that collect data and develop foundation models on such a large scale. As mentioned above, this is one of Japan’s leading national projects, supported by a substantial investment of 20.5 billion yen from NEDO.
+
+This position will play a crucial role in determining the success of the project. You will have broad discretion and responsibility, and we are confident that, if successful, you will gain both a great sense of achievement and the opportunity to make a meaningful contribution to society.
+
+Furthermore, we strongly encourage engineers to actively build their careers through this project—for example, by publishing research papers and engaging in academic activities.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-mlops-engineer-z44boe","","MLOps Engineer","AI Robot Association (AIRoA)","Tokyo, Tokyo, Japan","2025-12-16","","direct_data","yearly",6000000.0,20000000.0,"JPY","","","","","","Description
+
+About AIRoA
+
+The AI Robot Association (AIRoA) is launching a groundbreaking initiative: collecting one million hours of humanoid robot operation data with hundreds of robots, and leveraging it to train the world’s most powerful Vision-Language-Action (VLA) models.
+
+What makes AIRoA unique is not only the unprecedented scale of real-world data and humanoid platforms, but also our commitment to making everything open and accessible. We are building a shared “robot data ecosystem” where datasets, trained models, and benchmarks are available to everyone. Researchers around the world will be able to evaluate their models on standardized humanoid robots through our open evaluation platform.
+
+ 
+
+For researchers, this means an opportunity to:
+
+Work on fundamental challenges in robotics and AI: multimodal learning, tactile-rich manipulation, sim-to-real transfer, and large-scale benchmarking.
+Access state-of-the-art infrastructure: hundreds of humanoid robots, GPU clusters, high-fidelity simulators, and a global-scale evaluation pipeline.
+Collaborate with leading experts across academia and industry, and publish results that will shape the next decade of robotics.
+Contribute to an initiative that will redefine the future of embodied AI—with all results made open to the world.
+
+ 
+
+Key Responsibilities
+
+Design, implement, and maintain large-scale ML pipelines and optimize model performance for training on massive robot datasets
+Design, deploy, and maintain distributed training clusters to reduce model development cycles
+Collaborate closely with VLA researchers to capture evolving ML infrastructure, data pre-processing, training, monitoring, evaluation, and deployment requirements and continuously improve ML pipeline through analysis and experimentation.
+Optimize ML infrastructure and pipeline for cost, performance, and reliability
+Design, develop, and maintain MLOps tools and platforms to ensure VLA researchers can efficiently visualize and analyze the performance
+
+ 
+
+Requirements
+
+Required Qualifications
+
+Master’s degree in Computer Science, Engineering, or a related field (or equivalent practical experience).
+5+ years of professional experience as a software engineer in MLOps engineering, machine learning, or robotics.
+Experience in deploying distributed systems to popular cloud services such as AWS, GCP, Azure.
+Experience in orchestration tools such as Airflow, Dagster, or Kedro.
+High proficiency in PyTorch or JAX.
+
+ 
+
+Preferred Qualifications
+
+Experience with training and fine-tuning techniques for RL, VLM, and VLA models, including distillation, supervised fine-tuning, and policy optimization.
+Experience building ETL/ELT pipelines for data processing.
+Experience in hyper-parameter optimization.
+Experience in distributed training frameworks and cluster management for deep neural network training.
+Deep understanding of GPU memory management and optimization techniques.
+Experience in analyzing, monitoring, and managing data quality.
+Experience with processing robotics-related sensor data (e.g., RGB/Depth images, point clouds), including knowledge of image/signal processing, sensor fusion, and time synchronization.
+Experience with ROS/ROS2.
+High proficiency in SQL.
+Experience optimizing system performance using performance analysis tools.
+
+ 
+
+Benefits
+
+There are currently no comparable projects in the world that collect data and develop foundation models on such a large scale. As mentioned above, this is one of Japan’s leading national projects, supported by a substantial investment of 20.5 billion yen from NEDO.
+
+This position will play a crucial role in determining the success of the project. You will have broad discretion and responsibility, and we are confident that, if successful, you will gain both a great sense of achievement and the opportunity to make a meaningful contribution to society.
+
+Furthermore, we strongly encourage engineers to actively build their careers through this project—for example, by publishing research papers and engaging in academic activities.","","","","","","","","","","","","","",""

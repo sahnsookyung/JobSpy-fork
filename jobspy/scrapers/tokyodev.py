@@ -67,10 +67,10 @@ class TokyoDev(Scraper):
 
         text = salary_text.replace(",", "").strip()
 
-        # TokyoDev examples show JPY with ¥ in the header/list tags. [file:18][file:19]
+        # TokyoDev examples show JPY with ¥ in the header/list tags.
         currency = "JPY" if "¥" in text or "JPY" in text.upper() else None
 
-        # Handle both "14M" and "14.5M" forms (and tolerate trailing words like "annually"). [file:18]
+        # Handle both "14M" and "14.5M" forms (and tolerate trailing words like "annually").
         nums = re.findall(r"(\d+(?:\.\d+)?)\s*M", text.upper())
         if not nums:
             return None
@@ -146,7 +146,7 @@ class TokyoDev(Scraper):
 
     def _extract_seeds_from_list_page(self, page, results_wanted: int) -> list[JobSeed]:
         """
-        Extract (job_url, company_name, skills/tags) from the aggregation page. [file:19]
+        Extract (job_url, company_name, skills/tags) from the aggregation page.
         """
         seeds: list[JobSeed] = []
         company_cards = page.locator("ul.list-inside > li").all()
@@ -160,7 +160,7 @@ class TokyoDev(Scraper):
             except Exception:
                 company_name = None
 
-            # Each job row is a div[data-collapsable-list-target='item'] containing h4 a. [file:19]
+            # Each job row is a div[data-collapsable-list-target='item'] containing h4 a.
             job_items = card.locator("div[data-collapsable-list-target='item']").all()
 
             for item in job_items:
@@ -186,7 +186,7 @@ class TokyoDev(Scraper):
                         href2 = a.get_attribute("href") or ""
                         lt = t.lower()
 
-                        # Salary tag commonly links to /jobs/salary-data. [file:19]
+                        # Salary tag commonly links to /jobs/salary-data.
                         if "/jobs/salary-data" in href2:
                             salary_text_hint = t
                             continue
@@ -195,7 +195,7 @@ class TokyoDev(Scraper):
                             is_remote_hint = True
                             continue
 
-                        # Treat remaining tags as skills/categories (Android, iOS, Backend, etc.). [file:19]
+                        # Treat remaining tags as skills/categories (Android, iOS, Backend, etc.).
                         if t and "japanese" not in lt and "resident" not in lt:
                             skills.append(" ".join(t.split()))
 
@@ -225,7 +225,6 @@ class TokyoDev(Scraper):
         - salary line containing ¥
         - japanese/english requirement strings (text contains 'Japanese'/'English')
         - remote boolean (header contains 'remote')
-        [file:18]
         """
         header = detail_page.locator("#job-header")
         out: dict = {
@@ -236,7 +235,7 @@ class TokyoDev(Scraper):
             "is_remote": None,
         }
 
-        # Company: link to /companies/... contains <span class="font-bold">Company</span>. [file:18]
+        # Company: link to /companies/... contains <span class="font-bold">Company</span>.
         try:
             out["company_name"] = (
                 header.locator("a[href^='/companies/'] span.font-bold").first.inner_text().strip()
@@ -244,7 +243,7 @@ class TokyoDev(Scraper):
         except Exception:
             pass
 
-        # Salary: find a span containing "¥" within the header. [file:18]
+        # Salary: find a span containing "¥" within the header.
         try:
             salary_candidates = header.locator("xpath=.//span[contains(., '¥')]").all_inner_texts()
             # Prefer the one that looks like a range.
@@ -256,7 +255,7 @@ class TokyoDev(Scraper):
         except Exception:
             pass
 
-        # Language requirements: tooltip spans show "Business Japanese" etc. [file:18]
+        # Language requirements: tooltip spans show "Business Japanese" etc.
         try:
             tooltip_texts = header.locator("[data-controller='tooltip']").all_inner_texts()
             for t in tooltip_texts:
@@ -268,7 +267,7 @@ class TokyoDev(Scraper):
         except Exception:
             pass
 
-        # Remote: keyword check in header text (e.g., "Fully remote ..."). [file:18]
+        # Remote: keyword check in header text (e.g., "Fully remote ...").
         try:
             out["is_remote"] = "remote" in header.inner_text().lower()
         except Exception:
@@ -297,7 +296,7 @@ class TokyoDev(Scraper):
         proxy = parse_proxy_string(proxy_str) if proxy_str else None
 
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=False)
+            browser = p.chromium.launch(channel="chrome", headless=True)
             context = create_playwright_context(
                 browser,
                 proxy=proxy,
@@ -305,7 +304,7 @@ class TokyoDev(Scraper):
                 request_timeout=scraper_input.request_timeout,
             )
 
-            # Safer vs Cloudflare: do NOT block fonts/stylesheets; your utils only blocks images/media anyway. [file:23]
+            # Safer vs Cloudflare: do NOT block fonts/stylesheets; your utils only blocks images/media anyway.
             list_page = setup_page(context, block_resources=False)
 
             url = self._build_jobs_url(
@@ -339,19 +338,17 @@ class TokyoDev(Scraper):
                     detail_page.goto(seed.job_url)
                     wait_for_cloudflare_to_clear(detail_page, timeout_ms=scraper_input.request_timeout * 1000)
 
-                    # Title: reliable on detail pages as h1 (your earlier code did this). [file:25]
                     try:
                         title = detail_page.locator("h1").first.inner_text().strip()
                     except Exception:
-                        # Fallback: if h1 changes, use list-page title text via URL last segment.
                         title = seed.job_url.rsplit("/", 1)[-1].replace("-", " ").title()
 
                     header_info = self._extract_header_requirements(detail_page)
 
-                    # Prefer detail header company name; fallback to list card company name. [file:18][file:19]
+                    # Prefer detail header company name; fallback to list card company name.
                     company_name = header_info.get("company_name") or seed.company_name
 
-                    # Description: keep using .prose if present (this is why we must visit the job page). [file:25]
+                    # Description: keep using .prose if present (this is why we must visit the job page).
                     description = None
                     prose = detail_page.locator(".prose")
                     if prose.count() > 0:
@@ -363,7 +360,7 @@ class TokyoDev(Scraper):
                     else:
                         description = detail_page.locator("body").inner_text()
 
-                    # Merge language requirements into description (JobPost has no dedicated fields). [file:22][file:18]
+                    # Merge language requirements into description (JobPost has no dedicated fields).
                     lang_bits = []
                     if header_info.get("japanese_req_text"):
                         lang_bits.append(header_info["japanese_req_text"])
@@ -372,16 +369,16 @@ class TokyoDev(Scraper):
                     if lang_bits:
                         description = "Language requirements: " + " | ".join(lang_bits) + "\n\n" + (description or "")
 
-                    # Salary: prefer detail header salary; fallback to list salary tag. [file:18][file:19]
+                    # Salary: prefer detail header salary; fallback to list salary tag.
                     salary_text = header_info.get("salary_text") or seed.salary_text_hint
                     compensation = self._parse_salary_to_comp(salary_text)
 
-                    # Remote: prefer detail header evaluation; fallback to list tags. [file:18][file:19]
+                    # Remote: prefer detail header evaluation; fallback to list tags.
                     is_remote = header_info.get("is_remote")
                     if is_remote is None:
                         is_remote = seed.is_remote_hint
 
-                    # Apply link: some jobs are modal-based; keep best-effort external link if present. [file:18]
+                    # Apply link: some jobs are modal-based; keep best-effort external link if present.
                     job_url_direct = None
                     try:
                         apply_a = detail_page.locator("a:has-text('Apply')").first

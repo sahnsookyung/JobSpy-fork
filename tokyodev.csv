@@ -1,5 +1,5 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"","tokyodev","https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo","/jobs/apply-from-abroad","Security Specialist (Product Security), CISO Office, Tokyo","Money Forward","Tokyo, Japan","2026-01-25","","direct_data","yearly",8000000.0,17000000.0,"JPY",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo","/jobs/apply-from-abroad","Security Specialist (Product Security), CISO Office, Tokyo","Money Forward","Tokyo, Japan","2026-01-26","","direct_data","yearly",8000000.0,17000000.0,"JPY",True,"","","","","Language requirements: Business English
 
 At Money Forward, we develop a wide range of popular services, including our automated personal financial management tool “Money Forward ME” and the “Money Forward Cloud” suite for businesses. Our ecosystem is powered by advanced technologies such as “Account Aggregation” and our single sign-on system, “Money Forward ID.”
 
@@ -58,7 +58,7 @@ Money Forward recently announced our AI Strategy roadmap which focuses on improv
 Compensation
 
 ¥8,004,000 ~ ¥17,004,000 annually.","","","","","","","","","Apply from abroad, IT Infrastructure, Security","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/moneyforward/jobs/ai-program-manager-productivity-innovation-department-tokyo","/jobs/apply-from-abroad","AI Program Manager, Productivity Innovation Department, Tokyo","Money Forward","Tokyo, Japan","2026-01-25","","direct_data","yearly",7900000.0,12000000.0,"JPY",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/moneyforward/jobs/ai-program-manager-productivity-innovation-department-tokyo","/jobs/apply-from-abroad","AI Program Manager, Productivity Innovation Department, Tokyo","Money Forward","Tokyo, Japan","2026-01-26","","direct_data","yearly",7900000.0,12000000.0,"JPY",True,"","","","","Language requirements: Business English
 
 The SMB Product Development Division is seeking a strategic and execution-focused AI Program Manager to drive our AI transformation. While your primary initial focus will be leading the AI Innovation Hub, this role is designed for a change agent capable of managing a portfolio of AI initiatives.
 
@@ -117,7 +117,7 @@ Conversational or business level Japanese.
 Compensation
 
 ¥7,900,000 ~ ¥12,000,000 annually.","","","","","","","","","Apply from abroad, Program Management, Project Management","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/rapyuta-robotics/jobs/software-engineer-robotics-control-systems","/jobs/apply-from-abroad","Software Engineer - Robotics Control Systems","Rapyuta Robotics","Tokyo, Japan","2026-01-25","","","","","","",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/rapyuta-robotics/jobs/software-engineer-robotics-control-systems","/jobs/apply-from-abroad","Software Engineer - Robotics Control Systems","Rapyuta Robotics","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
 
 As a Robotics Control Systems team member, you will drive innovation and optimization in multi-robot controls. Your work will directly impact developing and maintaining our distributed intelligence system for ASRS and pick-assist robots. You will be responsible for designing, implementing, testing, and maintaining critical components such as:
 
@@ -159,7 +159,7 @@ Background in multiagent systems, constraint programming, or distributed systems
 Hands-on experience with autonomous or manually operated robots.
 Knowledge of CI/CD systems.
 Startup experience.","","","","","","","","","Apply from abroad, Backend, C++, Robotics","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/rapyuta-robotics/jobs/technical-program-manager-distributed-systems","/jobs/apply-from-abroad","Technical Program Manager, Distributed Systems","Rapyuta Robotics","Tokyo, Japan","2026-01-25","","","","","","",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/rapyuta-robotics/jobs/technical-program-manager-distributed-systems","/jobs/apply-from-abroad","Technical Program Manager, Distributed Systems","Rapyuta Robotics","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
 
 You will drive cross-functional execution across distributed, multi-robot systems—aligning software, robotics systems, and product stakeholders to deliver reliable, high-impact features at pace. You’ll own the backlog, orchestrate planning and reviews, and create the conditions for teams to do their best work.
 
@@ -186,7 +186,7 @@ While not specifically required, tell us if you have any of the following.
 Background in distributed systems, realtime coordination, or large-scale orchestration (e.g., multi-agent systems, ROS2, event-driven services).
 Experience in warehousing, logistics, or industrial automation.
 Data-informed decision-making (experiments, telemetry, reliability metrics).","","","","","","","","","Apply from abroad, Program Management, Robotics","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-software-engineer","/jobs/apply-from-abroad","Robotics Software Engineer - Navigation","Rapyuta Robotics","Tokyo, Japan","2026-01-25","","","","","","",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-software-engineer","/jobs/apply-from-abroad","Robotics Software Engineer - Navigation","Rapyuta Robotics","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
 
 We are seeking a proactive and skilled Navigation Engineer to join our robotics team, focusing on wheeled mobile platforms. This role is ideal for engineers who are passionate about autonomous navigation and eager to push the boundaries of robotic mobility. You will work closely with cross-functional teams—including perception, control, hardware, and software engineers—to design, implement, and optimize navigation systems for real-world deployment. Your ability to communicate effectively, share knowledge, and contribute to a dynamic development environment will be key to your success.
 
@@ -216,7 +216,7 @@ Knowledge in Perception and Computer Vision, including sensor fusion, object det
 Familiarity with simulation and visualization tools.
 Experience working in agile development environments and using version control systems like Git.
 Experience with Behavior Tree","","","","","","","","","Apply from abroad, C++, Python, Robotics","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/zeals/jobs/security-engineer","/jobs/apply-from-abroad","Security Engineer","Zeals","Tokyo, Japan","2026-01-25","","","","","","",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/zeals/jobs/security-engineer","/jobs/apply-from-abroad","Security Engineer","Zeals","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
 
 Responsibilities
 Conduct vulnerability assessments and penetration tests on systems, networks, and applications.
@@ -250,7 +250,7 @@ Familiarity with secure coding practices and experience with application securit
 Proficiency in one or more programming or scripting languages (e.g., Python, JavaScript, Golang) for automation and custom tool development.
 Experience leading, executing or coordinating security-related projects.
 Relevant professional certifications such as CISSP, CEH, CompTIA Security+, or GIAC.","","","","","","","","","Apply from abroad, Security","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/komoju/jobs/senior-software-engineer-fraud-risk","/jobs/apply-from-abroad","Senior Software Engineer, Fraud Risk","KOMOJU","Tokyo, Japan","2026-01-25","","","","","","",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/komoju/jobs/senior-software-engineer-fraud-risk","/jobs/apply-from-abroad","Senior Software Engineer, Fraud Risk","KOMOJU","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
 
 The Fraud Prevention Team at KOMOJU is our frontline defense against payment fraud, protecting both our merchants and their customers across international borders. We build and maintain the intelligent systems that analyze merchant profiles, as well as transactions in real-time to detect and prevent fraudulent activity.
 
@@ -291,7 +291,7 @@ Python, or any other major programming language.
 Experience working in the credit card or payment industry.
 Background in payment security or security systems in general.
 Conversational-level Japanese proficiency.","","","","","","","","","Apply from abroad, Backend, Machine Learning, Python, Ruby","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/paypay/jobs/product-designer","/jobs/apply-from-abroad","Product Designer","PayPay","Tokyo, Japan","2026-01-25","","","","","","",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/paypay/jobs/product-designer","/jobs/apply-from-abroad","Product Designer","PayPay","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
 
 Join a project and work with engineers, product managers, and senior designers to develop new features and improve existing features that put user experience top priority.  Experience various challenges to deliver a new financial experience to users.
 
@@ -313,7 +313,7 @@ While not specifically required, tell us if you have any of the following.
 Hands-on experience in design utilizing HCD (Human Centered Design) and design thinking
 Experience in managing in-house services
 Conversational level in both Japanese and English","","","","","","","","","Apply from abroad, Android, iOS, Product Design, UX Design","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/paypay/jobs/product-security-engineer-infrastructure","/jobs/apply-from-abroad","Product Security Engineer (Infrastructure)","PayPay","Tokyo, Japan","2026-01-25","","","","","","",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/paypay/jobs/product-security-engineer-infrastructure","/jobs/apply-from-abroad","Product Security Engineer (Infrastructure)","PayPay","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
 
 The PayPay Product Security team is looking for experienced infrastructure security engineers to lead improvements to our infrastructure and operational security, and introduce key security solutions.
 
@@ -348,7 +348,7 @@ Previous experience working in DevOps, SRE, or similar roles
 Experience working with microservice-based systems
 Experience working in a security position within the fintech industry
 Native or business level Japanese proficiency","","","","","","","","","Apply from abroad, Security","","","","",""
-"","tokyodev","https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer-kafka-specialist","/jobs/apply-from-abroad","Cloud Platform Engineer (Kafka Specialist)","PayPay","Tokyo, Japan","2026-01-25","","","","","","",True,"","","","","Language requirements: Business English
+"","tokyodev","https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer-kafka-specialist","/jobs/apply-from-abroad","Cloud Platform Engineer (Kafka Specialist)","PayPay","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
 
 At the core of our architecture in PayPay, we use Kafka for high-performance data streaming, and every payment that goes through the app is handled by multiple topics in Kafka. To keep up with the challenges of our growing product and future expansion, we are expanding our Streaming Platform team and are looking for an engineer with deep experience in Kafka to help lead the next stage.
 
@@ -399,3 +399,705 @@ Experience guiding cross-team adoption of Kafka in microservice architectures
 Experience in operating distributed systems
 Working experience in a full remote environment
 Bachelor’s or Master’s Degree in Computer Science or a related field","","","","","","","","","Apply from abroad, Java","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/paypay/jobs/automation-qa-engineer","/c/paypay/j/automation-qa-engineer/applications/new","Automation QA Engineer","PayPay","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+Team Missions
+
+Serving as an autonomous QA organization in Product Group.
+
+To improve the overall quality of PayPay products and services
+To develop PayPay quality standards and best practices
+To gain trust in quality from PayPay Users and Merchants
+Responsibilities
+Analyze testing requirements to develop comprehensive test scenarios for various test levels.
+Design and create detailed test cases that validate conformance to functional and non-functional requirements.
+Prepare and manage essential test data, tools, and environments for test execution.
+Execute test cases and scripts, meticulously documenting results.
+Log, track, and verify defects, ensuring accurate documentation and timely resolution.
+Collect, organize, and analyze test results to provide thorough reports on all QA activities.
+Analyze testing outcomes and recommend effective solutions for identified issues.
+Maintain and update comprehensive test documentation, ensuring coverage for new features and robust regression testing.
+Support knowledge management and foster collaboration by actively participating in testing discussions and contributing to continuous improvement through lessons learned.
+Act as a Subject Matter Expert (SME) for designated modules, providing critical domain knowledge and support to the QA team.
+Provide guidance and support to junior QA engineers, including onboarding and training. -Leverage AI tools such as NotebookLM, Gemini, Cursor AI, GitHub Copilot, and OpenAI APIs to accelerate test case design, automation, and exploratory testing.
+Apply prompt engineering and RAG (Retrieval-Augmented Generation) techniques to validate LLM-driven applications, ensuring accuracy, reliability, and robustness.
+Work with OpenAI keys, LLM models, and MCP server integrations, automating API-based interactions and securing AI workflows.
+Test and monitor AI/ML systems for issues such as bias, drift, hallucinations, and performance deviations.
+Requirements
+Minimum 3+ years of experience in developing, executing, and maintaining automated test cases for mobile applications, web applications, and/or APIs.
+Proven professional experience with at least one of the following automation frameworks/tools: Appium (for mobile), Selenium (for web), or Rest-Assured (for APIs).
+Proficient in utilizing Cucumber for defining and executing test cases.
+Well-versed in Continuous Integration/Continuous Deployment (CI/CD) tools such as Jenkins, Bitrise, or similar platforms.
+Basic understanding of microservices architecture and its associated testing challenges.
+Strong ability to analyze technical requirements, design comprehensive test strategies, and create detailed, effective test cases.
+Exceptional analytical and problem-solving skills, coupled with a meticulous attention to detail.
+Excellent communication skills, a team-oriented mindset, and the ability to work effectively both independently and collaboratively.
+Hands-on experience with AI productivity tools (NotebookLM, Gemini, Cursor AI, GitHub Copilot).
+Knowledge of OpenAI API usage, key management, embeddings, and LLM integration workflows.
+Familiarity with MCP server concepts and their integration in test automation pipelines.
+Understanding of AI system validation techniques, including testing for bias, hallucinations, drift, and robustness.
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+ISTQB or an equivalent QA certification.
+Experience working in Agile or other fast-paced development environments.
+Familiarity with the financial or payments domain is highly desirable.
+Experience in proposing and standardizing QA processes, with a proven ability to collaborate effectively with cross-functional teams.
+Experience in designing and executing performance tests using tools such as Gatling, wrk, or JMeter.
+Familiarity with Docker and Kubernetes for containerization and orchestration.
+Experience with bash or other command-line interface (CLI) scripting.
+Coding experience in building web or mobile-based applications.
+A strong sense of curiosity and a passion for continuously learning new technologies are definite plusses!","","","","","","","","","Apply from abroad, Java, Quality Assurance, Test Automation","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/amptalk/jobs/sr-mobile-flutter-engineer","/jobs/apply-from-abroad","Senior Mobile (Flutter) Engineer","amptalk","Tokyo, Japan","2026-01-26","","direct_data","yearly",6000000.0,"","JPY",True,"","","","","Language requirements: Business English
+
+As a Mobile (Flutter) Engineer, you will play a crucial role in developing, deploying, and maintaining mobile applications that align with our business objectives. You will collaborate closely with cross-functional teams to create high-quality, user-centric mobile experiences.
+
+Technologies Used
+Mobile: Flutter (Dart)
+Backend: Node.js, TypeScript
+Cloud: AWS
+Database: PostgreSQL, Amazon DynamoDB
+CI/CD: GitHub Actions
+Note: These are examples of the technologies we use, but the team has the flexibility to make decisions on the tech stack. You will have the opportunity to shape the mobile technology choices for our products.
+Responsibilities
+Design and develop mobile applications that meet business needs and provide an exceptional user experience.
+Participate in the mobile application development lifecycle, from concept to release, ensuring quality and performance.
+Implement robust mobile functionalities, collaborating across engineering and product teams.
+Identify and address technical challenges, such as platform-specific optimizations and cross-platform compatibility.
+Collaborate with designers and product managers to create intuitive, responsive, and visually appealing user interfaces.
+Maintain mobile applications by monitoring performance and resolving bugs or inefficiencies.
+Stay up-to-date with the latest mobile development trends and technologies to ensure our apps remain cutting-edge.
+Requirements
+3+ years of experience in mobile app development.
+Expertise in developing applications using Flutter and native languages (Swift or Kotlin).
+Experience with full mobile development cycles, including design, development, testing, and deployment.
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Experience with app store submission and release management (iOS/Android).
+Strong Android engineering background and Kotlin experience.
+Knowledge of mobile security best practices, including encryption and authentication.
+Portfolio of past projects.
+Compensation
+
+¥6,000,000 ~ annually.","","","","","","","","","Apply from abroad, Android, Flutter, iOS","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/slacker-apps/jobs/ai-chatbot-engineer","/c/slacker-apps/j/ai-chatbot-engineer/applications/new","AI Chatbot Engineer","Slacker Apps","Tokyo, Japan","2026-01-26","","direct_data","yearly",5000000.0,8000000.0,"JPY",True,"","","","","Language requirements: Business English
+
+We’re looking for an engineer to take ownership of our AI orchestration layer for real-time AI character interaction products used in conversational attractions and live experiences. You’ll evolve the foundations built by our partner and bring the system fully in-house — focusing on latency, reliability, multi-routine orchestration, guardrails, and real-time character interaction.
+
+This is a lead-level role for someone excited to own Slacker Apps’ AI systems, stay close to the latest advancements in the AI space, and work hands-on with our team to turn cutting-edge technology into AAA-quality products for world-known clients.
+
+Responsibilities
+Maintain and expand our LLM-based orchestration layer (routing, routines, memory, intent handling).
+Design robust conversation flows with guardrails suitable for public-facing attractions.
+Integrate STT, TTS, RAG, and animation triggers for real-time character interactions.
+Work closely with Unity developers, designers, and animators to deliver low-latency, expressive character experiences.
+Optimise systems for both on-prem and off-prem GPU deployment (4090/5090 boxes, RunPod-style orchestration).
+Evaluate new models, tools, and approach
+Requirements
+2+ years professional development experience required
+Strong backend engineering experience in Python or Node.js.
+Hands-on experience integrating LLMs (OpenAI, Anthropic, fine-tuned models, vector databases).
+Experience building real-time or low-latency systems.
+Solid understanding of GPU-based inference and local/remote deployment strategies.
+Ability to design systems that are stable, observable, and maintainable in production environments.
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Experience leading or owning AI systems in production.
+Familiarity with real-time audio pipelines (STT/TTS streaming).
+Experience with character-driven or conversational UX (games, virtual humans, chatbots, assistants).
+Knowledge of prompt engineering, fine-tuning workflows, or evaluation tooling.
+Experience with containerisation, orchestration, or scalable inference infrastructure.
+Interest in AI safety, guardrails, and content moderation for public-facing products.
+Curiosity and enthusiasm for staying up to date with the rapidly evolving AI landscape.
+Compensation
+
+¥5,000,000 ~ ¥8,000,000 annually.","","","","","","","","","Apply from abroad, Machine Learning, Python","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/hennge/jobs/junior-software-engineer-go-web-dev","/jobs/apply-from-abroad","Software Engineer (Go / Web Dev)","HENNGE","Tokyo, Japan","2026-01-26","","direct_data","yearly",7000000.0,9000000.0,"JPY",True,"","","","","Language requirements: Business English
+
+We’re looking for a software engineer to take ownership of backend and web-platform development. You’ll join the File DLP Team, building and maintaining the File DLP product within the HENNGE One suite.
+
+As one of the newer products in our lineup, File DLP is still evolving — you’ll work closely with us to explore new ideas, shape features from discovery to delivery, and bring impactful solutions to our customers. As the product continues to grow rapidly, you’ll also tackle scalability challenges and be expected to develop creative, forward-looking solutions to ensure reliability and performance at scale.
+
+While your main focus will be backend development, the team values full-stack and cross-functional collaboration — giving you opportunities to explore the frontend and work closely with stakeholders to deepen your understanding of the business and how our product creates value for customers.
+
+Tech Stack: Golang, React, Graphql, PostgreSQL, Terraform, Temporal, AWS
+
+Responsibilities
+Design, build, and maintain new features for HENNGE One, using Go and other web technologies.
+Automate deployment, testing, monitoring and documentation via CI/CD pipelines and infrastructure-as-code.
+Participate actively in product discovery processes that involve Product Management, Design, and Customer Success teams to deliver high-quality user experiences.
+Participate actively in code reviews, discussions and technical decision-making.
+Assess risks in system architecture designs.
+Work collaboratively with other engineers in a team environment, and contribute to improving team process & engineering culture.
+Requirements
+2+ years of experience developing production-scale web applications using Go.
+Experience in developing full-stack applications.
+Experience in working collaboratively with other engineers in a team environment.
+Hands-on experience with cloud infrastructure (AWS, GCP or Azure) and distributed system concepts.
+Experience with CI/CD, automated testing, code documentation, and clean-code practices.
+Fluency in English (Japanese is not required), equivalent to CEFR B2 level or above (e.g., TOEIC 785+).
+Interested in open source/tech community activities
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Degree in Computer Science or other related technical fields.
+Experience building large-scale distributed systems or SaaS products.
+Knowledge of web-security, access-control, email-or-storage-systems domains.
+Knowledge of DevOps tools and practices (CI/CD, Infrastructure as Code).
+Knowledge of DevOps tools and practices (CI/CD, Infrastructure as Code)
+Knowledge of Linux / MacOS / Unix-like environments.
+Compensation
+
+¥7,000,000 ~ ¥9,000,000 annually.
+
+Our salary range is inclusive of English Allowance & Physical Communication Bonus - please check the details below, with the final amount determined based on your experience and skills.
+
+Please refer to our Company Introduction Deck for an explanation of our Assessment System and the Belt System, which we use to determine the candidate’s salary range.
+
+Benefits
+
+English Allowance and Advanced Language Expert Allowance: JPY 10,000 ~ JPY 130,000 per month, paid alongside base salary, if the employee fulfills the requirements.
+Physical Communication Bonus: JPY 4,000 per day, applicable from October 2025 onwards, for coming to the office and interacting with other employees, paid out as bonus according to the number of days.
+
+Details will be provided at the offer meeting.","","","","","","","","","Apply from abroad, Backend, Go, React","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-robotics","/jobs/apply-from-abroad","Research Scientist (Robotics)","AI Robot Association","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+For researchers, this means an opportunity to:
+
+Work on fundamental challenges in robotics and AI: multimodal learning, tactile-rich manipulation, sim-to-real transfer, and large-scale benchmarking.
+Access state-of-the-art infrastructure: hundreds of humanoid robots, GPU clusters, high-fidelity simulators, and a global-scale evaluation pipeline.
+Collaborate with leading experts across academia and industry, and publish results that will shape the next decade of robotics.
+Contribute to an initiative that will redefine the future of embodied AI—with all results made open to the world.
+
+As we prepare for our official launch on October 1, 2025, we are assembling a world-class team ready to pioneer the next era of robotics.
+
+We invite ambitious researchers and engineers to join us in this bold challenge to rewrite the history of robotics.
+
+Responsibilities
+Designing and building scalable data collection systems that operate across hundreds of humanoid and mobile robots.
+Developing semi-autonomous teleoperation systems that ensure low latency, high controllability, and minimal operator workload.
+Creating automated pipelines to deploy trained models and rigorously evaluate them in both simulation and real-world robotic platforms.
+Working closely with the Vision-Language-Action (VLA) team to seamlessly integrate and deploy cutting-edge models onto physical robots.
+Requirements
+
+Ph.D. in Robotics, Mechanical Engineering, Computer Science, or a related field, or M.S. with 3+ years of equivalent industry or research experience.
+
+Extensive hands-on experience with physical robotic platforms (e.g., mobile robots, manipulators such as UR5, Franka Emika, HSR, or humanoids like Spot).
+
+Demonstrated ability to control real robots using ROS / ROS2, including full-stack integration and deployment.
+
+Solid understanding and implementation experience in teleoperation, AR/VR interfaces, and leader–follower architectures.
+
+Strong programming proficiency in C++ and Python, with ability to contribute production-level code and perform system-level integration.
+
+Proven ability to work both independently and collaboratively in multidisciplinary research and engineering teams.
+Note:
+Candidates focused solely on theoretical research (e.g., reinforcement learning or explainable AI) without practical robotics experience will not be considered.
+However, candidates do not necessarily need to meet every single qualification to be considered for this role.
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Publication record in top-tier robotics conferences or journals (RSS, CoRL, ICRA, IROS, TRO, IJRR).
+
+Publications limited to CVPR, ICCV, or NeurIPS could be considered AI-centric and scored lower for this position.
+
+Experience implementing advanced control strategies on hardware (impedance control, force/torque control, admittance control, or model predictive control).
+
+Practical experience with tactile sensing or contact-rich manipulation.
+
+Experience leading or contributing to large-scale robot data collection or fleet management systems.
+
+Familiarity with robotic simulators (Isaac Sim, MuJoCo, or PyBullet) for training and evaluation.
+
+Experience integrating Sim2Real transfer or Vision–Language–Action (VLA) models onto real robotic systems.","","","","","","","","","Apply from abroad, C++, Robotics, Python","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-vlas","/jobs/apply-from-abroad","Research Scientist (VLAs)","AI Robot Association","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+For researchers, this means an opportunity to:
+
+Work on fundamental challenges in robotics and AI: multimodal learning, tactile-rich manipulation, sim-to-real transfer, and large-scale benchmarking.
+
+Access state-of-the-art infrastructure: hundreds of humanoid robots, GPU clusters, high-fidelity simulators, and a global-scale evaluation pipeline.
+
+Collaborate with leading experts across academia and industry, and publish results that will shape the next decade of robotics.
+
+Contribute to an initiative that will redefine the future of embodied AI—with all results made open to the world.
+
+As we prepare for our official launch on October 1, 2025, we are assembling a world-class team ready to pioneer the next era of robotics.
+
+We invite ambitious researchers and engineers to join us in this bold challenge to rewrite the history of robotics.
+
+Responsibilities
+
+Design and implement data preprocessing pipelines for multimodal robot datasets
+
+Train VLA models using supervised learning, RL, fine-tuning, RLHF, and training from scratch
+
+Develop and evaluate models in both simulation and on physical robots
+
+Improve training robustness and efficiency through algorithmic innovation
+
+Analyze model performance and propose enhancements based on empirical results
+
+Deploy VLA models onto real humanoid and mobile robotic platforms
+
+Publish research in top-tier conferences (e.g., NeurIPS, CoRL, CVPR)
+
+Requirements
+
+MS degree with 3+ years of industry experience, or PhD in Computer Science, Electrical Engineering, or a related field.
+
+Have at least one first-author publication in a top-tier conference such as CoRL, ICML, CVPR, NeurIPS, IROS, ICLR, ICCV, or ECCV.
+
+Experience with open-ended learning, reinforcement learning, and frontier methods for training LLMs/VLMs/VLAs such as RLHF and reward function design
+
+Experience working with simulators or real-world robots
+
+Knowledge of the latest advancements in large-scale machine learning research
+
+Experience with deep learning frameworks such as PyTorch
+
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+PhD or equivalent research experience in robot learning.
+
+Practical experience implementing advanced control strategies on hardware, including impedance control, adaptive control, force control, or MPC.
+
+Experience using tactile sensing for dexterous manipulation and contact-rich tasks.
+
+Familiarity with simulation platforms and benchmarks (e.g., MuJoCo, PyBullet, Isaac Sim) for training and evaluation.
+
+Proven track record of achieving significant results as demonstrated by publications at leading conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), and Computer Vision (CVPR, ICCV, ECCV)
+
+Strong end-to-end system building and rapid prototyping skills
+
+Experience with robotics frameworks like ROS","","","","","","","","","Apply from abroad, Machine Learning, Robotics","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/ai-robot-association/jobs/information-systems-manager","/jobs/apply-from-abroad","Information Systems Manager","AI Robot Association","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+As the Head of the Information Systems Department, you will be responsible for establishing and maintaining the IT infrastructure that supports the national project and ensures efficient collaboration among development teams.
+
+This position is hands-on and close to a playing manager role, involving both leadership and on-site technical work.
+
+Responsibilities
+Develop and implement the strategy and architecture for the internal IT infrastructure. Manage, maintain, and monitor internal networks (LAN, WAN, Wi-Fi, VPN).
+Investigate, troubleshoot, and resolve network issues, including coordination with vendors.
+Configure and operate online storage systems (NAS, cloud storage, etc.).
+Prepare and maintain network diagrams and operation documentation (including reports required by NEDO).
+Gather and visualize configuration information by coordinating with subcontractors.
+Provide helpdesk support for network-related issues raised by development team members.
+Requirements
+Network Infrastructure Knowledge and Experience
+Solid understanding and hands-on experience with TCP/IP, routing, switching, VLANs, and other core networking concepts.
+Operational experience with network devices (L2/L3 switches, routers, firewalls).
+Experience configuring and managing Zero Trust networks (e.g., Tailscale).
+Storage and Cloud-Related Skills
+Experience managing and setting permissions for NAS and cloud storage systems (e.g., Google Drive, OneDrive, Box).
+Practical experience using AWS S3 or similar cloud-based storage services.
+System and Infrastructure Operations
+Knowledge and operational experience with Linux/Unix systems.
+Experience in server setup and operations, both on-premises and in cloud environments.
+Familiarity with virtualization and container technologies such as VMware, KVM, Docker, and Kubernetes.
+Security and Authentication Skills
+Fundamental understanding of IT security (patch management, authentication/access control, log analysis, etc.).
+Experience operating or setting up LDAP environments.
+Documentation, Visualization, and Communication Skills
+Ability to create network diagrams and operational manuals using tools such as Visio, draw.io, or Lucidchart.
+Experience visualizing system metrics using monitoring tools like Prometheus or Grafana.
+Strong communication skills and experience supporting internal users (helpdesk or IT support).
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Network Certifications and Monitoring
+Certifications such as CCNA, CompTIA Network+, or equivalent.
+Experience using network monitoring tools (e.g., Zabbix, Nagios, Prometheus).
+Storage and Cloud Operations
+Advanced experience managing cloud storage, including backup policy design and audit log management.
+Experience operating infrastructure in cloud environments (AWS, GCP, Azure).
+Automation and Development Infrastructure
+Experience using network automation scripts (Python, PowerShell, Ansible, etc.).
+Familiarity with Infrastructure as Code (IaC) tools such as Terraform, Ansible, or Puppet.
+Experience building CI/CD pipelines using GitHub Actions, GitLab CI, or Jenkins.
+HPC and GPU-Related Skills
+Experience operating HPC clusters.
+Knowledge of GPU cluster optimization (CUDA, InfiniBand, Lustre, etc.).
+Large-Scale System Operations
+Experience with performance tuning for large-scale distributed systems.","","","","","","","","","Apply from abroad, IT Infrastructure, Networks, Security","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/tablecheck/jobs/data-operations-engineer","/jobs/apply-from-abroad","Data Operations Engineer","TableCheck","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Fluent English
+
+TableCheck, Japan’s leading restaurant reservation management platform, is searching for a skilled Data Operations Engineer for our Data Operations Team. As a member of this team you will own our data-related products and help support our demanding business and developer needs.
+
+We are working on significant improvements to our Data Operations by utilizing new operations frameworks and tooling.
+
+Our new software stack is being built with the latest technologies including dbt, Airflow, and Broadway. We primarily deploy our services using AWS.
+
+Responsibilities
+Implementing source management through data generation and schema management.
+Define data ingestion pipelines that normalize and transform clients data to fit our standard data schema.
+Ensure data meet quality standards and routinely work with our customers, handling their requests and configuring the platform to their needs.
+The drive to collaborate, gather feedback, solve problems, and tackle challenges through test and learn is highly valuable in this position.
+Requirements
+At least 2 years of experience using Elixir or Ruby for data-related projects in a production environment. Please make sure you fit this requirement before applying!
+Experience with Python and / or Elixir.
+Experience with database technologies such as PostgreSQL, SQLite, etc.
+Experience implementing the Data Engineering Lifecycle in an organization (both code and communication)
+2-3 years of experience in a data scientist / data analyst / full-stack programming with Big Data or similar position
+Proficient with SQL with knowledge of database internals
+Familiar with machine learning concepts
+Demonstrated ability to absorb information, manage your own time and commitments, achieve desired results in a highly technical environment
+A native level of English is required. (No Japanese language knowledge is required for this role.)
+Must be based in UTC+7 to UTC+12 (Asia / Oceania) or UTC+0 to UTC+1 (Europe)
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Previous startup experience is highly desired
+Experience with AWS (API-level)
+Experience with MongoDB
+Security related development knowledge, especially related to PII
+Bachelor’s degree in Engineering, or a related technical field","","","","","","","","","Apply from abroad, AWS, Data Engineering, Elixir, Python, Ruby","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/limit-break/jobs/unity-integrator","/jobs/apply-from-abroad","Unity Integrator","Limit Break","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+Limit Break is looking for a skilled Unity Integrator to join our team of experienced developers to craft a compelling and engaging experience on an exciting new IP.
+
+Responsibilities
+Integrate 3D assets, animations, VFX, sound, and Unity components to implement engaging levels and experiences using Unity editor-based tooling
+Collaborate closely with game designers, artists, and engineers to ensure a cohesive game experience
+Define and provide best practice documentation and template reference prefabs and assets that other integrators can leverage to produce high quality levels rapidly
+Champion and maintain content pipelines and technical requirements for level integration for a high content game
+Continuously seek and suggest improvements in level design processes and tools
+Implement custom behaviors using Unity components
+Requirements
+5+ years of experience in game development with a strong focus on 3D level design or technical art using Unity
+Demonstrated experience in assembling and integrating 3D models, animations, VFX, audio, and interactive elements within Unity
+Expertise with Unity prefabs and prefab variants
+Proficiency in using Unity’s editor tools for level design and implementation
+Experience with Unity Timeline, Mecanim, Animator Controllers, and other Unity assets and components
+Proficiency with Git
+A keen eye for aesthetic details and a passion for creating visually appealing game environments
+Proven ability to work collaboratively in a team environment and communicate effectively
+Initiative, ownership, and a problem-solving mindset
+A “roll up your sleeves” mindset to get any job done
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Passion for mobile games and game design sensibilities
+Strong understanding of and ability to tweak VFX, lighting, and other assets as needed
+Great technical implementation knowledge and scripting experience","","","","","","","","","Apply from abroad, Game Development, Unity 3D","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/wovn/jobs/fullstack-engineer","/jobs/apply-from-abroad","Fullstack Engineer","WOVN","Tokyo, Japan","2026-01-26","","direct_data","yearly",6000000.0,9000000.0,"JPY",True,"","","","","Language requirements: Conversational English
+
+We build products that make websites, apps, and media multilingual:
+
+WOVN.io – websites
+WOVN.app – smartphone apps
+WOVN.video – video subtitles
+
+Over 18,000 sites and apps use our services, mainly large enterprises and global companies. Our goal is to keep localization simple and effective while maintaining quality and usability.
+
+On the dev team we follow “Be Agile” — not just in coding, but in observing customers, designing UX, and validating impact. Everyone works full-stack, sharing expertise and picking up new skills as needed.
+
+Tech Stack
+WOVN.io / WOVN.video: Fastly, Rust, Vue.js, TypeScript, Ruby on Rails, Python, AWS/GCP/Azure
+WOVN.app: Objective-C, Swift, Java, React Native
+Common: GitHub, GitHub Actions, CircleCI, Jenkins, Devin, Claude Code, Cursor
+Requirements
+7+ years of web development experience with 2+ years at a single company
+Interest in languages and internationalization (i18n)
+Comfortable working fully in-office, as our team relies heavily on whiteboards, mob programming, and face-to-face collaboration rather than asynchronous tools.
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Excellent analytical and creative approaches to problem-solving
+Experience with large systems development
+Experience with server/internet security
+Experience with unit and end-to-end testing
+Knowledge about algorithms and data structures
+Knowledge or experience in leveraging AI agents for software development
+Experience in customer observation and requirements analysis
+Compensation
+
+¥6,000,000 ~ ¥9,000,000 annually.","","","","","","","","","Apply from abroad, Full Stack","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/givery/jobs/hr-tech-qa-engineer","/jobs/apply-from-abroad","QA Engineer (HR Tech)","Givery","Tokyo, Japan","2026-01-26","","direct_data","yearly",5000000.0,6500000.0,"JPY",True,"","","","","Language requirements: Business English
+
+We are looking for a skilled QA Engineer to help us expand Track, a platform that helps companies train and evaluate technical skills.
+
+We are looking for a skilled QA Engineer with a strong focus on web applications to join our team. The ideal candidate will have a background in both manual and automated testing, ensuring the highest quality standards for our web applications. As a QA Engineer, you will be responsible for working with development teams and other QA engineers to create and implement test strategies and ensure the delivery of high-quality, bug-free software.
+
+Responsibilities
+Develop, document and execute testing strategies and plans that guarantee time-efficient and extensive coverage
+Work with cross-functional teams, including product managers, developers, and designers, to understand requirements and ensure seamless integration of testing processes
+Write, maintain, execute new and existing manual test cases Develop and maintain automated tests pipelines and tools to validate functionality, usability
+Analyze test results, report on testing progress, and provide recommendations for improvement
+Continuously improve QA processes and practices, incorporating industry best practices and emerging technologies
+Foster a culture of quality and accountability within the team, ensuring that testing is an integral part of the software development lifecycle
+Requirements
+At least 3 years of professional experience in web application QA, combining manual testing and a minimum of 2 years of hands-on work with modern automation tools like Playwright, WDIO, or Cypress
+Strong knowledge of web technologies, including HTML, CSS, JavaScript, TypeScript, and RESTful APIs
+Solid familiarity with test automation best practices (page object models, waiting strategies, artifact management, report generation, locators, etc.)
+Excellent problem-solving, analytical, and communication skills
+Familiarity with Agile methodologies and a strong understanding of the software development lifecycle in JIRA
+A passion for quality assurance and a commitment to delivering high-quality software
+Ability to work both independently and as part of a team
+Business level language skills in English
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+5+ years professional experience in software engineering teams in any of the following roles: QA, software engineer, project- and/or product-management
+Spoken and written Japanese language ability
+Fundamental knowledge of Cyber-security
+Compensation
+
+¥5,000,000 ~ ¥6,500,000 annually.","","","","","","","","","Apply from abroad, Quality Assurance","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala","/jobs/apply-from-abroad","Backend Engineer (Scala)","Givery","Tokyo, Japan","2026-01-26","","direct_data","yearly",6000000.0,9500000.0,"JPY",True,"","","","","Language requirements: Business English
+
+We are looking for a skilled backend engineer to help us expand Track, a platform that helps companies train and evaluate technical skills.
+
+Responsibilities
+Architect, develop, maintain, and test new and existing backend features for Givery’s platform primarily using Scala.
+Collaborate with your team to evaluate and clarify product requirements, delivering technical solutions that align with user needs.
+Participate in strategic decision-making to propose optimal and efficient solutions.
+Work closely with a diverse, distributed engineering team to uphold a high-quality code base and continuously learn from and mentor each other.
+Monitor and respond promptly to any production issues to ensure the stable operation of our services. We take pride in releasing high-quality, bug-free code. Production incidents are extremely rare and mostly handled during core work hours.
+Requirements
+3+ years of professional experience driving the backend work of a commercial product using a JVM based language (Scala, Kotlin, Java) or a relevant modern programming language
+Experience building REST APIs running over distributed infrastructure
+Strong interest in and practical application of basic functional programming concepts Familiarity with non blocking, asynchronous programming techniques (e.g. Futures, Akka/Actors, Typelevel/IO)
+Experience working with relational databases (e.g. PostgreSQL, MySQL)
+Understanding and experience writing and maintaining automated test suites (Integration tests, Unit tests, Property based tests…)
+Experience working with cloud service providers (AWS / GCP / Azure)
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Expert-level fluency with Scala 2 and 3
+Experience working with Node.js/NestJS, Go, and/or Rust
+Experience working with React (and not allergic to frontend development tasks)
+Spoken and written Japanese language ability
+Compensation
+
+¥6,000,000 ~ ¥9,500,000 annually.","","","","","","","","","Apply from abroad, Backend, Scala","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/instalimb/jobs/frontend-engineer-3d","/jobs/apply-from-abroad","Frontend Engineer (3D)","instalimb","Tokyo, Japan","2026-01-26","","direct_data","yearly",4500000.0,9000000.0,"JPY",True,"","","","","Language requirements: Business English
+
+Our team is currently developing a cloud-based 3D CAD system that enables the entire design process for prosthetic devices to be completed online.
+
+We are looking for engineers have experience with web-based 3D technologies to join us in driving this development project forward. Prior experience building CAD systems is not required.
+
+Responsibilities
+New development and feature enhancements for our cloud-based 3D CAD system for prosthetics and orthotics
+UI design and implementation using React.js
+Development of 3D modeling and rendering features using three.js
+Collaboration with other engineering teams (AI team, backend team)
+Participation in requirements definition, design reviews, and code reviews
+Opportunity to contribute to the advanced functionality and optimization of our cloud CAD engine in the future
+Requirements
+2+ years of experience with WebGL-based 3D libraries (e.g., three.js)
+Alternatively, 2+ years of 3D game development or visualization experience
+1+ years of experience developing web applications using React.js or similar frameworks
+Basic understanding of 3D graphics concepts (meshes, surfaces, coordinate transformations, textures, etc.)
+Experience working in a team using Git or similar version control tools
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Experience with development using any kind of CAD system (web-based or desktop). For example, OpenCascade, FreeCAD, Rhino/Grasshopper, Fusion 360 API, Siemens NX API, etc.
+Knowledge of 3D modeling operations such as boolean operations, sweep, loft, offset, etc.
+Experience developing desktop 3D engines or modelers using Rust, C++, Python, or similar languages
+Experience designing high-performance computation using WebAssembly (WASM)
+Experience designing 3D UX/UI with a focus on usability
+Interest or knowledge in the medical device or prosthetics & orthotics domain
+Compensation
+
+¥4,500,000 ~ ¥9,000,000 annually.","","","","","","","","","Apply from abroad, React, Frontend","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/paypay-card-corporation/jobs/automation-qa-engineer","/c/paypay-card-corporation/j/automation-qa-engineer/applications/new","Automation QA Engineer","PayPay Card Corporation","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+We are seeking a full-stack QA engineer who can perform both manual and automated testing in the role of SDET. This position requires an individual who is strong in automating backend services, APIs, and microservices, while also being flexible in manual testing such as exploratory testing and usability verification.You will contribute to improving the quality of the entire PayPay Card system by formulating quality strategies, improving QA processes, and mentoring the team.
+
+Responsibilities
+Automated Testing
+Design, develop, and operate test automation frameworks for batch processing, backend services, APIs (REST/gRPC), and microservices
+Build automated regression and functional test suites
+Integrate automated tests into CI/CD pipelines (GitLab, Jenkins, Gradle)
+Verify distributed architectures using mock/stub strategies
+Promote modernization of test strategies for legacy systems (e.g., CORBA)
+Implement logging, debugging, and reporting (Allure, SLF4J, etc.)
+Manual Testing
+Plan, design, execute, and sign-off tests for complex functions in the credit card lifecycle
+Detect usability and functional defects through exploratory testing
+Ensure and improve quality through specification reviews and quality improvement activities
+Promote quality improvements in collaboration with developers, product managers, and designers
+Process Improvement / Collaboration
+Standardizing QA best practices and expanding them throughout the organization
+Proposing the introduction of new QA tools and frameworks
+Mentoring and guidance for junior QA engineers
+Analyzing defects and production issues, identifying root causes, and developing preventative measures
+Requirements
+5+ years of experience in QA or test automation
+Development/automation skills in object-oriented languages, primarily Java
+Experience with backend/API automation (REST Assured, gRPC, etc.)
+Experience using test frameworks such as JUnit, TestNG, and AssertJ
+Experience using CI/CD tools (GitLab, Jenkins, Gradle, etc.)
+Experience using mocking frameworks such as Mockito
+Experience with automation using scripting languages ​​(Python, Shell, etc.)
+Deep understanding of QA processes, test planning and design methods, and bug management processes
+Experience working in an agile development environment
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Experience automating batch jobs
+Experience in QA of legacy systems (e.g., CORBA)
+Experience in QA of mission-critical systems
+Experience in QA in the financial services, payment, and credit card industries
+Experience using container environments such as Docker/Kubernetes
+Experience with performance testing tools such as JMeter and Gatling
+Experience using QA management tools (e.g., Zephyr, TestRail, TestLink)
+QA-related certifications such as ISTQB
+Business-level Japanese language skills","","","","","","","","","Apply from abroad, Quality Assurance, Test Automation","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/paypay-card-corporation/jobs/platform-engineer","/jobs/apply-from-abroad","Platform Engineer","PayPay Card Corporation","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+PayPay Card is looking for a Cloud infrastructure and platform engineer for PayPay Card’s cloud system. This role will be responsible for the engineering of Cloud Infrastructure Platforms to provide robust, reliable and cost-efficient Platform so that we can deliver the best experience for our growing customers base.
+
+Responsibilities
+Architect and build a robust, scalable and stable infrastructure
+Architect and build Infrastructure that is easily maintainable during patching and upgrades
+Architect and build Infrastructure with AWS regional level failure tolerance
+Work together with our Security Engineers to provision a secure Infrastructure
+Automations for AWS Deployments to ensure fast delivery of Cloud Services to our developers
+Provide through Automations means for developers to easily deploy resources on AWS.
+Requirements
+More than 5 years of technical experience in Cloud based Infrastructure Platform
+Ability to demonstrate high degree of ownership in a Production environment
+Good understanding of Cloud security best practices and payment industry compliance standards
+Expertise in designing, building and troubleshooting large-scale streaming and distributed systems using Kafka.
+Expertise in building Robust platforms based on NoSQL/KVS datastores like DynamoDB, Opensearch/ Elasticsearch and Redis.
+Experience in Cloud infrastructure and platform systems availability, performance and cost management
+Extensive technical hands-on experience of Computing, Storage and Analytical Services on Cloud(AWS)
+Experience with IAC tools in AWS such as Terraform, CloudFormation, CDK
+Experience with Cloud Services Monitoring, Detection and Response
+Experience in Cloud Services Performance Tuning, cost controls and management
+Experience in Cloud Infrastructure Service patching and upgrades
+PayPay DevOps emphasize automation. Demonstrated skill with the following are required:
+Python
+ShellScripting
+Go/ Rust (optional)
+Have excellent oral, written, verbal and interpersonal communication skills.
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Bachelor’s degree and above in a technology related field
+Experience with other cloud service providers (e.g GCP, Azure)
+Experience with Kubernetes (CKA, CKAD or CKS)
+Experience with Event-Driven Architecture (Kafka preferred)
+Experience using and contributing to Open Source tools
+Experience in managing IT compliance and security risk
+Published papers / blogs / articles - Relevant and verifiable certifications
+Bilingual in English and Japanese is nice to have, but not required. Proficiency in either language is fine.","","","","","","","","","Apply from abroad, DevOps, Platform Engineering, AWS","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/paypay-card-corporation/jobs/backend-engineer","/jobs/apply-from-abroad","Backend Engineer","PayPay Card Corporation","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+We are looking for backend engineers to build, or rebuild, rock solid services with a laser focus on scalability and maintainability.
+
+PayPay Card aims at revolutionizing the credit card industry, making payment easier than ever, from two different angles:
+
+Bring the credit card experience to the next level: we have many functionalities in the pipe to improve our product, not to mention the integration into the PayPay ecosystem as PayPay Card is part of the PayPay Group.
+(Re-)architect our systems landscape: we want to reassess and fix the behind-the-scenes to power a top-notch user experience. It is bundled with difficult design challenges to solve: we simply want to get it right.
+
+As a fast-paced company leading the payments industry, we need our engineers to be versatile and enthusiastic to take on new challenges in order to stay at the forefront. Indeed, we strive for continuous improvement within our systems as well as outside our systems. Additionally, we value communication, to smoothly cooperate with other teams, and inclusivity, to efficiently navigate in a multicultural environment
+
+Tech Stack
+
+We currently work with
+
+Back-end services:
+Main implementations are in Spring Boot, with a mix of Java 11/Spring Boot 2 and Java 17/Spring Boot 3.
+Some legacy systems are written in Java EE.
+Testing is done with JUnit and Mockito
+Deployment relies on AWS ECS
+CI/CD is handled by AWS CodePipeline
+Infrastructure
+All our services run in AWS
+Infrastructure is managed by AWS CloudFormation
+AWS CloudWatch is used for observability
+Coding environment: GitHub, IntelliJ, Gradle
+Documentation & Project management: Confluence, Miro, JIRA
+Communication: Slack, Zoom, Office 365
+
+Please note that PayPay Card is challenging its current architecture, potentially introducing new technologies and/or deprecating existing ones.
+
+Responsibilities
+Support the design, implementation and delivery of large scale, and complex, systems, while collaborating with product managers, frontend engineers or other team members.
+Understand how to leverage infrastructure to solve large scale problems.
+Contribute to the team by sharing knowledge, participating in code reviews and providing feedback to uphold and ensure best practices.
+Triage, debug and resolve product issues or other incoming troubles inquiries
+Adopt problem solving as a way of life – always go to the root cause! Support the code you write in production.
+Requirements
+Skills in OOP language such as C# or other JVM language, such as Scala are welcome
+Experience with RDBMS, NoSQL databases along with distributed cache.
+Strong fundamentals in data structures, algorithms and object oriented programming.
+In-depth understanding of concurrency and distributed computing.
+Experience implementing platform components such as RESTful APIs, Pub/Sub Systems, and Database Clients.
+Experience with microservices and event-driven architectures.
+Experience designing high traffic systems.
+Degree in Computer Engineering or Computer Science or 3+ years equivalent experience in SaaS platform development.
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Domain-driven development knowledge
+Java/Spring Boot experience
+gRPC and Kafka development experience
+Experience in a multicultural environment
+Stakeholder management is welcomed
+Japanese conversational proficiency is a plus","","","","","","","","","Apply from abroad, Backend, Java","","","","",""
+"","tokyodev","https://www.tokyodev.com/companies/paypay-card-corporation/jobs/database-administrator-dba","/jobs/apply-from-abroad","Database Administrator (DBA)","PayPay Card Corporation","Tokyo, Japan","2026-01-26","","","","","","",True,"","","","","Language requirements: Business English
+
+We are working to provide the best financial services to users in Japan. We empower PayPay Card products by realizing efficient, stable and optimized storage services. PayPay Card is looking for Database Administrators/Engineers who specialize in databases at scale on mission critical systems.
+
+Tech Stack
+Languages: Python, Shell, SQL
+Databases: Oracle, MySQL (including Aurora MySQL and RDS for Oracle)
+Cloud: AWS (RDS, Aurora, EC2, S3, lambda, Secrets Manager, Cloudwatch etc.)
+Tools: GitHub, Terraform, Flyway
+Collaboration: Slack, Zoom, Jira, Confluence, Miro
+Responsibilities
+Manage day-to-day database operations including monitoring, configuration, upgrades, scaling, backups, and data migrations.
+Continuously improve database operations through automation, tooling, and process optimization.
+Manage backups, replication, failover, and disaster recovery (DR) strategies to ensure business continuity.
+Implement and maintain database security policies, including access control and auditing.
+Ensure compliance with internal policies and external regulatory standards (e.g., PCI DSS).
+Troubleshoot and resolve performance and stability issues in production environments.
+Participate in on-call rotation and incident response using tools like PagerDuty to support 24/7 availability of critical systems.
+Collaborate with engineering teams to design scalable data models and optimize query performance.
+Research, test, and adopt emerging technologies in the database and cloud ecosystem to enhance platform capabilities.
+Create and maintain documentation for architecture, standard procedures, and operational best practices to support effective knowledge sharing and decision-making.
+Work closely with cross-functional teams to ensure the reliability, availability, and scalability of database infrastructure.
+
+Depending on the team you are assigned to, there is a possibility of being required to work in the office.
+
+Requirements
+More than 7 years of DBA experience with a minimum of 3 years ORACLE or MySQL experience
+More than 3 years of AWS experience
+Practical experience with Infrastructure as Code (IaC) using Terraform.
+Interested in new technologies and willing to improve operational quality and efficiency
+Strong scripting skills (Python, Shell, etc.) for automation and tooling.
+English business proficiency
+Nice to haves
+
+While not specifically required, tell us if you have any of the following.
+
+Experience in automating operations related to Database or AWS
+Familiarity with containerized environments (Docker, Kubernetes).
+Hands-on experience in operating AWS Aurora database (Postgres/Mysql compatible)
+Hands-on experience in operating AWS RDS for ORACLE
+Japanese conversational proficiency is a plus","","","","","","","","","Apply from abroad, AWS, Database Administration, DevOps","","","","",""
