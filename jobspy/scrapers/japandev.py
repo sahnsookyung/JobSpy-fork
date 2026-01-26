@@ -7,6 +7,7 @@ from dataclasses import dataclass
 from datetime import date, datetime
 from typing import List, Optional, Sequence
 from urllib.parse import urljoin
+import time
 
 from playwright.sync_api import sync_playwright
 
@@ -183,24 +184,31 @@ class JapanDev(Scraper):
         }
 
     def _click_filter(self, page, option: FilterEnum | _RawFilter) -> None:
-        selector = option.selector  # both expose .selector
-        el = page.locator(selector).first
-        if el.count() == 0:
-            return
+        full_id = option.full_id
+        
+        # Simple CSS - fast and readable
+        loc = page.locator(f"[id='{full_id}']")
+        selected_re = re.compile(r".*\bselected\b.*")
+        
+        for attempt in range(3):
+            # If they change structure, swap this to:
+            # loc = page.locator(f"xpath=//*[@id='{full_id}']/ancestor::li[contains(@class,'filter')]")
+            
+            try:
+                expect(loc).to_have_class(selected_re, timeout=500)
+                return
+            except Exception:
+                pass
+            
+            try:
+                loc.scroll_into_view_if_needed()
+                loc.click(force=(attempt > 0), no_wait_after=True)
+                expect(loc).to_have_class(selected_re, timeout=2000)
+                return
+            except Exception:
+                continue
 
-        # parent <li class="filter ..."> holds selection state
-        parent = el.locator("xpath=..")
-        class_attr = parent.get_attribute("class") or ""
-        if "selected" in class_attr:
-            return
 
-        el.click()
-
-        # give the Algolia UI a moment to settle; keep it short to avoid slowing scraping
-        try:
-            page.wait_for_load_state("networkidle", timeout=2000)
-        except Exception:
-            pass
 
     def _apply_filters(
         self,
@@ -265,6 +273,13 @@ class JapanDev(Scraper):
             ):
                 self._click_filter(page, opt)
 
+        # Once all filters are applied, we wait for network idle settlement.
+        try:
+            # Wait for all filter requests to complete (networkidle)
+            page.wait_for_load_state("networkidle", timeout=scraper_input.request_timeout * 1000)
+        except Exception:
+            pass
+
     def scrape(
         self,
         scraper_input: ScraperInput,
@@ -328,6 +343,9 @@ class JapanDev(Scraper):
                 raw_filters=raw_filters,
             )
 
+            # Wait for network idle after sending filter update request so it is reflected in the UI
+            page.wait_for_load_state("networkidle", timeout=scraper_input.request_timeout * 1000)
+
             # Get listing cards
             job_cards = []
             try:
@@ -389,7 +407,6 @@ class JapanDev(Scraper):
                     loc = Location(
                         country=Country.JAPAN,
                         city=final_location_text,
-                        state=final_location_text,
                     )
 
                     job_list.append(

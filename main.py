@@ -26,6 +26,6 @@ if __name__ == "__main__":
     # print(jobs.head())
     # jobs.to_csv("tokyodev.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
     
-    jobs = scrape_jobs(site_name="japandev", results_wanted=10, seniorities=[JdSeniority.NEW_GRAD, JdSeniority.JUNIOR, JdSeniority.MID_LEVEL], japanese_levels=[JdJapaneseLevel.NOT_REQUIRED], applicant_locations=[JdApplicantLocation.ANYWHERE])
+    jobs = scrape_jobs(site_name="japandev", results_wanted=10, applicant_locations=[JdApplicantLocation.ANYWHERE], japanese_levels=[JdJapaneseLevel.NOT_REQUIRED], seniorities=[JdSeniority.NEW_GRAD, JdSeniority.JUNIOR, JdSeniority.MID_LEVEL])
     print(jobs.head())
     jobs.to_csv("japandev.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel

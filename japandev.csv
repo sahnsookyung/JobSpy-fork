@@ -1,113 +1,69 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"","japandev","https://japan-dev.com/jobs/zeals/zeals-principal-backend-engineer-zh6x7o","","Principal Backend Engineer","Zeals","Remote, Remote, Japan","2026-01-23","","","","","","","","","","","","Are you looking
+"","japandev","https://japan-dev.com/jobs/zeals/zeals-security-engineer-9u6uc2","","Security Engineer","Zeals","Remote, Japan","2026-01-23","","","","","","","","","","","","Are you looking to:
 
-To make meaningful changes at the fastest-growing tech company in Japan?
-For a fair, highly flexible, inclusive working environment where anyone, regardless of their background, can make an impact?
-To build the next bold idea in customer acquisition and revenue growth through conversational commerce technology?
-For a place where things are not just fast - but they happen now?
+Make meaningful changes at the fastest-growing tech company in Japan?
+Work in a fair, highly flexible, and inclusive environment where anyone can make an impact?
+Build the next bold idea in conversational commerce technology?
 
- 
+We Are Zeals – “Designing conversations. Driving conversions.”
 
-We Are Zeals - “Designing conversations. Driving conversions.”
-
-Zeals is not another chatbot. Our automated chat solution and conversational technology change how consumers purchase or act online. Zeals converts customers who appear ""unengaged"" into ""valuable"" through designed chat on Messaging Apps. Using AI-powered, human-designed conversation flows across chat platforms, Zeals enables brands to build personalized, automated conversations with their consumers and develop a deeper understanding of their preferences while creating a delightful, seamless shopping experience. Our last 3 years have been phenomenal. We have captured the heart of many businesses in Japan, with over 480 enterprises relying on our chat commerce offering to boost their mobile business.
-
-The goal is simple: to “revolutionize hospitality on the Internet” by unlocking digital customer service experiences that were limited to physical stores previously.
+Zeals is changing how consumers purchase online through AI-powered, human-designed conversation flows. With over 480 enterprise clients in Japan and nearly $40 million in recent funding (backed by Salesforce Ventures), we are poised for exponential growth in the US and global markets. Our goal is simple: to revolutionize hospitality on the internet.
 
  
 
-Just Getting Started…
+Your Typical Day With Us
 
-With more than 480 enterprise companies worldwide already utilizing our product, we are perfectly poised to seize market share and fuel exponential growth in the US market, with an eye on global expansion. Investors have taken note of our potential, leading us to recently secure nearly $40 million in funding, backed by Salesforce Ventures.
-
- 
-
-As a Principal Backend Engineer at Zeals, you won’t just write code — you will own systems end-to-end, shape our architectural strategy, and influence technical direction across teams. You will be a key technical leader in our backend domain, responsible for designing scalable, fault-tolerant systems that power mission-critical services and accelerate the impact of our conversational commerce platform. This role is not about following roadmaps — it's about creating them. You’ll work across teams to raise the engineering bar, mentor senior engineers, and drive strategic decisions that shape our product and infrastructure for years to come.
-
- 
-
-What You’ll Do
-
-Drive architecture and design of complex, distributed backend systems with a focus on scalability, reliability, and performance
-Lead initiatives to modernize legacy systems and migrate to robust, decoupled services using Golang, gRPC, and REST
-Own high-stakes technical decisions, balancing trade-offs and setting standards for software design across teams
-Ensure best practices in clean code, DDD, testing, observability, and documentation are deeply embedded in the development lifecycle
-Collaborate with engineering leadership, product managers, and stakeholders to align backend capabilities with business priorities
-Foster a culture of technical excellence through mentorship, knowledge sharing, and collaborative problem solving
-When required, participate in the on-call rotation and act as a technical escalation point for critical incidents
+Assess & Test: Conduct vulnerability assessments and penetration tests on systems, networks, and applications.
+Design Review: Review product designs and system architectures to identify security risks early using threat modeling.
+Code Security: Perform source code reviews to detect flaws before deployment.
+Incident Response: Investigate, analyze, and respond to security incidents and threats in a timely manner.
+DevSecOps: Integrate automated security checks and testing into CI/CD pipelines for scalable security practices.
+Guidance: Educate engineering teams through workshops and secure coding best practices.
+Strategy: Analyze security metrics and trends to identify areas for improvement and adjust strategies accordingly.
 
  
 
 What You’ll Need
 
-Proficiency in development flow based on git and GitHub
-8+ years of experience in Software Engineering or a similar role, with preferably experience in Golang
-Strong sense of testing, including unit tests and integration tests
-Ability to communicate recommendations for improvements on current systems, processes, and services as needed
-Exhibit a strong ability to adapt in a dynamic and ever-changing environment
-Ability to solve problems, especially to identify the source of the problem, and create and test solutions
-Proven team-leading experience with the ability to mentor and guide team members
+3–5 years of experience in information security, network security, or a similar role.
+Hands-on experience with threat and vulnerability management.
+Proficiency in network and system security (Firewalls, IDS/IPS, VPNs).
+Experience with security auditing tools and penetration testing.
+Familiarity with security frameworks and regulations (e.g., NIST, ISO 27001, GDPR).
 
  
 
 What Makes You Stand Out
 
-Working knowledge of Docker, Kubernetes, and Clean Architecture
-Working knowledge of gRPC and RESTful API
-Working knowledge of RDB and SQL
-Experience in Google Cloud Platform
-Experience in Continuous Integration tools like CircleCI
-Experience in issue management systems like Jira
-Japanese communication skills
-Experience in development using Python, Ruby, NodeJS
-Experience in using tracing and metrics in deriving performance optimizations and troubleshooting
-
- 
-
-Don’t just take our word for it
-
-Zeals has received the LinkedIn Top Startups award twice in a row. We believe this is a testament to our growth and our ability to attract great talents–who could potentially be your colleague!
+Knowledge of cloud security concepts and experience working with cloud platforms (AWS, GCP).
+Proficiency in scripting languages (Python, JavaScript, Golang) for automation.
+Experience leading, executing, or coordinating security-related projects.
+Relevant professional certifications (e.g., CISSP, CEH, CompTIA Security+, or GIAC).
 
  
 
 Our Tech Stack
 
-Backend Languages: Go, Python, Elixir
-Frontend Languages: HTML, CSS, JavaScript (TypeScript, React.js, Recoil, Zod, Tanstack, etc)
-Mobile Languages: None
-Infrastructure: Google Cloud Platform, GCP Pub/Sub, Kubernetes, MongoDB, MySQL, Postgres, BigQuery, Elasticsearch, Qdrant
-Configuration management tool: Terraform
-CI/CD: Github Actions, ArgoCD, CircleCI
-Monitoring: Grafana, GCP Cloud Monitoring, GCP Logging, GCP Cloud Trace, Opsgenie
-Data: BigQuery, Parquet, Spark, Scala, Python, dbt
-Knowledge Tools: Confluence
-Other: GitHub / Slack / Jira
-Process: Scrum
+Languages: Go, Python, Elixir, TypeScript (React.js)
+Infrastructure: Google Cloud Platform (GCP), Kubernetes, Terraform
+Data & Search: MongoDB, MySQL, Postgres, BigQuery, Elasticsearch, Qdrant
+CI/CD & Monitoring: GitHub Actions, ArgoCD, CircleCI, Grafana, Opsgenie
 
  
 
-Ready to roll up our sleeves
+Perks & Benefits
 
-We're obsessed with bringing hospitality to everyone – whether it's our customers or you! You’re an individual with unique needs, and while we may not have ping-pong tables or all-you-can-drink espresso bars to offer, we promise you a once-in-a-lifetime experience and co-workers you’ll be proud to brag about to your friends, family, or anyone you meet the next time you go out! As an employer, we're ready to roll up our sleeves and change the status quo if it means making your experience better.
-
-Salary Range : competitive
-Performance review: twice a year
-Holidays: 10 days of annual leave in the first year, weekends off, national holidays, summer and winter breaks, and 5 refreshment leave days per year.
-Visa support: We sponsor visas for the right candidates.
-Flexible working: Highly flexible, remote-first organization (in Japan), Interim work from overseas
-Housing allowance (within 1.5KM away from office)
-Club activity allowance
-Team building allowance and Lunch allowance
-Zeals Bar (bi-monthly free-flow beer party)
+Flexibility: Remote-first organization (in Japan) with interim work-from-overseas options.
+Growth: Performance reviews twice a year and a competitive salary.
+Support: Visa sponsorship and housing allowance (for those living within 1.5km of the office).
+Time Off: 10 days annual leave (first year), 5 refreshment leave days, plus national and seasonal holidays.
+Culture: Team building/lunch allowances and the ""Zeals Bar"" bi-monthly free-flow beer party.
 
  
 
-**********
-
-For applicants via our CEO Masa Shimizu’s X account:
-
-Please note that if we receive a high number of applications, we may limit the number of candidates selected for an interview with Masa Shimizu as part of the screening process. We appreciate your understanding and thank you for your interest.","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/jamm/jamm-backend-developer-n7o3sk","","Backend Developer","Jamm","Tokyo, Tokyo, Japan","2026-01-22","","direct_data","yearly",7000000.0,10000000.0,"JPY","","","","","","About
+Ready to roll up your sleeves?
+We're obsessed with bringing hospitality to everyone. We promise a once-in-a-lifetime experience and coworkers you’ll be proud to brag about. If you're ready to change the status quo, join us!","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/jamm/jamm-backend-developer-n7o3sk","","Backend Developer","Jamm","Tokyo, Japan","2026-01-22","","direct_data","yearly",7000000.0,10000000.0,"JPY","","","","","","About
 
 We're looking for a backend engineer to design and build systems that power payment infrastructure. You'll own features end-to-end, from database schema design through deployment, and work alongside a small, tight-knit team of experienced engineers who ship fast and iterate constantly!
 
@@ -143,7 +99,7 @@ Background in Fintech or Payments industries.
 Familiarity with Infrastructure-as-Code (Terraform) and gRPC/Protocol Buffers.
 Experience working in early-stage, fast-paced companies.
 Familiarity with fullstack, mobile, or modern frontend frameworks.","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-senior-software-engineer-partner-product-development-department-tokyo-fzwt1h","","Senior Software Engineer (Partner Product Development Department)","Money Forward","Tokyo, Tokyo, Japan","2026-01-22","","direct_data","yearly",5800000.0,10000000.0,"JPY","","","","","","Overview
+"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-senior-software-engineer-partner-product-development-department-tokyo-fzwt1h","","Senior Software Engineer (Partner Product Development Department)","Money Forward","Tokyo, Japan","2026-01-22","","direct_data","yearly",5800000.0,10000000.0,"JPY","","","","","","Overview
 
 You will be assigned to the Partner Product Development Department of Business Segment SMB Domain, responsible for overseeing the product line for partner professionals (accounting firms and labor and social security attorney offices) that make up a significant part of Money Forward Business Segment's business. The Partner Product Development Department aims to continuously solve various challenges faced by users in Japanese accounting firms. By advancing this project, we aim to improve the productivity of our crucial partners, increase the value they generate, and achieve mutual growth with Money Forward.
 
@@ -209,7 +165,7 @@ Development Support: Peripherals (displays, mice, keyboards) can be purchased as
 Money Forward Library: System to borrow or purchase technical/management books at the company's expense.
 Professional Growth: Partial coverage for domestic and international conferences such as RubyKaigi and Google I/O.
 Incentives: Referral reward system and coverage for recruitment meals.","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/mujin/mujin-frontend-engineerandroid-heavy-react-secondary-68n4i2","","Frontend Engineer (Android)","Mujin","Tokyo, Tokyo, Japan","2026-01-22","","direct_data","yearly",8000000.0,12000000.0,"JPY","","","","","","About Mujin
+"","japandev","https://japan-dev.com/jobs/mujin/mujin-frontend-engineerandroid-heavy-react-secondary-68n4i2","","Frontend Engineer (Android)","Mujin","Tokyo, Japan","2026-01-22","","direct_data","yearly",8000000.0,12000000.0,"JPY","","","","","","About Mujin
 
 Mujin creates MujinOS, the intelligent operating system for industrial robotics. By leveraging real-time digital twins, MujinOS seamlessly connects and orchestrates equipment to achieve fully autonomous operations.
 
@@ -290,38 +246,35 @@ Coding Assessment
 HR Interview
 Hiring Manager Interview (1-2 rounds)
 Take-Home Assignment & Feedback (If applicable)","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r","","Growth Engineer","Metanomaly","Tokyo, Tokyo, Japan","2026-01-20","","","","","","","","","","","","What you’ll do
-
-Collaborate with product and operations to turn business goals into actionable technical solutions and growth experiments
-Contribute to feature improvements, core flow optimization, and growth experiments (e.g., A/B tests)
-Use user behavior data to identify issues and drive solutions through to implementation
-Continuously propose product and growth optimizations based on real user experience
-Use AI tools to improve work efficiency and quality
-
+"","japandev","https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r","","Growth Engineer","Metanomaly","Tokyo, Japan","2026-01-20","","","","","","","","","","","","What you’ll do
+Rapidly design and implement lightweight technical solutions to test growth and product hypotheses in user-facing flows
+Hack together and ship frontend-driven experiments and features that improve activation, conversion, or engagement
+Implement A/B tests and instrumentation pragmatically, optimizing for learning speed while maintaining experiment validity
+Iterate aggressively based on results, user feedback, and constraints, prioritizing impact over elegance when appropriate
  
-
 Requirements
-
-Clear communication: able to explain technical concepts so non-technical teammates can understand
-Business and product sense: proactive in proposing product or growth improvements, not just taking tickets
-Solid engineering: strong front-end skills; able to handle basic backend logic and API integration
-Data-aware: can interpret basic user behavior data and use it to guide optimizations and experiments
-Interest in AI: willing to learn and use AI tools to boost productivity
-Culture fit (nice to have): interest in anime/otaku culture, creator communities, or related products
-
+Strong frontend engineering skills, with clear ownership of user-facing features and product UI quality
+Strong at implementing backend logic and API integrations, as needed.
+Able to turn vague growth ideas into concrete, shippable technical solutions
+Solid intuition for user behavior, funnels, and friction in real products
+Data-literate: can write basic SQL to sanity-check outcomes and guide iteration
+Bias toward speed and impact over perfect architecture
  
-
-Education
-
-Bachelor’s degree or above; practical skills and experience matter most
-
- 
-
 Experience
-
-1+ years of relevant experience preferred
-Experience with independent app development, product iteration, or growth work is a plus","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-security-specialist-ciso-office-tokyojapandev-o27pc7","","Security Specialist (CISO Office - Tokyo)","Money Forward","Tokyo, Tokyo, Japan","2026-01-16","","direct_data","yearly",8000000.0,17000000.0,"JPY","","","","","","Overview
+3–5+ years of experience building and iterating on products used by real users
+Proven experience shipping frontend features used by real users, with iteration based on feedback or data
+Experience with product iteration, growth-related work, or independent app development is a strong plus
+ 
+Education
+Bachelor’s degree or above. Practical skills, judgment, and shipped work matter more than formal credentials.
+ 
+Nice to have
+Interest in anime, otaku culture, creator communities, or related consumer products.
+Interest in AI generation
+ 
+Note:
+If you've read this, please tell us the names of your top 5 favorite niche anime at the end of your message.","","","","","","","","","","","","","",""
+"","japandev","https://japan-dev.com/jobs/money-forward/money-forward-security-specialist-ciso-office-tokyojapandev-o27pc7","","Security Specialist (CISO Office - Tokyo)","Money Forward","Tokyo, Japan","2026-01-16","","direct_data","yearly",8000000.0,17000000.0,"JPY","","","","","","Overview
 
 At Money Forward, we develop a wide range of popular services, including our automated personal financial management tool ""Money Forward ME"" and the ""Money Forward Cloud"" suite for businesses. Our ecosystem is powered by advanced technologies such as ""Account Aggregation"" and our single sign-on system, ""Money Forward ID.""
 
@@ -401,7 +354,7 @@ Systems to Enhance the Development Environment: Peripheral devices (displays, mi
 Money Forward Library: A library system where you can freely borrow or request books at the company's expense.
 Referral Driven: Coverage for recruitment meals and a referral reward system.
 Conference Participation Support: Partial coverage for domestic and international conferences like RubyKaigi and Google I/O.","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/mujin/mujin-senior-software-engineer-wes--fm-uhpwd5","","Senior Software Engineer (C++ & Python)","Mujin","Tokyo, Tokyo, Japan","2026-01-15","","direct_data","yearly",8000000.0,13000000.0,"JPY","","","","","","Mujin develops ""MujinController,"" a platform that leverages a real-time digital twin and advanced robotics to seamlessly connect industrial equipment for fully autonomous operations.
+"","japandev","https://japan-dev.com/jobs/mujin/mujin-senior-software-engineer-wes--fm-uhpwd5","","Senior Software Engineer (C++ & Python)","Mujin","Tokyo, Japan","2026-01-15","","direct_data","yearly",8000000.0,13000000.0,"JPY","","","","","","Mujin develops ""MujinController,"" a platform that leverages a real-time digital twin and advanced robotics to seamlessly connect industrial equipment for fully autonomous operations.
 
 Driven by our unique approach towards Robotics Machine Intelligence (MujinMI), we offer a robust suite of perception, planning, and control algorithms, enabling autonomous robot movement and transforming automation in challenging industrial environments.
 
@@ -454,7 +407,7 @@ Attractiveness
 We are looking for those who are prepared to dedicate themselves to facing big challenges, work proactively and independently, and take ownership when working with members across the teams!
 You will get your “hands dirty” working on all aspects of the industrial robot controller, not being confined to a specific component in the system. The work is challenging, mostly like something that you have never done before, requiring extensive research.
 Since the work is widely applicable, it will affect everyone in the engineering team, making the WES & FM team the likely “go-to” people. You will have chances to travel and work onsite to integrate cutting-edge industrial systems such as AGVs and ASRS.","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe","","Senior Full Stack Engineer","Kamikai","Tokyo, Tokyo, Japan","2025-12-30","","","","","","","","","","","","About Us
+"","japandev","https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe","","Senior Full Stack Engineer","Kamikai","Tokyo, Japan","2025-12-30","","","","","","","","","","","","About Us
 
 Kamikai Labs is reimagining the future of 2D animation. Through our AI-powered suite of production tools, we help the world’s leading animation studios and indie creators ship higher-quality work faster than ever before. Our products are already in active use across top-tier Japanese studios, and we’re growing quickly as demand accelerates.
 
@@ -519,7 +472,7 @@ High autonomy and ownership in a fast-moving, growing company
 Work alongside a deeply creative, technical, and passionate team
 Direct influence on product direction, engineering culture, and company trajectory
 Competitive compensation, relocation support, and equity","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/hennge/hennge-front-end-engineering-internship-onsite-tokyo-japan-8lbfyd","","Front-end Engineering Internship (Onsite Tokyo, Japan)","HENNGE","Tokyo, Tokyo, Japan","2025-12-26","","","","","","","","","","","","COMPANY OVERVIEW
+"","japandev","https://japan-dev.com/jobs/hennge/hennge-front-end-engineering-internship-onsite-tokyo-japan-8lbfyd","","Front-end Engineering Internship (Onsite Tokyo, Japan)","HENNGE","Tokyo, Japan","2025-12-26","","","","","","","","","","","","COMPANY OVERVIEW
 
 Established in 1996, HENNGE is one of the first IT ventures in Japan. Controlling a majority of the nation’s market share, we are the leading cloud-based security company based in Tokyo. We aim to become a world-class IT company by expanding our business globally, having English as our official language, and hiring international talents worldwide. We are looking for highly talented and motivated engineers (front-end, back-end, DevOps, mobile development) to join our team in Tokyo
 
@@ -604,7 +557,7 @@ Notice for Applicants
 A limited number of internship slots are available. Applications will be reviewed as they are received, and positions will be filled on a first-come, first-served basis.  We encourage you to apply early, as applications will close once all positions are filled.
 The coding challenge has no time limit, and the screening process will not consider solving time. Please note that the application is completed after uploading application documents and filling in the batch preferences.
 Please take another challenge if you are (also) interested in applying for HENNGE’s GIP: Full Stack Engineering Pathway. Please use different emails to sign up if you apply for both internships.","","","","","","","","","","","","","",""
-"","japandev","https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-full-stack-engineer-sliy8x","","Full Stack Engineer","AI Robot Association (AIRoA)","Tokyo, Tokyo, Japan","2025-12-16","","direct_data","yearly",6000000.0,20000000.0,"JPY","","","","","","Description
+"","japandev","https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-full-stack-engineer-sliy8x","","Full Stack Engineer","AI Robot Association (AIRoA)","Tokyo, Japan","2025-12-16","","direct_data","yearly",6000000.0,20000000.0,"JPY","","","","","","Description
 
 About AIRoA
 
