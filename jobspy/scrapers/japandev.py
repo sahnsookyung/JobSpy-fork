@@ -9,7 +9,7 @@ from typing import List, Optional, Sequence
 from urllib.parse import urljoin
 import time
 
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import sync_playwright, expect
 
 from jobspy.model import (
     Scraper,
@@ -184,47 +184,71 @@ class JapanDev(Scraper):
         }
 
     def _click_filter(self, page, option: FilterEnum | _RawFilter) -> None:
+        """Ensure filter is selected (toggle ON if currently OFF)."""
         full_id = option.full_id
-        
-        # Simple CSS - fast and readable
         loc = page.locator(f"[id='{full_id}']")
         selected_re = re.compile(r".*\bselected\b.*")
         
+        # Check current state reliably
+        try:
+            # Wait for element to be stable
+            loc.wait_for(state="visible", timeout=2000)
+            
+            # Check if already selected
+            current_classes = loc.get_attribute("class") or ""
+            is_selected = "selected" in current_classes
+            
+            if is_selected:
+                logger.debug(f"Filter {full_id} already selected, skipping")
+                return  # Don't click if already selected
+                
+        except Exception as e:
+            logger.warning(f"Could not check state for {full_id}: {e}")
+        
+        # Not selected, click to select it
         for attempt in range(3):
-            # If they change structure, swap this to:
-            # loc = page.locator(f"xpath=//*[@id='{full_id}']/ancestor::li[contains(@class,'filter')]")
-            
-            try:
-                expect(loc).to_have_class(selected_re, timeout=500)
-                return
-            except Exception:
-                pass
-            
             try:
                 loc.scroll_into_view_if_needed()
                 loc.click(force=(attempt > 0), no_wait_after=True)
+                
+                # Verify it's now selected
                 expect(loc).to_have_class(selected_re, timeout=2000)
+                logger.debug(f"Successfully selected filter {full_id}")
                 return
-            except Exception:
+                
+            except Exception as e:
+                if attempt == 2:
+                    logger.warning(f"Failed to select filter {full_id} after 3 attempts: {e}")
                 continue
 
 
+    def _convert_to_enum(self, value: str | FilterEnum, enum_class) -> FilterEnum:
+        """Convert string to enum object. Supports both enum values and instances."""
+        if isinstance(value, FilterEnum):
+            return value
+        # Try to find enum by value (e.g., "japanese_level_not_required")
+        for member in enum_class:
+            if member.value == value:
+                return member
+        # If not found, raise a helpful error
+        valid_values = [m.value for m in enum_class]
+        raise ValueError(f"Invalid {enum_class.__name__} value: '{value}'. Valid values: {valid_values}")
 
     def _apply_filters(
         self,
         page,
         scraper_input: ScraperInput,
         *,
-        applicant_locations: Optional[Sequence[JdApplicantLocation]] = None,
-        japanese_levels: Optional[Sequence[JdJapaneseLevel]] = None,
-        english_levels: Optional[Sequence[JdEnglishLevel]] = None,
-        remote_work: Optional[Sequence[JdRemoteWork]] = None,
-        seniorities: Optional[Sequence[JdSeniority]] = None,
-        salary_filters: Optional[Sequence[JdSalary]] = None,
-        job_types: Optional[Sequence[JdJobType]] = None,
-        office_locations: Optional[Sequence[JdOfficeLocation]] = None,
-        company_types: Optional[Sequence[JdCompanyType]] = None,
-        skills: Optional[Sequence[JdSkill]] = None,
+        applicant_locations: Optional[Sequence[JdApplicantLocation | str]] = None,
+        japanese_levels: Optional[Sequence[JdJapaneseLevel | str]] = None,
+        english_levels: Optional[Sequence[JdEnglishLevel | str]] = None,
+        remote_work: Optional[Sequence[JdRemoteWork | str]] = None,
+        seniorities: Optional[Sequence[JdSeniority | str]] = None,
+        salary_filters: Optional[Sequence[JdSalary | str]] = None,
+        job_types: Optional[Sequence[JdJobType | str]] = None,
+        office_locations: Optional[Sequence[JdOfficeLocation | str]] = None,
+        company_types: Optional[Sequence[JdCompanyType | str]] = None,
+        skills: Optional[Sequence[JdSkill | str]] = None,
         raw_filters: Optional[Sequence[_RawFilter]] = None,
     ) -> None:
         # Search term (Algolia search box)
@@ -241,23 +265,27 @@ class JapanDev(Scraper):
             except Exception:
                 pass
 
-        # Apply explicit filters
-        for group in (
-            applicant_locations,
-            japanese_levels,
-            english_levels,
-            remote_work,
-            seniorities,
-            salary_filters,
-            job_types,
-            office_locations,
-            company_types,
-            skills,
-        ):
+        # Apply explicit filters - convert strings to enums
+        filter_groups = [
+            (applicant_locations, JdApplicantLocation),
+            (japanese_levels, JdJapaneseLevel),
+            (english_levels, JdEnglishLevel),
+            (remote_work, JdRemoteWork),
+            (seniorities, JdSeniority),
+            (salary_filters, JdSalary),
+            (job_types, JdJobType),
+            (office_locations, JdOfficeLocation),
+            (company_types, JdCompanyType),
+            (skills, JdSkill),
+        ]
+        
+        for group, enum_class in filter_groups:
             if not group:
                 continue
             for opt in group:
-                self._click_filter(page, opt)
+                # Convert string to enum if needed
+                enum_opt = self._convert_to_enum(opt, enum_class) if isinstance(opt, str) else opt
+                self._click_filter(page, enum_opt)
 
         if raw_filters:
             for rf in raw_filters:
@@ -284,16 +312,16 @@ class JapanDev(Scraper):
         self,
         scraper_input: ScraperInput,
         *,
-        applicant_locations: Optional[Sequence[JdApplicantLocation]] = None,
-        japanese_levels: Optional[Sequence[JdJapaneseLevel]] = None,
-        english_levels: Optional[Sequence[JdEnglishLevel]] = None,
-        remote_work: Optional[Sequence[JdRemoteWork]] = None,
-        seniorities: Optional[Sequence[JdSeniority]] = None,
-        salary_filters: Optional[Sequence[JdSalary]] = None,
-        job_types: Optional[Sequence[JdJobType]] = None,
-        office_locations: Optional[Sequence[JdOfficeLocation]] = None,
-        company_types: Optional[Sequence[JdCompanyType]] = None,
-        skills: Optional[Sequence[JdSkill]] = None,
+        applicant_locations: Optional[Sequence[JdApplicantLocation | str]] = None,
+        japanese_levels: Optional[Sequence[JdJapaneseLevel | str]] = None,
+        english_levels: Optional[Sequence[JdEnglishLevel | str]] = None,
+        remote_work: Optional[Sequence[JdRemoteWork | str]] = None,
+        seniorities: Optional[Sequence[JdSeniority | str]] = None,
+        salary_filters: Optional[Sequence[JdSalary | str]] = None,
+        job_types: Optional[Sequence[JdJobType | str]] = None,
+        office_locations: Optional[Sequence[JdOfficeLocation | str]] = None,
+        company_types: Optional[Sequence[JdCompanyType | str]] = None,
+        skills: Optional[Sequence[JdSkill | str]] = None,
         raw_filters: Optional[Sequence[_RawFilter]] = None,
     ) -> JobResponse:
         job_list: List[JobPost] = []
@@ -308,7 +336,7 @@ class JapanDev(Scraper):
         proxy = parse_proxy_string(proxy_str) if proxy_str else None
 
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=False)
+            browser = p.chromium.launch(channel="chrome", headless=True)
             context = create_playwright_context(
                 browser,
                 proxy=proxy,

@@ -7,14 +7,31 @@ from pydantic import BaseModel, Field
 # Import JobSpy core
 from jobspy.model import ScraperInput, Site, JobResponse, DescriptionFormat
 from jobspy.scrapers.tokyodev import TokyoDev
-from jobspy.scrapers.japandev import JapanDev # Assuming you have this too
-# Import your Custom Enums
-from jobspy.scrapers.tokyodev_enums import (
-    JapaneseLevel,
-    EnglishLevel,
-    ApplicantLocation,
-    Seniority,
-)
+from jobspy.scrapers.japandev import JapanDev
+from jobspy.indeed import Indeed
+from jobspy.linkedin import LinkedIn
+from jobspy.glassdoor import Glassdoor
+from jobspy.ziprecruiter import ZipRecruiter
+from jobspy.google import Google
+from jobspy.bayt import BaytScraper
+from jobspy.naukri import Naukri
+from jobspy.bdjobs import BDJobs
+
+# Scraper-specific enums/filters are no longer needed at the API level
+# Scrapers handle their own validation
+
+SCRAPER_MAPPING = {
+    Site.LINKEDIN: LinkedIn,
+    Site.INDEED: Indeed,
+    Site.ZIP_RECRUITER: ZipRecruiter,
+    Site.GLASSDOOR: Glassdoor,
+    Site.GOOGLE: Google,
+    Site.BAYT: BaytScraper,
+    Site.NAUKRI: Naukri,
+    Site.BDJOBS: BDJobs,
+    Site.TOKYODEV: TokyoDev,
+    Site.JAPANDEV: JapanDev,
+}
 
 # Setup Logging
 logging.basicConfig(level=logging.INFO)
@@ -28,23 +45,16 @@ JOB_STORE: Dict[str, Dict[str, Any]] = {}
 
 # --- Request Models ---
 
-class TokyoDevFilters(BaseModel):
-    min_salary: Optional[int] = None
-    japanese_requirements: Optional[List[JapaneseLevel]] = None
-    english_requirements: Optional[List[EnglishLevel]] = None
-    applicant_locations: Optional[List[ApplicantLocation]] = None
-    seniorities: Optional[List[Seniority]] = None
-    categories: Optional[List[str]] = None
-
 class ScrapeRequest(BaseModel):
-    site_name: str = Field(..., description="The site to scrape, e.g., 'tokyodev', 'japandev'")
+    site_name: str = Field(..., description="The site to scrape, e.g., 'tokyodev', 'japandev', 'indeed'")
     search_term: Optional[str] = None
     location: Optional[str] = None
     results_wanted: int = 20
     is_remote: bool = False
     
-    # Site-specific filters (Optional)
-    tokyodev_filters: Optional[TokyoDevFilters] = None
+    # Generic options dict for scraper-specific arguments
+    # Scrapers handle validation - any exceptions will be caught and returned to caller
+    options: Optional[Dict[str, Any]] = None
 
 # --- Background Worker Function ---
 
@@ -75,24 +85,15 @@ def run_scraper_task(task_id: str, request: ScrapeRequest):
         results = None
 
         # 3. Dispatch to Specific Scraper
-        if site_enum == Site.TOKYODEV:
-            scraper = TokyoDev()
-            # Unpack filters if present
-            filters = request.tokyodev_filters.dict() if request.tokyodev_filters else {}
-            # Filter out None values to avoid passing nulls to **kwargs
-            filters = {k: v for k, v in filters.items() if v is not None}
-            
-            results = scraper.scrape(scraper_input, **filters)
+        scraper_class = SCRAPER_MAPPING.get(site_enum)
+        if not scraper_class:
+            raise NotImplementedError(f"Scraper for {site_enum.name} not configured in API")
 
-        elif site_enum == Site.JAPANDEV:
-            scraper = JapanDev()
-            results = scraper.scrape(scraper_input)
-            
-        else:
-            # Generic/Other Scrapers (Indeed, LinkedIn, etc.)
-            # If you want to support them via this API, instantiate them dynamically
-            # For now, we raise an error or handle generically
-            raise NotImplementedError(f"Scraper for {request.site_name} not configured in API")
+        scraper = scraper_class()
+        
+        # Pass all options directly to scraper - it handles validation
+        scrape_kwargs = request.options or {}
+        results = scraper.scrape(scraper_input, **scrape_kwargs)
 
         # 4. Save Success Result
         # Convert Pydantic models to dict for JSON serialization
@@ -118,7 +119,27 @@ def run_scraper_task(task_id: str, request: ScrapeRequest):
 async def submit_scrape_job(request: ScrapeRequest, background_tasks: BackgroundTasks):
     """
     Submits a scraping job. Returns a Task ID immediately.
+    
+    Returns:
+        202: Job accepted and queued for processing
+        400: Invalid request (bad site name, invalid parameters)
     """
+    # Validate site name before queuing
+    try:
+        site_enum = Site[request.site_name.upper()]
+    except KeyError:
+        raise HTTPException(
+            status_code=400, 
+            detail=f"Invalid site name: '{request.site_name}'. Valid options: {[s.value for s in Site]}"
+        )
+    
+    # Validate scraper is configured
+    if site_enum not in SCRAPER_MAPPING:
+        raise HTTPException(
+            status_code=400,
+            detail=f"Scraper for '{request.site_name}' is not configured in this API"
+        )
+    
     task_id = str(uuid.uuid4())
     
     # Initialize status
@@ -136,14 +157,33 @@ async def submit_scrape_job(request: ScrapeRequest, background_tasks: Background
 @app.get("/status/{task_id}")
 async def check_job_status(task_id: str):
     """
-    Check the status of a job. If 'completed', returns the data.
+    Check the status of a job.
+    
+    Returns:
+        200: Job completed successfully (includes job data)
+        202: Job still processing
+        404: Task ID not found
+        500: Job failed (includes error details)
     """
     job = JOB_STORE.get(task_id)
     
     if not job:
         raise HTTPException(status_code=404, detail="Task ID not found")
-        
-    return job
+    
+    status = job.get("status")
+    
+    if status == "failed":
+        raise HTTPException(
+            status_code=500,
+            detail={
+                "error": job.get("error", "Unknown error"),
+                "task_id": task_id
+            }
+        )
+    elif status == "processing":
+        return {"status": "processing", "task_id": task_id}
+    else:  # completed
+        return job
 
 @app.get("/health")
 def health():

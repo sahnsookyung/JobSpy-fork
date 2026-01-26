@@ -22,10 +22,10 @@ if __name__ == "__main__":
     # print(jobs.head())
     # jobs.to_csv("jobs.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
 
-    jobs = scrape_jobs(site_name="tokyodev", results_wanted=50, location="Tokyo", japanese_requirements=[JapaneseLevel.NONE, JapaneseLevel.BASIC], applicant_locations=[ApplicantLocation.APPLY_FROM_ABROAD], seniorities=[Seniority.JUNIOR, Seniority.INTERMEDIATE], hours_old=24*30)
-    print(jobs.head())
-    jobs.to_csv("tokyodev.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
-    
-    # jobs = scrape_jobs(site_name="japandev", results_wanted=10, applicant_locations=[JdApplicantLocation.ANYWHERE], japanese_levels=[JdJapaneseLevel.NOT_REQUIRED], seniorities=[JdSeniority.NEW_GRAD, JdSeniority.JUNIOR, JdSeniority.MID_LEVEL])
+    # jobs = scrape_jobs(site_name="tokyodev", results_wanted=50, location="Tokyo", japanese_requirements=[JapaneseLevel.NONE, JapaneseLevel.BASIC], applicant_locations=[ApplicantLocation.APPLY_FROM_ABROAD], seniorities=[Seniority.JUNIOR, Seniority.INTERMEDIATE], hours_old=24*30)
     # print(jobs.head())
-    # jobs.to_csv("japandev.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
+    # jobs.to_csv("tokyodev.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
+    
+    jobs = scrape_jobs(site_name="japandev", results_wanted=10, applicant_locations=[JdApplicantLocation.ANYWHERE], japanese_levels=[JdJapaneseLevel.NOT_REQUIRED], seniorities=[JdSeniority.NEW_GRAD, JdSeniority.JUNIOR, JdSeniority.MID_LEVEL])
+    print(jobs.head())
+    jobs.to_csv("japandev.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
