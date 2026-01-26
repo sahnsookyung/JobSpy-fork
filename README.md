@@ -258,3 +258,22 @@ Naukri specific
 ├── vacancy_count
 └── work_from_home_type
 ```
+
+## Custom Modifications
+
+### New Scrapers added
+- **JapanDev**: Added support for scraping jobs from [JapanDev](https://japandev.com).
+- **TokyoDev**: Added support for scraping jobs from [TokyoDev](https://www.tokyodev.com).
+
+### API Server
+- Added a **FastAPI** server `api_server.py` to run the scraper as a REST API service.
+- **Endpoints**:
+    - `POST /scrape`: Submit a scraping job (supports background processing).
+    - `GET /status/{task_id}`: Check the status and retrieve results of a scraping job.
+    - `GET /health`: Health check endpoint.
+- **Docker Support**: Added `Dockerfile` and `docker-compose.yml` for easy deployment.
+
+### Code Improvements
+- **Refactoring**: Updated `ScraperInput` model and `__init__.py` to handle defaults more robustly.
+- **Validation**: Added validation for input parameters in the API to ensure stability.
+
