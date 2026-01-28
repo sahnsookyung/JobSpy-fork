@@ -1,4 +1,2557 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"gd-1010011249019","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010011249019","","Agentic AI - Software Engineer","Kyndryl","","2026-01-27","","","","","","",False,"","","organic","","**Who We Are**
+
+At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world’s leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edge. For our people—Kyndryls—that means doing purposeful work that powers human progress. Join us and experience a flexible, supportive environment where your well-being is prioritized and your potential can thrive.
+
+**The Role**
+
+As an Agentic AI Software Engineer at Kyndryl, you’ll take the architect’s vision and turn it into reality building and delivering the code and integrations that power our customer engagements, and next-gen Agentic AI deployments. This is a hands-on, highly technical role where you’ll work on enterprise-grade software platforms that integrate Agentic AI capabilities.
+  
+  
+You’ll thrive in a true builder’s environment, where MVP rollouts happen in weeks, and you’ll have the autonomy to experiment, innovate, and solve complex problems. Expect a mix of technical work, some customer-facing collaboration and a fast-paced, iterative setting with evolving requirements.
+  
+  
+What You’ll Do
+  
+
+* Implementation of agents using LLM frameworks such as LangChain, LlamaIndex, or custom-built solutions
+
+* Design and control of agent behaviors, including tool calling and function execution
+
+* Development of multi-step and multi-agent workflows through agent decomposition and orchestration
+
+* Implementation and operation of model performance improvements via fine-tuning and adapters (e.g., LoRA)
+
+* Design, version control, and evaluation pipelines for prompt engineering
+
+* Implementation of secure sandbox environments and execution infrastructures to enable safe tool execution
+
+Your Future at Kyndryl
+  
+Every position at Kyndryl offers a way forward to grow your career. We have
+  
+opportunities that you won’t find anywhere else, including hands-on experience, learning opportunities, and the chance to certify in all four major platforms. Whether
+  
+you want to broaden your knowledge base or narrow your scope and specialise in a specific sector, you can find your opportunity here.
+
+**Who You Are**
+
+You’re good at what you do and possess the required experience to prove it. However, equally as important, you have a growth mindset; you are keen to drive your own personal and professional development. You are customer-focused – someone who prioritises customer success in their work. And finally, you’re open and borderless – naturally inclusive in how you work with others.
+  
+  
+Essential Qualifications
+
+* Native Japanese proficiency or equivalent
+* Python software development experience (approximately 3+ years)
+* Basic understanding of asynchronous processing, API design, and distributed systems
+* Development and operations experience in cloud-native environments
+* Experience implementing systems using LLMs or AI (professional or research)
+
+Preferred Skills
+  
+
+* Experience implementing agents using frameworks such as LangChain or LlamaIndex
+* Experience developing LLM applications that include tool calling and function execution
+* Experience operating prompt design, evaluation, and improvement loops
+* Experience implementing or operating fine-tuning, LoRA, or other adapter techniques
+* Experience designing secure execution environments or sandboxes
+
+Why Join Us
+  
+
+* Work on the next frontier: Agentic AI is new and transformative, be part of defining its enterprise adoption.
+* Startup energy and enterprise scale: agile innovation backed by global resources.
+* Direct impact: Your code will power Kyndryl’s AI-native transformation.
+
+  
+#AgenticAI
+
+**Being You**
+
+The “Kyn” in Kyndryl means kinship, which represents the strong bonds we have with each other, our customers and our communities. We focus on ensuring all Kyndryls feel included and we welcome people of all cultures, backgrounds, and experiences. Even if you don’t meet every requirement, we encourage you to apply. We believe in growth, and we’re excited to see what you can bring. At Kyndryl, employee feedback has told us that our number one driver of employee engagement is belonging. That sense of belonging — being a valued, respected, trusted member of the team — is fundamental to our culture and fueling great experiences for our customers. This dedication to welcoming everyone into our company means that Kyndryl gives you the ability to thrive and contribute to our culture of empathy and shared success. That’s The Kyndryl Way.
+
+**What You Can Expect**
+
+Your career with us isn’t just a job—it’s an adventure with purpose. We offer a dynamic, hybrid-friendly culture that supports your well-being and empowers you to grow. Our Be Well programs are thoughtfully designed to support your financial, mental, physical, and social health—because we know that when you feel your best, you do your best.
+  
+  
+From your very first day, you’ll dive into impactful work that powers the systems our customers rely on every day. You won’t just contribute—you’ll make a difference, tackling meaningful projects that sharpen your skills and fuel your growth.
+  
+  
+We’re here to champion your journey. With powerful tools to chart your career path, personalized development goals aligned with your ambitions, and continuous feedback to keep you inspired and on track, you’ll have everything you need to thrive and evolve. You’ll develop in-demand skills to grow your career and achieve your ambitions with access to cutting-edge learning opportunities—from certifications with Microsoft, Google, and Amazon to coaching and hands-on experiences. And through it all, you’ll be part of a culture that values empathy, restless learning, and a devotion to shared success.
+  
+  
+We want you to thrive here—and we’re committed to helping you do just that. Ready to make an impact? Join us and help shape what’s next.
+
+**Get Referred!**
+
+If you know someone that works at Kyndryl, when asked ‘How Did You Hear About Us’ during the application process, select ‘Employee Referral’ and enter your contact's Kyndryl email address.","","","","","","","","","","","","","",""
+"gd-1010011769120","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010011769120","","Software Engineer / Machine Learning Engineer","モノグサ株式会社","","2026-01-27","","","yearly",0.0,0.0,"",False,"","","organic","","**仕事概要**
+--------
+
+私たちは、「記憶を日常に」というミッションを果たすために、記憶のプラットフォーム「Monoxer(モノグサ)」を開発・運営しています。 AIを活用し、誰もが「記憶」を負荷なく自然に行える活動に変化させていくこと。それにより、人の生き方にさまざまな奥行きと選択肢をつくることが、私たちの目指す世界です。 当社は創業以来記憶活動のデータの蓄積を続けており、当社の最も重要な資産の一つです。モノグサの機械学習エンジニアにはデータ活用の最前線に立ち、これらのデータから記憶活動の本質を解明してMonoxerのプロダクトに接続することを期待します。 業務内容 \\* 新規案件の立ち上げ、関係者ヒアリング、要件定義、エンジニアリング、およびレポーティング \\* 対象となるプロセス等に関するデータの観察および分析 \\* 統計的手法の応用による解決に適し、かつステークホルダーの要件を満たすを満足させるタスク定義 \\* 実データまたはシミュレーションに基づく、統計モデルの動作やアプリケーション挙動に関する評価方法の確立・実装、およびそれを用いた技術検証 \\* 統計モデルの動作についてのステークホルダーに対する説明、および説明可能性を高める（可視化等の）技術手法の開発・実装・検証 \\* 開発した統計モデルを運用するソフトウェアの開発 \\* プレインテキストに代表される非構造化データから記憶事項を抽出するアルゴリズムの開発 \\* 自然言語処理技術による教材開発プロセスの自動化 \\* 記憶状況を推定するモデルの開発・改善 \\* 契約組織の離脱予測とそれに基づく離脱抑止施策の実施 使用言語/ツール/開発環境 ・サーバサイド: Scala(Play), C++ ・フロントエンド: Typescript, React, Redux ・Android: Kotlin, C++ ・iOS: Swift, C++ ・インフラ：Google Cloud ・データべース：MySQL ・コード管理: GitHub ・コミュニケーション：Slack ・BIツール：Looker Studio ・データウェアハウス: BigQuery
+
+**必須スキル**
+---------
+
+\\* モデルを構築してから実運用に投入するするまでの一連の機械学習プロジェクトを実施した経験 \\* 統計学・機械学習に関する知識 \\* 継続して動作するシステムの実装および運用の経験 \\* 異なる専門性を持つ人たちに適切に説明する能力 \\* 日本語非母語話者においては JLPT 試験で N1 レベル相当の日本語力
+
+**歓迎スキル**
+---------
+
+\\* 自然言語処理の経験 \\* MLOpsに関する経験 \\* データエンジニアリングに関する経験
+
+**求める人物像**
+----------
+
+\\* 知的好奇心がある \\* 様々な人と議論するのが好き \\* 組織の自由さを正しく活用できる人
+
+**応募概要**
+--------
+
+**給与**
+
+660万～1,300万程度（※実際の経験とスキルにより、相談可能）
+
+  
+
+**勤務地**
+
+東京本社（飯田橋オフィス）
+
+  
+
+**雇用形態**
+
+正社員
+
+  
+
+**勤務体系**
+
+・勤務時間 10:00～19:00(実働8時間)を基本にした裁量労働制 ・完全週休二日制・祝祭日、年末年始休暇 ・当社規定による年次有給休暇制度 ※入社時10日間の有給休暇付与 ・リモートワーク可能
+
+  
+
+**福利厚生**
+
+・ストックオプション制度あり ・交通費支給 ・書籍購入補助制度 ・フリードリンク ・各種保険完備（雇用保険、労災保険、厚生年金保険、健康保険） ・社外研修参加時の費用補助あり
+
+**企業情報**
+--------
+
+**企業名**
+
+モノグサ株式会社
+
+  
+
+**設立年月**
+
+2016年8月
+
+  
+
+**本社所在地**
+
+東京都千代田区飯田橋3-8-5 住友不動産飯田橋駅前ビル 7階
+
+  
+
+**資本金**
+
+1,286,794,652円（資本準備金含む）
+
+  
+
+**従業員数**
+
+約170名","","","","","","","","","","","","","",""
+"gd-1010010536347","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010010536347","","Backend Engineer, Ruby","株式会社DEGICA","","2026-01-27","","","","","","",False,"","","organic","","About KOMOJU
+  
+  
+KOMOJU (by Degica) is the leading cross-border payment gateway for Japan. We power payments for companies like video game distribution platform Steam and the popular mobile app TikTok. Today we help thousands of merchants by providing them with the payment infrastructure they need through developer-friendly API’s to integrations on popular platforms like Shopify and Wix; we help our merchants grow in all markets they are expanding.
+  
+  
+What to expect
+  
+  
+We are product focused, meaning you will work on our payment gateway and any other projects towards building the future of KOMOJU. You will work with other engineers in a flat and inclusive culture where engineers have a say in both key product and technology decisions. The culture is largely self-organizing, which means engineers have both a stake and ownership in what they work on. Engineers play to their strengths, but are also able to invest in areas where they want to grow within the team. At KOMOJU, you are the main driver behind your growth and position in the company.
+  
+  
+International at our core
+  
+  
+Most of our engineering team members come from outside Japan. English is the primary language used, and throughout the company, many people are at least bilingual. Being an international company we know the importance of bilingualism. We offer all employees a choice between optional English and Japanese lessons to help create a culture of diversity and ensure smooth collaboration across teams.
+  
+  
+About the position
+  
+  
+We are looking for a backend engineer to help us build our platform to handle payments on a global scale. You will primarily work with Ruby, building out features using Ruby on Rails (90% of tasks). As we’re still scaling our front-end team, you may be asked occasionally to work on front-end tasks as well (Less than 5% of tasks). As well as this there will be tasks related to Monitoring, Observability etc. which uses Terraform and DataDog (< 5%).
+  
+  
+Typical tasks include adding new APIs for Front-end Interfaces in our Ruby on Rails application for customers to use, investigating bugs with our partners to ensure customer payments go through smoothly, and improving our systems’ reliability and observability to ensure better better health using Terraform.
+  
+  
+You will work with our product managers and critically evaluate requirements then implement those requirements in code. You will also work with your fellow developers and provide constructive feedback through code reviews, look at refactoring opportunities, and helping improve the codebase. You will receive mentoring support from managers and senior developers to help develop your skills as realizing growth potential is a key goal.
+  
+  
+Our ideal candidate has experience working with large web applications. They will know how to build reliable and performant web applications. Testing and code quality are also extremely important to us, so having a strong knowledge of testing and the different testing types is required.
+  
+  
+Responsibilities
+  
+Build backend systems using Ruby on Rails stack.
+  
+Understand product goals and feature requests and translate them into working software
+  
+Work on large technical projects from design through implementation and delivery as part of a team
+  
+Ensure high-quality, reliable software - including thorough testing.
+  
+Requirements
+  
+You are familiar enough with Ruby to discuss topics such as the Object Hierarchy and meta-programming features such as 'method\\_missing'
+  
+Experience with building performant and scalable Ruby applications.
+  
+Ability to design data models and system architectures.
+  
+Strong technical communication skills - including the ability to document decisions clearly and concisely
+  
+Experience and understanding of common web vulnerabilities and how to mitigate them
+  
+Understanding of software architecture, design patterns and best practices
+  
+  
+Nice to Haves
+  
+Experience with TypeScript, Vue.js, or React
+  
+Experience with payments or payment systems
+  
+Experience with integrating with third party APIs in a secure and fault-tolerant manner
+  
+Understanding of database performance characteristics and data access patterns
+  
+Familiarity with Monitoring and Observability techniques and platforms such as DataDog.
+  
+  
+What is the process like?
+  
+We aim to keep our hiring process thoughtful and efficient, typically involving 3-4 stages depending on the role: an initial screening, a take-home exercise, a technical (team) interview, and a final interview with leadership. Throughout the process, the team evaluates candidates not only on technical skills but also on their alignment with team culture and potential for long-term growth. Beyond the Code: How to shine in coding exercises
+  
+Benefits
+  
+At Degica, we embrace remote work while also offering office space for those who prefer in-person collaboration
+  
+10 days regular vacation, additional 5 days summer, and 5 days winter vacation
+  
+Paid birthday holiday
+  
+Budget for self-learning allowance, to ensure our employees’ skills remain current
+  
+Access to the O’Reilly Learning Platform
+  
+Language training for Japanese/ English
+  
+Twice a week office lunch","","","","","","","","","","","","","",""
+"gd-1010011777075","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010011777075","","Senior Software Engineer/Rust /210587","株式会社labBase","","2026-01-27","","","yearly",0.0,0.0,"",False,"","","organic","","**仕事内容:**
+
+LabTech（＝IT×研究）の開発をお任せします！  
+⋆「LabTech」とは？  
+LabBaseがビジネスを展開する領域を、「Lab（研究）」と「Technology（技術）」を掛け合わせ、「LabTech」と呼んでいます。
+
+⋆業務内容  
+「研究の力を、人類の力に。」これがLabBaseのミッションです。  
+研究領域が抱える複雑な課題に向き合い、LabBaseが提供するサービスで、あらゆる開発を推進していただきます。  
+エンジニアは特定の技術に限らず、課題に対してを最適な技術を駆使し取り組んでいただきます。
+
+⋆具体的な職務  
+具体的には、  
+・単一のサービスとプラットフォームの視点からのシステム構築  
+・事業ドメインをコードへ落とし込み  
+・仮説からプロダクトを素早く作り出し、価値検証をエンジニアの立場から推進  
+・事業の状況を踏まえ、妥当な設計を提案でき、拡張性も考慮し技術的視点から意思決定  
+・技術的負債を主体的に改善する提案と推進  
+を行っていただきます。
+
+⋆開発フロー  
+・LabBase全社の戦略をもとに、各サービスごとにチームで開発しています。  
+・各課題に対して、データ分析・施策の検討をチームで行います。  
+・チーム毎に2週間のサイクルのスクラムを実施しています。  
+・原則としてテストコードを書き、マージされるすべてのコードはレビューされています。
+
+⋆開発情報  
+サーバーサイド：  
+・言語: Rust   
+・フレームワーク: axum  
+・DB : MySQL/Amazon DynamoDB
+
+フロントエンド：  
+・言語: TypeScript  
+・フレームワーク: React  
+・ビルドシステム: Vite  
+・デザイン：figma
+
+インフラ：  
+・クラウド: AWS  
+・コンテナ: k8s / Docker  
+・監視 : Datadog, Grafana
+
+環境：  
+・リポジトリ管理 : Github  
+・ドキュメント：Confluence, Google Docs  
+・コミュニケーション : Slack / Gather  
+・タスク管理：Jira  
+・開発手法：スクラム
+
+**アピールポイント:**
+
+1.研究領域に特化したプラットフォーム開発に関わることができる。  
+→1つのプラットフォームにさまざまなサービスが存在するため、さまざまな種類のサービス開発を経験することができます。検索エンジンや研究領域で重要なセキュリティ部分など、難易度の高いチャレンジが可能であり、1からそのような難しい開発に挑戦できるという機会が得られるのが面白みの一つです。
+
+2.Rust言語を利用しており、新しい技術も積極的に取り入れる環境がある
+
+3.エンジニアの希望によって横断的に動くことが可能な環境が組織の特徴としてあるため、皆さんの「ご希望」に沿ったポジション(職務内容)を提案/ご相談が可能
+
+4.「開発の速度を上げるためには技術的負債を解消する必要がある」という考えを持ちあわせ、技術的負債の解消に早期に取り組んでいること
+
+5.新しい技術や開発への「Challenge」を推奨しているため、年次/年齢関係なく自己研鑽をするメンバーが揃っている。
+
+**求める人材:**
+
+【必須スキル・経験】  
+・セキュリティーを意識しサービス全体のアーキテクチャに沿ったコードを一貫して設計された経験  
+・複数のエンジニアを率いステークホルダーとコミュニケーションを行いチームをリードした経験  
+・N2を目安として、日本語にてコミュニケーションが可能なこと
+
+**勤務時間・曜日:**
+
+〈勤務時間〉  
+10:00~19:00  
+夜間勤務：なし  
+月間平均残業時間：30時間以下
+
+**休暇・休日:**
+
+〈休日休暇〉  
+休日：土日祝休み  
+年間休日：120日  
+休暇制度：年末年始休暇、夏季休暇、有給休暇、特別休暇、産休・育休、慶弔休暇、介護休暇  
+補足情報：⁜完全週休2日制（土日）・祝日  
+⁜夏季・年末年始休暇  
+⁜有給休暇（年次有給休暇（9月～翌年2月入社：最初の3月、3月～8月入社：最初の9月に10日間付与）  
+⁜特別休暇（婚姻休暇、産前産後休暇、育児休暇、介護休暇、看護休暇、慶弔休暇、入社時特別休暇：3日間付与有給発生時に消滅）
+
+**勤務地:**
+
+〈勤務地〉  
+〒105-0003  
+東京都港区西新橋一丁目1番1号　WeWork日比谷フォートタワー１０F  
+※現在は出社／在宅のハイブリッド勤務ですが、こちらのポジションは「フルリモート可能」です
+
+【アクセス】  
+都営三田線 内幸町駅（A6出口）直結徒歩3分  
+東京メトロ 千代田線・日比谷線 霞が関駅（C4出口） 直結徒歩3分  
+東京メトロ 銀座線 虎ノ門駅（10番出口）徒歩6分  
+JR 各線 新橋駅（日比谷出口） 徒歩7分  
+自社内勤務  
+転勤の可能性：なし
+
+**給与:**
+
+<給与>  
+想定年収：750万円～900万円  
+月給：  
+賞与回数：  
+昨年度賞与実績：  
+インセンティブ：なし  
+〈年収例〉  
+750万円/月625,000+リモート手当5000円  
+〈補足情報〉  
+試用期間3ヶ月：期間中の待遇などに変わりはありません  
+年収備考：年収には⽉45時間分の固定残業代 ⽉131,359円（年収600万円の場合）〜を含む  
+※超過した時間外労働の残業手当は追加支給いたします
+
+**待遇・福利厚生:**
+
+〈福利厚生・諸手当〉  
+社会保険完備、健康診断、交通費支給  
+補足情報：⁜各種社会保険（健康保険、厚生年金、雇用保険、労災保険）  
+⁜出社交通費（上限3000円/回）　※出張費用別途支給、必要時都度申請  
+⁜リモート手当て  
+⁜健康診断  
+⁜業務用Macbook支給  
+⁜リファラルランチ / ディナー費用  
+⁜部活動費用  
+⁜ベビーシッター利用補助制度  
+⁜出社時はWeWorkのドリンク、ラウンジ利用可能
+
+**その他:**
+
+紹介番号：有料職業紹介事業:13-ユー311036
+
+＜選考に関して＞  
+カジュアル面談の有無 :状況に応じてある  
+会社説明会の有無 :なし  
+適性テストの有無 :なし  
+＜選考フロー＞  
+▼書類選考  
+▼1次面接  
+▼2次、最終面接  
+＜補足情報＞  
+面接は原則２～３回（原則オンライン実施のみで完結）
+
+代表加茂との面談、現場メンバーとの面談、全社集会への参加、オフィスツアーなど  
+候補者様に合わせて体験ベースで弊社の魅力を感じていただけるコンテンツをご用意しております。
+
+※面談時の服装について  
+服装の指定はございません。リラックスできる格好でご参加くださいませ。  
+面接担当者もカジュアルな装いで参加いたします。
+
+雇用形態: 正社員
+
+給与・報酬: 7,500,000円 - 9,000,000円 年俸
+
+平均所定労働時間（1か月当たり）: 160時間","","","","","","","","","","","","","",""
+"gd-1010010339181","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010010339181","","Devops SRE Jan 2026","Alto","","2026-01-26","","","","","","",False,"","","organic","","***Job Advertisement: DevOps/Site Reliability Engineer (SRE)***
+===============================================================
+
+**Overview**
+------------
+
+A unique opportunity to work on cutting-edge systems built entirely from scratch. We are currently seeking an experienced **DevOps + Site Reliability Engineer (SRE)** to join our dynamic team and play a pivotal role in shaping the future of our infrastructure and operations.
+
+**Responsibilities**
+--------------------
+
+As a DevOps + SRE Engineer, you will:
+
+* Design, implement, and maintain **CI/CD pipelines** to automate software delivery processes.
+* Monitor system performance, troubleshoot issues, and implement solutions to enhance reliability, performance, and scalability.
+* Develop and manage **Infrastructure as Code (IaC)** using tools such as Terraform, Ansible, or CloudFormation.
+* Oversee containerized environments using **Docker** and orchestration tools like **Kubernetes** for deployment, scaling, and management.
+* Implement and maintain **monitoring, logging, and alerting systems** to ensure proactive issue detection and resolution.
+* Collaborate with cross-functional teams to define and implement **disaster recovery** and **business continuity plans**.
+* Ensure compliance with **security best practices** and industry standards for data protection and system security.
+* Stay updated on emerging technologies and industry trends, recommending tools and technologies to improve efficiency and scalability.
+
+**Qualifications**
+------------------
+
+### **Must-Have:**
+
+* A **Bachelor's degree** in Computer Science, Engineering, or a related field, or equivalent experience.
+* A minimum of **5 years of experience** in a DevOps, SRE, or related role.
+* Expertise in **Google Cloud Platform (GCP)** and **Google Kubernetes Engine (GKE)**.
+* Hands-on experience with **infrastructure automation tools** such as Terraform, Ansible, or CloudFormation.
+* Proficiency in **containerization technologies** like Docker and orchestration tools such as Kubernetes.
+* Experience with **CI/CD pipelines** and tools like Jenkins, GitHub Actions, or ArgoCD.
+* Strong knowledge of **Linux/Unix systems** and shell scripting.
+* Familiarity with **monitoring, logging, and alerting tools** such as Prometheus, Grafana, ELK Stack, or Splunk.
+* Excellent problem-solving skills and the ability to troubleshoot complex issues in distributed, high-availability environments.
+* Strong communication and collaboration skills, with the ability to thrive in a fast-paced, dynamic environment.
+
+### **Good-to-Have:**
+
+* Bilingual proficiency in **Japanese and English**, both written and verbal.
+* Certifications in **GCP**, **Kubernetes**, or relevant technologies.
+* Knowledge of database technologies such as **Google Spanner**, **MySQL**, or **PostgreSQL**.
+* Experience with **infrastructure security best practices** and tools.
+
+**Day-to-Day**
+--------------
+
+* Collaborate with engineering teams to design and implement scalable, reliable, and secure infrastructure solutions.
+* Monitor and optimize system performance, ensuring high availability and minimal downtime.
+* Automate repetitive tasks to improve operational efficiency.
+* Respond to incidents, troubleshoot issues, and implement long-term solutions to prevent recurrence.
+* Stay ahead of industry trends and integrate innovative technologies into our systems.
+
+**Benefits**
+------------
+
+* Opportunity to work on **cutting-edge technology** in financial technology space.
+* Join a team of **highly skilled and motivated professionals** in a collaborative and innovative environment.
+* Competitive compensation package.
+* Professional development opportunities, including certifications and training.
+* Flexible work environment with a focus on work-life balance.
+* The chance to build systems from scratch and make a significant impact on the company's success.","","","","","","","","","","","","","",""
+"gd-1010010438729","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010010438729","","Backend Engineer, Ruby","Degica","","2026-01-26","","","","","","",False,"","","organic","","### **About KOMOJU**
+
+KOMOJU (by Degica) is the leading cross-border payment gateway for Japan. We power payments for companies like video game distribution platform Steam and the popular mobile app TikTok. Today we help thousands of merchants by providing them with the payment infrastructure they need through developer-friendly API’s to integrations on popular platforms like Shopify and Wix; we help our merchants grow in all markets they are expanding.
+
+### **What to expect**
+
+We are product focused, meaning you will work on our payment gateway and any other projects towards building the future of KOMOJU. You will work with other engineers in a flat and inclusive culture where engineers have a say in both key product and technology decisions. The culture is largely self-organizing, which means engineers have both a stake and ownership in what they work on. Engineers play to their strengths, but are also able to invest in areas where they want to grow within the team. At KOMOJU, you are the main driver behind your growth and position in the company.
+
+### **International at our core**
+
+Most of our engineering team members come from outside Japan. English is the primary language used, and throughout the company, many people are at least bilingual. Being an international company we know the importance of bilingualism. We offer all employees a choice between optional English and Japanese lessons to help create a culture of diversity and ensure smooth collaboration across teams.
+
+### **About the position**
+
+We are looking for a backend engineer to help us build our platform to handle payments on a global scale. You will primarily work with Ruby, building out features using Ruby on Rails (90% of tasks). As we’re still scaling our front-end team, you may be asked occasionally to work on front-end tasks as well (Less than 5% of tasks). As well as this there will be tasks related to Monitoring, Observability etc. which uses Terraform and DataDog (< 5%).
+
+Typical tasks include adding new APIs for Front-end Interfaces in our Ruby on Rails application for customers to use, investigating bugs with our partners to ensure customer payments go through smoothly, and improving our systems’ reliability and observability to ensure better better health using Terraform.
+
+You will work with our product managers and critically evaluate requirements then implement those requirements in code. You will also work with your fellow developers and provide constructive feedback through code reviews, look at refactoring opportunities, and helping improve the codebase. You will receive mentoring support from managers and senior developers to help develop your skills as realizing growth potential is a key goal.
+
+Our ideal candidate has experience working with large web applications. They will know how to build reliable and performant web applications. Testing and code quality are also extremely important to us, so having a strong knowledge of testing and the different testing types is required.
+
+### **Responsibilities**
+
+* + - Build backend systems using Ruby on Rails stack.
+    - Understand product goals and feature requests and translate them into working software
+    - Work on large technical projects from design through implementation and delivery as part of a team
+    - Ensure high-quality, reliable software - including thorough testing.
+
+**Requirements**
+
+* + - You are familiar enough with Ruby to discuss topics such as the Object Hierarchy and meta-programming features such as `method\\_missing`
+    - Experience with building performant and scalable Ruby applications.
+    - Ability to design data models and system architectures.
+    - Strong technical communication skills - including the ability to document decisions clearly and concisely
+    - Experience and understanding of common web vulnerabilities and how to mitigate them
+    - Understanding of software architecture, design patterns and best practices
+
+### **Nice to Haves**
+
+* + - Experience with TypeScript, Vue.js, or React
+    - Experience with payments or payment systems
+    - Experience with integrating with third party APIs in a secure and fault-tolerant manner
+    - Understanding of database performance characteristics and data access patterns
+    - Familiarity with Monitoring and Observability techniques and platforms such as DataDog.
+
+### **What is the process like?**
+
+* We aim to keep our hiring process thoughtful and efficient, typically involving 3-4 stages depending on the role: an initial screening, a take-home exercise, a technical (team) interview, and a final interview with leadership. Throughout the process, the team evaluates candidates not only on technical skills but also on their alignment with team culture and potential for long-term growth. Beyond the Code: How to shine in coding exercises
+
+**Benefits**
+
+* At Degica, we embrace remote work while also offering office space for those who prefer in-person collaboration
+* 10 days regular vacation, additional 5 days summer, and 5 days winter vacation
+* Paid birthday holiday
+* Budget for self-learning allowance, to ensure our employees’ skills remain current
+* Access to the O’Reilly Learning Platform
+* Language training for Japanese/ English
+* Twice a week office lunch","","","","","","","","","","","","","",""
+"gd-1010010490986","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010010490986","","Engineering Manager - LegalOn","株式会社LegalOn Technologies","","2026-01-26","","","yearly",0.0,0.0,"",False,"","","organic","","**仕事概要**
+--------
+
+LegalOn Technologies is a global leader in legal AI solutions, trusted by more than 7,500 companies and law firms worldwide. The company empowers legal teams to review and negotiate contracts faster, with greater accuracy and confidence. Operating across Japan, the United States, and Europe, LegalOn is the first AI company from Japan to surpass ¥10 billion in annual recurring revenue (ARR) and has raised over $200M from leading investors including SoftBank and Goldman Sachs. It also has one of the largest and most global AI teams of any startups in Japan. In 2025, LegalOn achieved its first M&A by welcoming Germany's Fides Technology into the group, further accelerating global expansion. LegalOn combines LLMs, intelligent Agents and intelligent AI-driven workflows. Beyond legal, the company now offers specialized AI solutions including ""CorporateOn,"" ""CXOn,"" and ""DealOn"" to support diverse business domains requiring high expertise. In partnership with OpenAI, the company is redefining the legal AI landscape and developing innovative solutions for the future of professional work.
+
+For more details about our company, products, and development organization:  
+https://legalforce-recruit.notion.site/LegalOn-Technologies-Candidate-Handbook-17d82a58637480d2836ae138e5b5ee95
+
+**Key Responsibilities**  
+The Engineering Manager for this position will be part of a development team of approximately 10 engineers and will be responsible for the delivery of product feature development. You will have the authority and responsibility to drive projects within the team, including managing development progress, overseeing tasks, and assigning team members as needed.
+
+You will also work closely with the Product Manager to organize and refine product requirements from both a user and an engineering perspective, and to derive the most appropriate solutions. While the role is primarily focused on project management, you are expected to be actively involved in product-related decision-making, system functionality design, and architecture design. This is a critical position that plays a key role in driving the growth of the product.
+
+**Relationship with the Product Manager (PdM)**  
+While the Product Manager is primarily responsible for defining *what* to build, the Engineering Manager is responsible for determining and delivering *how* to build it. The two roles are expected to work in close collaboration to align on the product development direction and ensure it is clearly communicated and executed within the team.
+
+* **What Mission and Challenges You’ll Take On**
+
+* Take ownership of the development team’s feature delivery,  
+  ensuring customer value is delivered and directly contributing  
+  to the product’s growth.
+* Support and guide the development team and its members as needed, fostering both team growth and individual growth.
+
+* **What You’ll Do**
+
+* Put customer perspective first and execute improvement initiatives to increase delivered value, based on multiple objective metrics.
+* Lead the development team as the owner of feature delivery, ensuring effective project management through task planning, progress tracking, and team assignment.
+* Collaborate with U.S.-based product teams and a wide range of domestic stakeholders, including Product Managers, UX Designers, and Tech Leads, to discuss and evaluate product direction and feasibility.
+* Facilitate discussions with engineers to address on-the-ground technical challenges and drive effective problem-solving.
+* Define and lead the execution of the development roadmap, balancing feature development, technical debt reduction, and long-term technical investment.
+* Remove obstacles for the development team, create an environment where engineers can focus on development, and maximize overall team performance.
+* Develop team members through on-the-job training, 1-on-1 meetings, and regular retrospectives.
+* Support line management activities, including performance evaluation and hiring, in collaboration with relevant stakeholders.
+
+**必須スキル**
+---------
+
+* 5+ years of experience in web service development, including at least 1 year of experience in production operation and maintenance
+* Hands-on experience as a software engineer, with development skills in at least one programming language
+* 3+ years of team management experience in a product development team
+* Japanese language proficiency equivalent to JLPT N1
+* Business-level English proficiency, including:
+  + Ability to read and write technical documentation in English
+  + Ability to communicate and discuss technical topics both in writing and verbally
+* Strong communication skills in a global environment, including:
+  + Effective asynchronous communication with team members across diverse cultural backgrounds and multiple time zones
+
+**歓迎スキル**
+---------
+
+* Hands-on experience designing applications with a strong focus on UX (user experience)
+* Experience developing and operating B2B web services
+* Experience prioritizing feature development, technical debt reduction, and technical investments, as well as creating development plans
+* Experience planning, executing, and iterating on initiatives to improve team productivity
+* Experience in strategic planning and risk management as a Product Owner or in a similar role
+* Experience with software development in a global environment across multiple countries and regions
+
+**応募概要**
+--------
+
+**給与**
+
+7.7million to 21million yen per year
+
+**勤務地**
+
+19F, Shibuya Sakura Stage SHIBUYA TOWER, 1-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-6219, Japan
+
+This is not a fully remote position. Hybrid work is required, and visa support is available.
+
+**雇用形態**
+
+Full-time
+
+  
+
+**勤務体系**
+
+* Working hours: Full flex system without core hours
+* Overtime work beyond designated working hours: Yes
+* Break time: 1 hour
+
+  
+
+**試用期間**
+
+3 months
+
+  
+
+**福利厚生**
+
+Work Environment & Tools
+
+* Choice of laptop: Mac or Windows (Mac with US keyboard available)
+* Access to generative AI tools:  
+  ChatGPT Enterprise, Notion AI, Gemini for Google Workspace, Slack AI
+* Access to developer tools:  
+  Claude Code, Cursor, GitHub Copilot, Devin, Codex, Figma AI, and more
+* Side jobs permitted with prior approval
+
+Professional Development
+
+* Self-development support available for books, online courses, certifications, and more
+* Language learning support
+
+Time Off
+
+* Weekends and national holidays off
+* Paid leave and year-end/New Year holidays
+* Special leave: sick leave, work-life balance leave, birthday leave
+* Maternity leave, childcare leave, and nursing care leave
+
+Health & Welfare
+
+* Social insurance coverage: Health insurance, employee pension insurance, unemployment insurance, and worker’s compensation insurance
+* Influenza vaccination support
+* No indoor smoking (a designated smoking room is available in the building)
+* Employee stock ownership program
+* Certified as an “Eruboshi” company (recognized for promoting women’s participation and advancement in the workplace)
+
+**企業情報**
+--------
+
+**企業名**
+
+株式会社LegalOn Technologies
+
+  
+
+**設立年月**
+
+2017年4月
+
+  
+
+**本社所在地**
+
+東京都渋谷区桜丘町1-1 渋谷サクラステージSHIBUYAタワー19階
+
+  
+
+**資本金**
+
+201.5億円（資本準備金等含）
+
+  
+
+**従業員数**
+
+約626名（役員含む／2025年11月時点）","","","","","","","","","","","","","",""
+"gd-1010009770182","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010009770182","","Distributed Build Systems Engineer - Software Assembly & Packaging","Apple","","2026-01-25","","","","","","",False,"","","organic","","The SWE Developer Productivity organization builds technologies and tools to help  
+software engineers at Apple to do the best work of their lives. The Image Assembly  
+team supports that mission by providing engineers capabilities to aggregate and  
+package their software in novel ways, supporting both the development lifecycle of their  
+changes, as well as the end-customer product.  
+  
+We are looking for experienced engineers to join our efforts. You'll work on extending  
+large-scale novel build and distributed systems to meet the needs of Apple's operating  
+system engineers. If you enjoy working on system software, cloud services, or  
+developer tools like compilers and linkers, then we have many exciting problems to  
+work on! You would join a small, tight-knit group of engineers who build exciting new  
+technology and have fun while doing so. We are applying unique and innovative ideas  
+to old problems and welcome new contributors who are excited by the opportunity to  
+significantly impact the shape and direction of our product.  
+  
+We believe that every engineer brings unique skills and perspective. Far more than any  
+specific experience or skill, we are looking for engineers who want to build great  
+software, learn and develop their skills, and ultimately enable others to develop amazing  
+applications.  
+  
+**Description**  
+You’ll work on integrating business logic of how our software is assembled and  
+packaged into Apple’s core build technologies, finding ways to combine this unique  
+problem domain with established distributed system techniques to achieve both high  
+performance and reliability. You'll analyze problem requirements, existing solutions, and  
+available systems and make high-level architectural decisions about how to architect  
+the backend, considering both short- and long-term goals. Once solutions are identified,  
+you will work alongside our team to implement them, while developing appropriate  
+testing and operational mechanisms, and measuring the impact of your changes in a  
+production environment.  
+  
+You will be most successful here as a flexible and proactive engineer who thrives in a  
+supportive, respectful, and balanced work environment with interesting and challenging  
+problems to tackle. You have excellent judgment and integrity with the ability to make  
+timely and sound decisions. You know how to drive constructive discussion of design  
+points, learn from your team, and use your experience to advocate and teach others."",""responsibilities"":""Spend the majority of your time programming in Swift.  
+Collaborate with your teammates through git pull requests, in-person conversations, and Slack.  
+Engage with other teams to help identify issues and establish long-term relationships that include knowledge sharing.  
+Develop expertise and be given ownership over components critical to Apple’s success.  
+Provide technical guidance, software architectural review, and mentorship.  
+Make customer-focused product design decisions with your teammates and drive what really matters.  
+Prioritize and schedule issues, estimate scope of work, and investigate new issue reports in your areas of responsibility.  
+Have access to the engineers who create Apple’s full technology, tools, and operating systems stack  
+  
+**Preferred Qualifications**  
+Experience or interest in traditional and/or distributed build systems such as Make, CMake, Bazel, Buck, etc.  
+Experience in systems programming (e.g., operating systems, kernel development, compilers or package managers).  
+Experience with SDK or framework development used by other developers.  
+Experience with writing performance-critical components such as game engines.  
+Experience with reliable, scalable, distributed systems  
+Please note this role can be arranged as fully remote within Japan  
+  
+**Minimum Qualifications**  
+3+ years of relevant work experience and M.S. in Computer Science or equivalent  
+Experience with high-performance strongly typed languages such as Swift, Rust, C++, Scala, or others.  
+Strong software architecture and coding abilities  
+Contribute to the development of build systems, cloud services, and other high-performance system software.  
+Excellent collaborative skills, with strong written and verbal communication.  
+  
+Apple is an equal opportunity employer that is committed to inclusion and diversity, and thus we treat all applicants fairly and equally. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities.","","","","","","","","","","","","","",""
+"gd-1010007130429","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010007130429","","Software Integration Engineer - Robotics Deployment","Exotec","","2026-01-23","","","","","","",False,"","","organic","","Exotec designs and develops warehouse technology solutions, combining robotics and software to optimize order preparation and logistics for some of the largest brands in retail, distribution and e-commerce .  
+  
+Thanks to our fleets of robots capable of moving in three dimensions, Exotec has revolutionized the way customers organize their warehouses and logistics flows. We offer a clear alternative to traditional warehouse automation solutions: elegant collaboration between human and robot workers that delivers sustainable warehouse productivity, all while mitigating labor constraints and increasing workplace safety.  
+  
+As the first industrial unicorn in France, our robotic solutions are now deployed across the globe. After raising $335M USD in a Series D led by Goldman Sachs' Growth Equity business, we continue to expand across Europe and are actively hiring for our Central & Eastern European market, with regional offices based out of Greater Munich (Landshut, BY).
+
+**The robotics revolution is just the beginning at Exotec. Will you be part of it?**
+
+### **About The Role**
+
+We are looking for a **Software Integration Engineer** to join our team in Tokyo. This role is ideal for someone who thrives at the intersection of IT systems, software engineering, and logistics. You’ll play a key role in integrating our Warehouse Execution System (WES) into customer environments, ensuring seamless deployment and performance.
+
+### **What You Will Do**
+
+* Engage directly with customers’ IT and operations teams to understand their requirements
+* Translate business and operational needs into actionable design requirements for WES integration
+* Design and develop reliable, scalable, and testable WES add-ons tailored to each solution
+* Write and review high-quality software design specifications and technical documentation
+* Perform unit, integration, and end-to-end testing on both simulated and live systems
+* Participate in the software integration and commissioning phases of projects
+* Collaborate with local experts and international Exotec teams to solve software engineering challenges
+
+**Requirements**
+
+We welcome candidates from diverse backgrounds and experiences. If you meet some (not all) of the criteria below, we still encourage you to apply:
+
+* Experience in IT systems integration or software engineering (not focused on pure development)
+* Background in systems integration, IT engineering, or logistics engineering
+* Familiarity with Node-RED or other event-driven/flow-based technologies
+* Experience designing and managing relational database and good SQL skills
+* Strong autonomy, and planning skills
+* Excellent customer communication skills
+* Fluent in English
+* Fluent in Japanese or Korean
+* Willingness to travel occasionally within Japan or APAC for software commissioning (a few weeks per year)
+
+**Benefits**
+
+* Stock option plan and company performance based bonus
+* 20 days of vacation
+* Health insurance
+* Company defined contribution pension plan
+* Numerous training and development opportunities
+
+Exotec is an equal opportunity employer and all applicants will be considered without regard to race, religion, color, sex, gender, sexual orientation, pregnancy, age, national origin, ancestry, physical or mental disability, medical condition, military or veteran status, genetic information, marital status, ethnicity, or any other protected classification, in accordance with applicable federal, state, and local laws. We provide an inclusive work environment that respects all differences.","","","","","","","","","","","","","",""
+"gd-1010008104342","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010008104342","","Data Analyst/Engineer for Leading Financial Institution","Michael Page","","2026-01-23","","","yearly",0.0,0.0,"",False,"","","organic","","* Join a dynamic team focused on cutting-edge technology and AI solutions.
+* Work closely with global teams and top-tier financial clients.
+
+### **About Our Client**
+
+Our client is a leading global financial institution, renowned for its comprehensive financial services and innovative technology solutions. The division plays a crucial role in supporting the firm's financial operations and risk management.
+
+### **Job Description**
+
+* + Collaborate with developers, teams, and business units to understand data processing intricacies
+  + Implement new data flows, test, and deploy them to production
+  + Design solutions using various technologies, optimizing processing and deployments
+  + Create and manage ETL jobs, ensuring performance and stability
+  + Define new features with product management and provide specifications
+  + Gain an understanding of accounting and finance reporting platforms
+  + Participate in hack days and contribute to DevOps, Cloud, and AI initiatives
+
+### **The Successful Applicant**
+
+* + 2 to 5 years of experience in software development (Java/Scala, Python, Angular)
+  + Proficiency with SQL and relational databases (Snowflake, Teradata, Sybase, DB2)
+  + Working knowledge of Linux for navigation, deployment, and triage
+  + Strong analytical and problem-solving skills
+  + Excellent written and oral communication skills
+
+### **What's on Offer**
+
+* Opportunity to work with a global financial leader
+* Professional growth and development in a dynamic and innovative environment
+* Work in Tokyo, a vibrant and exciting city","","","","","","","","","","","","","",""
+"gd-1010006984443","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010006984443","","Senior Software Engineer, Partner Product Development Department, Tokyo","株式会社マネーフォワード","","2026-01-23","","","yearly",0.0,0.0,"",False,"","","organic","","**職種 / 募集ポジション**
+
+Senior Software Engineer, Partner Product Development Department, Tokyo
+
+  
+
+**雇用形態**
+
+正社員
+
+  
+
+**給与**
+
+年収
+
+580.8万円 〜 1000.8万円
+
+Monthly salary system
+※Includes fixed allowances for up to 45 hours of legal overtime, legal holiday work, and 40 hours of late-night work.
+
+  
+
+**勤務地**
+
+108-0023 21F Tamachi Station Tower S, msb Tamachi, 3-1-21 Shibaura, Minato-ku, Tokyo
+
+  
+
+**Salary System**
+
+<Salary Range>
+Min 484,000 JPY / month（5,808,000 JPY / year）〜834,000 JPY / month（10,008,000 JPY / year）
+Each including fixed allowances of 140,914 JPY〜242,807 JPY / month.
+
+  
+
+**Bonus**
+
+A「High Performance Bonus」may be paid to employees who receive high evaluations based on semi-annual evaluations in addition to their salary.
+※Please note that the remuneration of the High Performance Bonus is subject to change according to the company's performance.
+
+  
+
+**Probation Period**
+
+3 months from join date
+
+  
+
+**Working Hour System**
+
+Discretionary Labor System for Professional Work
+※Conditions apply; subject to change to Flextime System.
+
+  
+
+**Working Hours**
+
+9:30 - 18:30 (60 min break) are the basic working hours. However, employees are able to choose their working hours at their own discretion.
+※There is potential for overtime work outside the determined hours.
+
+  
+
+**Work Style Policy**
+
+Hybrid work style
+・As a standard practice, employees are required to work at the office a minimum of 2 days per week. Employees are encouraged to spend 3 or more days in the office. (This policy may be subject to change based on the company and job circumstances)
+・The specific ""team office days"" may vary depending on the assigned team.
+
+  
+
+**Holidays/Vacations**
+
+Saturdays / Sundays / Japanese national holidays
+Paid holidays
+Summer holidays (3 days)
+Winter holidays (2 days)
+Year-end and New Year’s holidays (Dec 31st～Jan 3rd)
+
+  
+
+**Benefits**
+
+Various social insurances (employee pension, health insurance, employment insurance, industrial accident compensation insurance)
+Neighborhood housing allowance and neighborhood moving allowance
+Salary-based rent deduction benefit
+Health check and gynecological checkup
+Influenza vaccine
+Book purchases support
+Defined-contribution corporate pension
+Employee stock ownership plan
+Preferential treatment when using the following services（limited to businesses under contract with Money Forward）
+- Rental agency
+- Housekeeping services
+- Babysitting
+- Online English conversation school
+
+  
+
+**Selection Process１**
+
+Casual interview/Document Screening
+First interview (Depending on the position, there may be a technical assignment before the interview)
+Several interviews (The number of interviews depends on the position)
+Final interview (We may ask for a reference check before or after the interview)
+Job offer/Offer meeting
+※The process may be subject to change depending on the case.
+
+  
+
+**Selection Process２**
+
+* What are reference checks?
+  Money Forward may ask for your cooperation with reference checks using a reference check service tool. We believe that mutual understanding is limited to the selection process alone. Therefore, we would like to gather information about you from your supervisor and colleagues at your current or former company to ensure a more reliable match and facilitate your early success after joining our company.
+  ※We do not make employment decisions based solely on the contents of reference checks.
+  ※The fact that you are in the selection process with us will not be disclosed to referees.
+
+  
+
+**Notes**
+
+・Range of change in job description: Work as determined by the company
+・Range of change in work location: Work location as determined by the company
+
+  
+
+**Reference Information**
+
+https://recruit.moneyforward.com/#introduction","","","","","","","","","","","","","",""
+"gd-1010008164637","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010008164637","","Mobile Software Engineer(プラットフォーム開発部)","スパイダープラス株式会社","","2026-01-23","","","yearly",0.0,0.0,"",False,"","","organic","","**具体的な業務内容**
+============
+
+***仕事概要***
+
+**事業の変革期をリードする、エンジニアを求めています**  
+私たちのプロダクトは多くの建設現場で支持され、顧客基盤は今も急速に拡大しています。しかし、その成長スピードにプロダクト開発が追いついていません。私たちは今、事業の未来を左右する、大きくも面白い課題に直面しています。
+
+我々は、「”働く”にもっと『楽しい』を創造する。」というMissionを掲げ、テクノロジーの力で建築業界が直面している課題解決に挑んでいます。複数のプロダクトを展開しております。主力プロダクトであるSpider＋アプリは、すでに2200社以上の企業様にご利用いただいており、仕事をする上で必要な現場インフラになれるよう日々成長を続けています。  
+事業の成長に伴い、ユーザー体験のさらなる向上、そして我々のVision「つくる人の “働く” を夢中にする、現場インフラ」を達成するため、組織全体の開発速度と品質を次のステージへと引き上げるため、プロダクトを横断して技術基盤を強化するチームになります。  
+このチームのミッションは、全社のMobileエンジニアが最高のパフォーマンスを発揮できる開発環境と共通基盤を提供することです。3年後には、スケーラブルで高品質な「共通パッケージ群」を整備し、複数のプロダクトへ横断的に展開することを目指しています。これは、我々の事業全体の成長を根幹から支える、極めて戦略的かつ挑戦的な取り組みです。  
+本ポジションは、単なるMobileアプリ開発者ではありません。特定のプロダクトに閉じることなく、組織全体の「当たり前品質」を定義・実現し、開発プロセスを最適化し、全エンジニアの技術力を底上げする、まさに「エンジニアのためのエンジニア」です。あなたの深い技術的知見と俯瞰的な視点で、我々の組織能力を飛躍させていただくことを心から期待しています。
+
+***具体的な業務内容***
+
+* 開発プロセスの標準化と改善
+
+・組織横断での開発ガイドラインやコーディング規約の策定、およびその浸透と遵守を促す仕組み（Linter、静的解析ツール等）の導入  
+・各プロダクトチームの開発プロセスを可視化・分析し、ボトルネックを特定。全体の生産性を向上させるためのプロセス改善を主導  
+・技術選定やアーキテクチャ設計における意思決定プロセスを標準化し、組織としての技術的判断の質と速度を高める
+
+* 品質の醸成と仕組み化
+
+・組織全体の「当たり前品質」の基準を定義し、それを達成するための戦略的なロードマップを策定・実行  
+・ユニットテスト、UIテスト戦略の立案と、テスト自動化フレームワークの導入・推進。テストカバレッジの可視化など、品質を定量的に測定し、継続的に改善する仕組みの構築  
+・技術的負債を可視化し、プロダクトチームと連携しながら計画的な返済を推進する文化とプロセスの醸成  
+・特定された技術的負債について、プロダクトチームと連携しながら計画的な返済を主導・実行する
+
+* 組織横断での技術支援と能力向上
+
+・各プロダクトチームが直面する高度な技術的課題に対するコンサルテーションや、解決が困難な問題へのハンズオン/ペアプロ/モブプロでの実装支援  
+・ドキュメンテーション文化の推進  
+・Apple社の最新技術動向（WWDC発表内容など）をキャッチアップし、組織全体に共有。プロダクトへの応用可能性を検討し、導入を支援する
+
+* 技術基盤の設計と開発
+
+・複数のiOSアプリケーションで共通して利用可能なライブラリ、フレームワーク、コンポーネント群の設計、開発、および運用  
+・認証、API通信、UIコンポーネントなどの共通機能をパッケージ化し、各プロダクトチームが本質的な価値開発に集中できる環境の構築  
+・CI/CDパイプラインの継続的な改善、ビルド時間の高速化、デプロイプロセスの自動化など、開発者体験（Developer Experience）を向上させるためのあらゆる施策の推進
+
+* AI技術の戦略的活用と導入推進
+
+・GitHub Copilotなどの生成AIツールを全社的に活用し、コード生成、レビュー、テスト作成の効率化を推進。組織全体の開発生産性を向上させる。
+
+***入社後まずお任せしたい業務・ミッション***
+
+ご経験やご志向に応じて、以下のいずれかのミッションからスタートしていただくことを想定しています。これらは組織全体の技術力と開発生産性を、次の次元へと引き上げるための極めて重要な挑戦です。
+
+* リアーキテクチャの推進：
+
+複数プロダクトの将来的な拡張性と保守性を担保するため、リアーキテクチャプロジェクトをリードしていただきます。まずは現状のアーキテクチャを分析し、技術的負債の根本原因となっている箇所を特定。その上で、理想的なアーキテクチャを設計し、各プロダクトチームを巻き込みながら、安全かつ計画的な移行戦略を策定・推進・実行するという、組織の未来を左右する重要なミッションです。
+
+* AIを活用した開発プロセスの構築：
+
+生成AI / AIエージェントを活用し、開発者体験を抜本的に向上させるミッションを担っていただきます。AI活用のためのガイドライン策定、効果的なプロンプトエンジニアリングの共有、そして各チームへの導入支援を通じて、コード品質と開発生産性の向上を推進。AIの導入効果を定量的に測定し、レポーティングするところまで、一貫してお任せします。
+
+* 全社的なメンバー育成体系の構築：
+
+組織全体の技術力を底上げするため、Mobileエンジニア向けの育成体系を設計・構築していただきます。各メンバーのスキルレベルを把握した上で、効果的な技術支援プログラムを立案。技術勉強会の企画・運営を通じて次世代の中核になるエンジニアを育成するという、組織の持続的成長に不可欠な役割を期待しています。
+
+***組織課題***
+
+**複雑化する技術的挑戦：マルチプロダクト化とプラットフォーム構想**  
+2011年のリリースから14年間、多くのお客様に愛用いただいている既存プロダクトは、その歴史ゆえの技術的負債を抱えています。私たちはこの課題に向き合いながら、同時に複数の新規プロダクト開発を進め、建設業界全体の課題を解決する「プラットフォーム」を創り上げようとしています。既存と新規、双方の開発を推進しながら、それらを支える共通基盤をどう設計・構築していくか。非常に難易度の高い挑戦です。
+
+**未来を創る人材の不足：0****1のプラットフォーム開発**  
+この壮大な「プラットフォーム構想」を実現するための中核となるのがプラットフォーム開発部です。しかし現状、その重要な役割を担える人材が不足しています。ユーザーの声を直接聞くプロダクト開発とは異なり、プラットフォーム開発では、将来の事業展開を見据えてあるべき機能やインターフェースを自ら構想し、形にしていく力が求められます。正解のない問いに向き合い、技術で未来を創造していく。そんな面白さを感じられる方には、大きな裁量とやりがいのあるポジションです。  
+私たちは、この大きな変革期を共に楽しみ、困難な課題解決に情熱を燃やせる仲間を探しています。
+
+**必須スキル**
+=========
+
+・Swiftの言語での開発経験：2年以上  
+・UIKit / SwiftUIを用いた開発経験：2年以上  
+・MVCからClean Architectureなどアーキテクチャを用いた開発経験  
+・アーキテクチャのメリット/デメリットについて説明できる  
+・SwiftTestingやXCTestを用いたUnitTestの作成経験
+
+**歓迎スキル**
+=========
+
+・Flutterによるアプリの開発経験  
+・Androidアプリの開発経験  
+・CI/CD環境の環境構築、メンテナンスができる（Fastlane等）  
+・プロジェクトでチームのリード経験あり  
+・共通ライブラリや社内向けフレームワークの設計・開発・運用経験  
+・複数チームを横断するような大規模プロジェクトの技術リード経験  
+・OSSへの貢献、技術ブログでの情報発信、カンファレンスでの登壇など、コミュニティへの貢献や社外へのアウトプット経験
+
+**求める人物像**
+==========
+
+・システム基盤を担う役割としての高いラストマンシップをお持ちの方  
+・変化を前提として捉え、楽しめる方  
+・チームで成果を出すことを意識して業務に取り組める方  
+・日々の運用業務で改善ポイントを見出し、自らアクションを取れる方  
+・主体的に行動し周りを巻き込んでミッションを進めることを楽しいと思える方
+
+**このポジションについて**
+===============
+
+***魅力***
+
+* 組織全体への技術的インパクト
+
+・レバレッジ効果の高い貢献: あなたの仕事は、一人の開発者の生産性を上げるだけではありません。あなたが構築した共通基盤や改善した開発プロセスは、組織に所属する全てのMobileエンジニアの生産性を向上させ、事業全体の開発速度を加速させることができます。  
+・技術文化の創造: あなたは、組織の技術文化をリードする存在です。品質に対する考え方、開発プロセスのあり方、技術的負債との向き合い方など、あなたの提言と実践が、我々のエンジニアリングカルチャーそのものを形作っていきます。
+
+* 高度で抽象的な技術課題への挑戦
+
+・ゼロイチの基盤構築: 複数のプロダクトの要求を満たしながら、将来の拡張性も見据えた共通基盤をゼロから設計するという、極めて難易度が高く、知的好奇心を刺激する挑戦が待っています。  
+・全体最適の追求: 特定のプロダクトの都合（局所最適）に流されることなく、常に組織全体にとっての最適解は何かを考え、複雑な課題を解決していく経験を積むことができます。
+
+* 大きな裁量と自律性
+
+・戦略立案からの関与: どのような技術的課題に、どのような優先順位で取り組むべきか、その戦略立案の段階から主体的に関わることができます。  
+・ボトムアップの文化: 「このツールを全社導入すれば開発体験が劇的に向上する」「このアーキテクチャパターンを標準化したい」といった組織全体の技術力を向上させるための改善提案を歓迎します。
+
+・企画・開発・運用・QAとの定常的な連携と活動方針のアップデート
+
+***身に付くスキル***
+
+* プラットフォーム戦略の策定・推進能力:
+
+組織全体の技術的課題を俯瞰し、どこに投資すれば最もレバレッジが効くかを見極め、技術基盤の構築や開発プロセス改善に関する中長期的なロードマップを描き、それを実行に移す戦略的思考力が養われます。
+
+* 大規模システムに対応するアーキテクチャ設計能力:
+
+単一のアプリだけでなく、複数のプロダクトやチームが利用することを前提とした、スケーラビリティ、保守性、柔軟性を兼ね備えた共通ライブラリやフレームワークを設計する高度な能力が身につきます 。
+
+* 高度な組織横断での交渉・合意形成能力:
+
+各プロダクトチームの個別の要求や、時には対立する意見を調整し、組織全体として最適な技術的着地点を見出すための高度なコミュニケーション能力と交渉力。多様なステークホルダーを巻き込み、一つの目標に向かわせる合意形成能力が磨かれます 。
+
+* 技術による組織課題解決能力:
+
+「開発速度が遅い」「品質が安定しない」といったビジネス上の課題の根本原因を技術的な観点から分析し、ツールの導入、プロセスの改善、文化の醸成といった多角的なアプローチで解決に導く、本質的な問題解決能力が身につきます。
+
+***雰囲気特徴***
+
+* 課題解決の主導権:
+
+単なる「作業者」ではありません。解決すべき課題の発見から、その解決策の立案、実行まで、全てのプロセスにおいてオーナーシップを発揮することが期待されます。技術的洞察が、組織の次のスタンダードを創ります。
+
+* 自由と責任:
+
+高い自由度には、それ相応の責任が伴うことを我々は理解しています 。大きな裁量を持ちますが、同時にその意思決定と結果に対して、プロフェッショナルとしての責任を担います。
+
+* 失敗を共有し、称え合う文化:
+
+挑戦した結果の失敗は、チーム全体の貴重な資産であり、非難されるべきものではないという価値観が浸透しています 。
+
+* 論理に基づいた意思決定:
+
+アーキテクチャの変更など、影響の大きな技術的意思決定は、ADR（Architecture Decision Record）といったドキュメントベースの非同期な議論を通じて行われます。これにより、誰かの声の大きさではなく、論理とデータに基づいた最適な結論を導き出すプロセスを担保しています 。
+
+***組織体制***
+
+PF開発部Mobileチーム  
+・EM 1名  
+・モバイルエンジニア2名
+
+各開発チーム  
+・モバイルエンジニア7名（正社員: 4名, 業務委託: 3名）
+
+  
+
+**職種 / 募集ポジション**
+
+Mobile Software Engineer（プラットフォーム開発部）
+
+  
+
+**雇用形態**
+
+正社員
+
+  
+
+**契約期間**
+
+試用期間：3ヶ月（この間の給与・待遇等に変わりはありません）
+
+  
+
+**給与**
+
+年収
+
+540万円 〜 960万円
+
+【諸手当、制度等】
+管理手当
+出張手当
+確定拠出年金制度（社員ランクに応じて一部会社負担）
+昇給年2回
+交通費支給（上限50,000円/月）
+
+  
+
+**勤務地**
+
+1050001 東京都港区虎ノ門2-2-1住友不動産虎ノ門タワー27階
+
+銀座線 「虎ノ門駅」 3出口 徒歩4分
+銀座線 南北線 「溜池山王駅」 9出口 徒歩5分
+丸ノ内線 千代田線 「国会議事堂前駅」 3出口 徒歩7分
+
+  
+
+**勤務時間**
+
+基本勤務時間：9:00～18:00
+【勤務時間に関する制度】
+時差出社（7:30~10:00の間で始業可）※要上長承認
+育児中の時短勤務
+（参考）産育休ガイドブックについて
+https://spiderplus.co.jp/news/news-topics/8422/
+
+  
+
+**休日**
+
+完全週休2日制（土・日・祝日）
+入社時特別休暇（3日間/取得理由制限なし/時間単位で取得可能）
+年次有給休暇（時間単位での取得も可）
+生理休暇
+結婚休暇
+出産・育児休暇
+弔事休暇
+看護・介護休暇
+年末年始休暇
+夏期休暇
+
+  
+
+**福利厚生**
+
+社員持株会制度
+定期健康診断
+カンリー福利厚生
+インフルエンザ予防接種
+コーヒーマシン、ウォーターサーバー等 ※各営業所による
+
+  
+
+**加入保険**
+
+社会保険完備（雇用、労災、健康、厚生年金）
+関東ITソフトウェア健康保険組合
+
+  
+
+**受動喫煙対策**
+
+屋内全面禁煙
+
+  
+
+**参考URL**
+
+【参考URL】
+[エンジニア向け会社説明資料]
+https://speakerdeck.com/spiderplus\\_cb/supaidapurasuzhu-shi-hui-she-enziniaxiang-kehui-she-shao-jie-zi-liao
+[エンジニアの評価制度について]
+https://jobs.spiderplus.co.jp/spider-class/883
+[エンジニア採用 issueについて]
+https://jobs.spiderplus.co.jp/spider-class/99
+[開発G・インタビュー]
+https://jobs.spiderplus.co.jp/interview/category/development
+[対談・LT大会レポート等]
+https://jobs.spiderplus.co.jp/spider-class/category/recruitment
+[SPIDERPLUS Tech Blog]
+https://techblog.spiderplus.co.jp/","","","","","","","","","","","","","",""
+"gd-1010006738289","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010006738289","","C++ Software engineer (Satellite Operation Systems)","株式会社アクセルスペース","","2026-01-22","","","","","","",False,"","","organic","","**Job Description**
+===================
+
+***About the Role***
+
+Axelspace では人工衛星の運用を、社内で開発したソフトウェアシステムによって行っています。 衛星運用のためには、衛星動作のスケジューリング、コマンド送受信、受信したデータの解析等が必要になります。 これらを、自動で行うシステムを開発、運用、改良し、サービスとして提供しています。  
+弊社のビジョンである Space within your reach を運用の面から実現するため、 衛星運用を完全に自動化・自律化し、衛星の利用者が実現したいことを適切に 簡単に実現できることを目標としています。 ""Operate to automate"", ""Automate all"" をモットーとして、衛星システムの開発を進めています。
+
+Axelspace operates its satellites using an in‑house developed software system. To run these satellites, tasks such as scheduling satellite operations, sending and receiving commands, and analyzing received data are required. You will help develop, operate, and improve the automated systems that perform these tasks, and provide them as a service. Our vision, “Space within your reach,” drives us to fully automate and autonomize satellite operations so that satellite users can easily and effectively achieve their goals. With the mottos “Operate to automate” and “Automate all,” we continue to advance our satellite systems.
+
+***Job Description***
+
+衛星システム自動化グループの一員として、主に以下の業務を、 グループの他のメンバーと協力して実施します。ソフトウェアエンジアリングに関する知識、能力があれば、人工衛星や宇宙に関する事前の知識は不要です。 業務を進めるなかで習得することができます。  
+
+* 軌道制御、複数衛星を活用した撮影、その最適化など、衛星コンステレーションの運用
+* サービスを提供するのに必要な技術およびソフトウェアシステムの、 調査、設計、研究、開発、運用をチームで協力して行う
+* 開発したシステムをチームで協力して実際に運用し、 衛星を利用したサービスをユーザーに提供
+
+As a member of the Satellite System Automation Group, you will collaborate with other team members to:  
+
+* Operate the satellite constellation—tasks include orbital control, coordinated multi‑satellite imaging, and optimization of these operations.
+* Research, design, develop, and operate the software systems and technologies necessary to deliver satellite services.
+* Deploy and run the software you develop, providing users with reliable Earth‑observation and other satellite‑based services.
+
+***Required Skills***
+
+* 数理的、アルゴリズム的な問題を自ら発見、定義し、プログラミングで解決できること
+* C++を利用し、ソフトウェアシステムを開発、運用、改良できること
+* Unix/Linux システム上でソフトウェアを開発、運用、改良できること
+* Git を利用したソフトウェア開発経験
+* ドキュメント・メール・チャットなど、英語による技術的なテキストコミュニケーションが可能なこと（翻訳ツールを使用しても構いません）
+* 英会話によるコミュニケーションに抵抗が無いこと
+* Strong ability to identify, define, and solve mathematical or algorithmic challenges through programming
+* Proficiency in developing, operating, and refining software systems using C++
+* Experience building and maintaining software on Unix/Linux environments
+* Familiarity with Git for version control in software development
+* Capability to communicate technical information in English, in writing (documents, email, chat) and comfortably by voice
+* Willingness to engage in English‐language technical discussions (translation tools are acceptable)
+* Openness to learning Japanese communication skills as needed
+
+*チームからのメッセージ*
+
+Axelspace の衛星運用チームは、2025年7月現在 5機の衛星からなるコンステレーションを運用しています。  
+2018 年末に最初の1機 GRUS-1A を打ち上げ運用を開始し、運用システムの改善を重ねて 2021年3月に4機 GRUS-1BCDE の同時打ち上げに対する初期運用を完了し、定常運用を行っています。  
+最初の１機の時点では、ほぼ存在しない状態であった運用システムを、ソフトウェア開発チーム自身が運用も行うスタイルを採用することで、開発、拡張してきました。  
+現在ではCI/CD環境の整備を行い日常的に運用ソフトウェアのデプロイを行っており、GRUS-1BCDE の打ち上げに際しても、ごく簡単なものですが、first pass から 2nd pass までの間に運用システムを改変してデプロイしています。これは、運用システムおよび衛星を含むシステム全体のアーキテクチャが、改変に対して頑強となるよう設計されていること、また、日常的に小さな更新を行うことで、更新そのもの、および、更新の検証、問題があった場合の検出、ロールバック等が安定して実現できる環境が構築されています。  
+これらは、現代的なソフトウェア開発では一定程度広く行われていることだと思いますが、アクセルスペースの衛星運用チームでは、こういった手法をより進化させていき、みなさんと一緒に、スケールする衛星サービスを作って行きたいと思います。
+
+As of July 2025, Axelspace’s satellite operations team manages a constellation of five satellites. We began operations at the end of 2018 with the launch of GRUS‑1A. Through continuous improvement of our operational software, we supported the simultaneous launch and initial operation of GRUS‑1BCDE in March 2021, and have since conducted routine operations for all five satellites.
+
+Initially, our operations system was almost nonexistent, so we adopted a DevOps approach—our development team also runs the system. Today, we maintain a CI/CD environment that enables routine deployments of operational software. For example, after discovering a minor bug during the first communications pass of GRUS‑1BCDE, we deployed a fix in time for the second pass. Our end‑to‑end architecture is designed for resilience to changes, and by releasing small, frequent updates, we simplify validation, troubleshooting, and rollback. We aim to further refine these practices and, together with you, build a scalable, fully automated satellite service.
+
+  
+
+**職種 / 募集ポジション**
+
+C++ Software engineer (Satellite Operation Systems)
+
+  
+
+**雇用形態**
+
+正社員
+
+  
+
+**契約期間**
+
+Full-time, permanent position
+
+  
+
+**給与**
+
+応相談
+
+報酬：TBD、経験及び能力に応じて面談の上、採用時に決定
+Salary: TBD, decided upon the candidate's experience and skill set
+
+  
+
+**勤務地**
+
+103-0023 東京都中央区日本橋本町三丁目3番3号 Clipニホンバシビル  
+地図で確認
+
+Clip Nihonbashi Building, 3‌-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo
+
+  
+
+**勤務時間**
+
+勤務時間 ：裁量労働制
+Work Hour: Discretionary Labor Sytem
+
+  
+
+**休日**
+
+休日：週休２日制、祝祭日
+休暇：年次有給休暇、慶弔休暇等、5年後ボーナス休暇
+Holiday: Two-day off per week, National holidays
+Paid Leaves: Annual paid leaves, Congratulatory/Bereavement leaves, 5th-year Bonus leaves
+
+  
+
+**福利厚生**
+
+通勤手当支給：実費精算
+在宅勤務制度：有
+英会話学習補助
+Commuting Allowance: Actual-cost reimbursement
+Remote Work: Available
+Language Support: Japanese class for foreign employees
+
+  
+
+**加入保険**
+
+健康保険
+厚生年金
+雇用保険
+労災保険
+Health Insurance
+National Welfare Pension
+Employment Insurance
+Worker's Compensation
+
+  
+
+**受動喫煙対策**
+
+敷地内禁煙
+No smoking on site
+
+  
+
+**試用期間**
+
+有（3ヶ月）","","","","","","","","","","","","","",""
+"gd-1010006738292","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010006738292","","ソフトウェアエンジニア(データベース) Software Engineer (Database)","株式会社アクセルスペース","","2026-01-22","","","","","","",False,"","","organic","","**Job Description (English follows Japanese)**
+==============================================
+
+**日本語**
+=======
+
+***業務概要***
+
+私たちは、衛星コンステレーションの地上システム及びそれを支えるデータベース基盤を管理・改善できる、スキルと主体性を兼ね備えたソフトウェアエンジニア（データベース）を募集しています。このポジションには、データベースの管理運用、クエリ言語、ORMフレームワーク、移行、CI/CDに関する確かな知識が求められます。
+
+このチームの一員として、衛星との通信、衛星運用スケジューリング、関連アプリケーションなどを含む地上システムの開発を支援します。任される自律性や責任の範囲は、あなたの経験と実績に応じて拡大していきます。
+
+ソフトウェアエンジニア（データベース）として、ミッションクリティカルなデータベースの管理、自動監視、テスト、パフォーマンスチューニング、社内向け教育を実施していただきます。地上システムエンジニアリングチームやクラウドチームと密に連携し、ベストプラクティスの導入や運用の効率化を推進します。実践的かつクロスファンクショナルな役割であり、大きな裁量とアーキテクチャ上の影響力を持つポジションです。
+
+***職務内容***
+
+**データベース運用**  
+複数の衛星コンステレーション（既存および開発中）を支えるデータベースの管理・監視・最適化を行う。  
+**自動化とモニタリング**  
+運用の自動化、パフォーマンスの監視、インフラの課題や弱点の早期発見を目的としたツールやダッシュボードを開発する。  
+**テストと検証**  
+データベースの信頼性・性能・整合性を確保するため、エンジニアリングチームと連携してテスト戦略を設計・実装する。  
+**システムアーキテクチャ**  
+データフロー、スキーマ構造、他コンポーネントとの連携設計など、システム全体におけるデータベース周辺のアーキテクチャ設計に貢献する。  
+**環境管理**  
+クラウドインフラチームと連携し、堅牢な開発・本番環境の維持や、データ整合性の確保を行う。  
+**社内支援（Internal Enablement）**  
+エンジニアが持続的かつ効率的にデータベースを活用できるよう、ドキュメント、ガイドライン、ツールを提供する。
+
+***必要なスキル・経験***
+
+* リレーショナル、時系列、NoSQLデータベースに関するスキル（例：PostgreSQL、MySQL、TimescaleDB、MongoDB、DynamoDB）
+* SQLの高度な知識と、スキーマ設計やクエリ最適化の経験
+* 以下のいずれかの経験：CI/CDパイプライン、ユニットテスト、可観測性ツール（例：Grafana、Datadog、Prometheus）
+* スクリプト作成や自動化のために、少なくとも1つのプログラミング言語（例：Python、Go）に習熟していること
+* 良好なコミュニケーション能力と、協調的かつ主体的な問題解決姿勢
+
+***歓迎スキル・経験***
+
+* ソフトウェア開発や技術的な話題について日本語でコミュニケーションできる能力
+* 開発環境および本番環境の両方における、クラウドベース（AWS）の運用経験
+* ORMフレームワーク（例：SQLAlchemy、Diesel、Entity）およびデータモデリングツールの使用経験
+* データベースの信頼性、予測可能性、自動化に関する経験
+* データベースのパフォーマンス監視およびクエリ最適化の経験
+* データベースの可観測性やテストのためのツール構築経験
+
+**English**
+===========
+
+***About the Role***
+
+We are looking for a Software Engineer (Database) who can manage and continuously improve the Ground Systems that support our satellite constellations, as well as the database infrastructure behind them. This role requires solid knowledge of database operations and administration, query languages, ORM frameworks, database migrations, and CI/CD.
+
+As a member of this team, you will support the development of the ground system for satellites, including communication with satellites, scheduling of satellite operations, and related applications. The level of autonomy and responsibility you are given will grow in line with your experience and track record.
+
+As an Software Engineer (Database), you will be responsible for managing mission-critical databases, implementing automated monitoring and testing, tuning performance, and providing internal training. You will work closely with the ground system engineering team and the cloud team to drive the adoption of best practices and improve operational efficiency. This is a hands-on, cross-functional role that offers significant ownership and architectural influence.
+
+***Job Responsibilities***
+
+**Database Operations**  
+Administer, monitor, and optimize databases that support multiple satellite constellations, both existing and in development.
+
+**Automation and Monitoring**  
+Develop tools and dashboards to automate operations, monitor performance, and proactively detect issues and weaknesses in the infrastructure.
+
+**Testing and Validation**  
+Work with the engineering team to design and implement testing strategies that ensure the reliability, performance, and consistency of the databases.
+
+**System Architecture**  
+Contribute to the overall system architecture around the databases, including data flows, schema design, and integration with other components.
+
+**Environment Management**  
+Collaborate with the cloud infrastructure team to maintain robust development and production environments and ensure data integrity.
+
+**Internal Enablement**  
+Provide documentation, guidelines, and tooling so that engineers can use the databases sustainably and efficiently.
+
+***Mandatory Requirements***
+
+* Proficiency with relational, time-series, and NoSQL databases (e.g., PostgreSQL, MySQL, TimescaleDB, MongoDB, DynamoDB).
+* Strong command of SQL, with experience in schema design and query optimization.
+* Experience with at least one of the following: CI/CD pipelines, unit testing, or observability tools (e.g., Grafana, Datadog, Prometheus).
+* Proficiency in at least one programming language (e.g., Python, Go) for scripting and automation.
+* Strong communication skills and a collaborative, proactive approach to problem-solving.
+
+***Favorable Skill set / Experiences***
+
+* Japanese language proficiency sufficient to discuss software development and technical topics.
+* Hands-on experience operating cloud-based (AWS) environments in both development and production.
+* Experience with ORM frameworks (e.g., SQLAlchemy, Diesel, Entity) and data modeling tools.
+* Experience in database reliability, predictability, and automation.
+* Experience with database performance monitoring and query optimization.
+* Experience building tools for database observability and testing.
+
+  
+
+**職種 / 募集ポジション**
+
+ソフトウェアエンジニア（データベース）Software Engineer (Database)
+
+  
+
+**雇用形態**
+
+正社員
+
+  
+
+**契約期間**
+
+Full-time, permanent position
+
+  
+
+**給与**
+
+応相談
+
+報酬：TBD、経験及び能力に応じて面談の上、採用時に決定
+Salary: TBD, decided upon the candidate's experience and skill set
+
+  
+
+**勤務地**
+
+103-0023 東京都中央区日本橋本町三丁目3番3号 Clipニホンバシビル  
+地図で確認
+
+Clip Nihonbashi Building, 3‌-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo
+
+  
+
+**勤務時間**
+
+勤務時間 ：裁量労働制
+Work Hour: Discretionary Labor Sytem
+
+  
+
+**休日**
+
+休日：週休２日制、祝祭日
+休暇：年次有給休暇、慶弔休暇等、5年後ボーナス休暇
+Holiday: Two-day off per week, National holidays
+Paid Leaves: Annual paid leaves, Congratulatory/Bereavement leaves, 5th-year Bonus leaves
+
+  
+
+**福利厚生**
+
+通勤手当支給：実費精算
+在宅勤務制度：有
+英会話学習補助
+Commuting Allowance: Actual-cost reimbursement
+Remote Work: Available
+Language Support: Japanese class for foreign employees
+
+  
+
+**加入保険**
+
+健康保険
+厚生年金
+雇用保険
+労災保険
+Health Insurance
+National Welfare Pension
+Employment Insurance
+Worker's Compensation
+
+  
+
+**受動喫煙対策**
+
+敷地内禁煙
+No smoking on site
+
+  
+
+**試用期間**
+
+有（3ヶ月）","","","","","","","","","","","","","",""
+"gd-1010006530702","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010006530702","","Advisory Solution Consultant - FSI","ServiceNow","","2026-01-22","","","","","","",False,"","","organic","globaltalentss@servicenow.com","**Company Description**
+
+It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
+
+ **Job Description**
+
+As a member of our Solution Consulting team, you will have a major impact on our future success by supporting [Employee Experience, Customer Workflow, ITX] Solution Sales. You will guide revenue for one of our products with the support and partnership of Sales, Product Management, and the executive team. This is a hands-on technical consultant who can go wide and deep on solution delivery and solution positioning during sales cycles.
+
+**What you get to do in this role:**
+
+The Solution Consultant is a technical consultant with the advanced ability to develop, position and provide product-specific solutions during sales cycles while achieving quarterly and annual sales goals for an assigned territory.
+
+* Support product sales as a technical and domain expert of a client-facing sales team
+* Lead discovery workshops to determine customers' challenges and give product demonstrations to align our solution with customer needs
+* Answer product feature and technical questions from customers, channel partners and ServiceNow colleagues
+* Provide feedback to product management about product enhancements that can address customer needs and provide additional value
+* Share and learn best practices and re-usable assets with other Solution Consultants to enhance the quality and efficiency of the team
+* Stay current on competitive analysis and market differentiation
+* Support marketing events including executive briefings, conferences, user groups, and trade shows
+
+  
+**Qualifications**
+
+**To be successful in this role you have:**
+
+* Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.
+* 7+ years of pre-sales solution consulting or sales engineering experience
+* Proficiency with the ServiceNow platform or technical expertise with cloud software solutions
+* Experience working collaboratively with product management, product marketing, partners, and professional services
+* Territory management skills, including pipeline building and working with Sales counterpart to guide execution excellence
+* Travel, as necessary
+
+FD21
+
+ **Additional Information**
+
+**Work Personas**
+
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+
+**Equal Opportunity Employer**
+
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+
+**Accommodations**
+
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+
+**Export Control Regulations**
+
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
+
+From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license.","","","","","","","","","","","","","",""
+"gd-1010006738238","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010006738238","","AI&DX推進エンジニア","株式会社アクセルスペース","","2026-01-22","","","","","","",False,"","","organic","","**Job Description (English follows Japanese)**
+==============================================
+
+**Japanese**
+------------
+
+***業務概要***
+
+DevOps & AI ソリューションユニットでは、生成AIや各種業務ツールの設計・開発・運用を行い社内外のDX (IT の利用による業務の変革)を推進するエンジニアを募集しています。このポジションは、生成AIの導入・活用戦略の策定から、具体的なアプリケーション開発、社内業務プロセスの革新まで、幅広い領域でリーダーシップを発揮し、ビジネス価値の創出に貢献していただきます。
+
+***職務内容***
+
+* 社内DXの推進
+  + 会社全体の生産性を高めるDX施策を推進
+  + 社内業務プロセスの分析、課題特定、業務効率化のための自動化の提案と実装
+* 生成AIの推進
+  + 生成AI戦略の策定と推進
+  + 生成AIアプリケーションの開発と導入
+  + 最新の生成AI技術トレンドの調査、分析、および社内への啓蒙活動
+  + 生成AIサービスの運用、管理
+* 開発インフラの運用、改善
+  + GitHubや開発関連サービスの設定、運用
+  + 社内ドキュメントの更新、管理
+
+***必要なスキル・経験***
+
+* 要件定義およびシステム設計の経験。
+  + 日本企業において、業務プロセスをシステム化に必要なレベルで理解し、主たる設計者としてシステム化を実施した経験。システムの規模は問わない。
+* IT プロジェクトの基礎的な管理能力。要件定義後に、必要な工程の定義および簡単な開発計画の立案ができること。
+* Linux を利用したシステム構築・運用の経験。Linux が動作する環境を構築し、ネットワーク設定を実施し、ミドルウェアおよびアプリケーションソフトウェアを導入・設定・運用した経験を持つこと。
+* Web アプリケーション開発の経験を持つこと。妥当なミドルウェア、ライブラリ、RDBMS 等を利用し、業務上の要件に基く Web アプリケーションの開発が可能なこと。アプリケーション自体の規模や複雑性は問わない。
+* 開発・構築したシステムについて、運用計画・ポリシーを設計でき、また、マニュアル等必要な文書を作成できること。
+* Python script および Shell script を作成できること。
+* Git が利用できること。
+* 英語で書かれた技術文書を理解できること。
+* 英語での、会話を含む双方向コミュニケーションに対して積極的に取り組めること。
+
+***歓迎スキル・経験***
+
+* OSS開発経験
+* 技術記事の執筆
+* 生成AIを組み込んだアプリケーションの開発（RAGやLangChain, LlamaIndex等のフレームワーク利用経験）
+* コード生成AIを使用した開発経験（Copilot, Cline/Roo, Cursor等）
+* AWS, GCP, Azure 等のクラウド基盤の設計・管理・運用・利用の知識・経験
+* 情報セキュリティに関わる知識・経験。システム設計・制度設計・調査・設定等。
+* チケット (Issue) ベースのタスク管理の経験。GitHub, Jira等。
+* 社内・社外に対するユーザーサポートの経験。
+* ビジネスレベルの英語能力
+
+**English**
+-----------
+
+*About the Role*
+
+The DevOps & AI Solutions Unit is seeking an engineer to drive internal and external DX (Digital Transformation through the use of IT) by designing, developing, and operating Generative AI and various business tools. This position will contribute to the creation of business value by demonstrating leadership in a wide range of areas, from formulating strategies for the introduction and utilization of Generative AI to developing specific applications and innovating internal business processes.
+
+*What would you do?*
+
+* **Driving Internal DX**
+  + Promote DX initiatives to enhance overall company productivity.
+  + Analyze internal business processes, identify issues, and propose and implement automation for operational efficiency.
+* **Promoting Generative AI**
+  + Formulate and promote Generative AI strategies.
+  + Develop and implement Generative AI applications.
+  + Research and analyze the latest Generative AI technology trends and conduct internal awareness-raising activities.
+  + Operate and manage Generative AI services.
+* **Operating and Improving Development Infrastructure**
+  + Configuration and operation of GitHub and development-related services.
+  + Update and manage internal documentation.
+
+*What requirements should you meet?*
+
+* **Mandatory**
+  + Experience in requirements definition and system design.
+  + Experience in a Japanese company understanding business processes to the level necessary for systemization and having implemented systemization as a lead designer. The scale of the system does not matter.
+  + Basic IT project management skills. Ability to define necessary processes and create a simple development plan after requirements definition.
+  + Experience in building and operating systems using Linux. Experience building Linux environments, configuring networks, and installing, configuring, and operating middleware and application software.
+  + Experience in web application development. Ability to develop web applications based on business requirements using appropriate middleware, libraries, RDBMS, etc. The scale and complexity of the application itself do not matter.
+  + Ability to design operational plans and policies for developed and built systems, and to create necessary documents such as manuals.
+  + Ability to create Python scripts and Shell scripts.
+  + Ability to use Git.
+  + Ability to understand technical documents written in English.
+  + Proactive approach to two-way communication in English, including conversation.
+* **Favorable**
+  + Experience in OSS (Open Source Software) development.
+  + Experience writing technical articles.
+  + Experience developing applications incorporating Generative AI (experience with frameworks such as RAG, LangChain, LlamaIndex, etc.).
+  + Development experience using code generation AI tools (e.g., GitHub Copilot, Cursor, etc.).
+  + Knowledge and experience in designing, managing, operating, and using cloud platforms such as AWS, GCP, Azure, etc.
+  + Knowledge and experience related to information security, including system design, policy design, investigation, configuration, etc.
+  + Experience with ticket (issue)-based task management (e.g., GitHub, Jira, etc.).
+  + Experience in providing user support for internal and external users.
+  + Business-level English proficiency.
+
+  
+
+**職種 / 募集ポジション**
+
+AI&DX推進エンジニア
+
+  
+
+**雇用形態**
+
+正社員
+
+  
+
+**契約期間**
+
+Full-time, permanent position
+
+  
+
+**給与**
+
+応相談
+
+報酬：TBD、経験及び能力に応じて面談の上、採用時に決定
+Salary: TBD, decided upon the candidate's experience and skill set
+
+  
+
+**勤務地**
+
+103-0023 東京都中央区日本橋本町三丁目3番3号 Clipニホンバシビル  
+地図で確認
+
+Clip Nihonbashi Building, 3‌-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo
+
+  
+
+**勤務時間**
+
+勤務時間 ：裁量労働制
+Work Hour: Discretionary Labor Sytem
+
+  
+
+**休日**
+
+休日：週休２日制、祝祭日
+休暇：年次有給休暇、慶弔休暇等、5年後ボーナス休暇
+Holiday: Two-day off per week, National holidays
+Paid Leaves: Annual paid leaves, Congratulatory/Bereavement leaves, 5th-year Bonus leaves
+
+  
+
+**福利厚生**
+
+通勤手当支給：実費精算
+在宅勤務制度：有
+英会話学習補助
+Commuting Allowance: Actual-cost reimbursement
+Remote Work: Available
+Language Support: Japanese class for foreign employees
+
+  
+
+**加入保険**
+
+健康保険
+厚生年金
+雇用保険
+労災保険
+Health Insurance
+National Welfare Pension
+Employment Insurance
+Worker's Compensation
+
+  
+
+**受動喫煙対策**
+
+敷地内禁煙
+No smoking on site
+
+  
+
+**試用期間**
+
+有（3ヶ月）","","","","","","","","","","","","","",""
+"gd-1010006892906","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010006892906","","Senior Systems Engineer","HITACHI ENERGY JAPAN, LTD.","","2026-01-22","","","","","","",False,"","","organic","","**Description**
+
+**The opportunity**
+
+Hitachi Energy's Grid Automation business unit has a comprehensive portfolio of solutions. These range from substation automation, communication networks, grid automation services, grid edge solutions to enterprise software solutions. These solutions address all key segments connected to the energy system including generation, transmission distribution, industries, transportation and infrastructure sectors.  
+  
+Hitachi Energy's Grid Automation business unit supports 50% of the top 250 global electric utilities. Our Grid Automation hardware, software and services portfolio unites deep domain knowledge and innovative technologies that enable customers across the globe to optimize the critical systems that power, move and connect us. Together, we’re building a more productive and sustainable world.
+
+**Key Responsibilities**
+========================
+
+* Lead technical discussions and solution architecture for SCADA/EMS systems, ensuring alignment with JIEMS-specific requirements.
+* Coordinate closely with Product Development and Technical Leads to guarantee on-schedule delivery of software releases and achievement of system integration milestones.
+* Support Factory and Site Acceptance Testing, and actively contribute to system commissioning and training initiatives.
+* Develop comprehensive technical instructions, procedures, and project engineering documents to clearly communicate all technical information and requirements to both internal and external stakeholders. Serve as the primary point of contact for client technical inquiries within assigned domains or as otherwise designated. The Solution Consultant is tasked with maintaining strong coordination between the End-User, Customer, and HE design teams.
+* Solution Consultants are allocated project implementation responsibilities in their fields of expertise and are expected to operate from the customer project office (SIBU). These duties ensure effective communication and facilitate seamless project execution.
+
+**Qualifications**
+==================
+
+* Bachelor’s degree in Electrical Engineering, Computer Science, or Power Systems Engineering.
+* Minimum 5 years of experience in SCADA/EMS system implementation and maintenance.
+* Experience with EMS modeling tools (SCADA, Network, Generation) and display building tools is a plus.
+
+**Language & Cultural Requirements**
+====================================
+
+* Fluent in spoken and written English.
+* Above basic level in spoken and written Japanese.
+
+**Preferred Attributes**
+========================
+
+* Strong interpersonal skills to build relationships with internal experts and external stakeholders.
+* Proactive problem-solving mindset and ability to work independently in a dynamic project environment.
+
+**More about us**
+
+Working Conditions and benefits:  
+Working hours: 900-1730 (1hr break). Flex time is applicable.  
+Hybrid working style applicable.
+
+Benefits:
+
+* Employment insurance, industrial injury insurance, health insurance, pension insurance
+* Paid leave
+* Bereavement leave
+* Wedding leave
+* Maternity leave
+* Spousal maternity leave
+* Parental leave
+* Nursing care leave
+
+Are you ready for an exciting new challenge? Does the above description sound like you? Welcome to apply! Our selection process is continuous, and the position may be closed before the advertisement expires. So, if you are interested – don’t delay, apply today! All other questions can be directed to Talent Acquisition Partner: Ken-Isarin Furutani, LinkedIn - https://www.linkedin.com/in/isarin-furutani-2036b8b5/.
+
+**Qualified individuals with a disability may request a reasonable accommodation if you are unable or limited in your ability to use or access the Hitachi Energy career site as a result of your disability. You may request reasonable accommodations by completing a** **general inquiry form** **on our website. Please include your contact information and specific details about your required accommodation to support you during the job application process.**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**This is solely for job seekers with disabilities requiring accessibility assistance or an accommodation in the job application process. Messages left for other purposes will not receive a response.**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------","","","","","","","","","","","","","",""
+"gd-1010006738237","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010006738237","","衛星システムズエンジニア| Satellite development systems engineer","株式会社アクセルスペース","","2026-01-22","","","","","","",False,"","","organic","","**業務内容**
+========
+
+このポジションは、人工衛星開発におけるシステムズエンジニアとして、衛星システムおよびそのサブシステムを開発する複数のドメインにまたがるエンジニアリングチームと協調し、一つの統合されたシステムとして作り上げることができる意欲的なエンジニアリングプロフェッショナルを対象としています。 システムズエンジニアは、プロジェクトマネージャーと密接に連携し、プロジェクトのライフサイクルを通じて、システムレベルの要求分析、アーキテクチャ設計、運用コンセプト、技術的なバジェット管理、検証、妥当性確認などのシステムエンジニアリング業務全般を担当します。また、これらの業務に関する手法やプロセスの確立、改善に寄与することも重要な仕事の一部となります。
+
+### **職務内容**
+
+* 人工衛星開発のライフサイクル（企画、設計、試験、打ち上げ、運用）にシステムズエンジニアリングの観点から携わり、ミッションの達成に貢献する。
+* 顧客のユースケースとシステムの制約を整理し、各エンジニアリングドメインと連携しながら要求を定義し、維持する。
+* システムレベルの検証計画を立案し、また実施をリードする。
+* システム設計におけるトレードオフ分析を実施し可視化する。
+* ミッション要求と制約をもとに、人工衛星の運用コンセプトを立案、定義する。
+* 電力、質量、通信リンク、Delta-Vなどのシステムレベルのバジェットを管理する。
+* 人工衛星の不具合をシステムの観点から分析し対策を行う。
+* 設計レビュー、検証計画などのエンジニアリングドキュメントの作成と社内外のステークホルダーへの報告。
+* プロジェクトマネージャと連携し、システムズエンジニアリングの観点から設計や検証に関する意思決定を行う。
+
+### **応募条件**
+
+* 必須条件
+
+* 工学、理学あるいはそれに準じる修士課程修了以上の学位取得者
+* 個々の技術分野よりも製品（衛星が主だが、その他必要なシステム）を定義し検証する業務に興味があり、十分な分析と文書化の能力があること。
+* 各分野のエンジニアやその他関係者に分かるように情報を整理し、文書化することの重要性を理解し、責任をもって取り組めること。
+* システムズエンジニアリングに関する基礎的な知識があること。 ただし、必要となれば日本語資料であっても翻訳ツール等を使って対応する意思があること。
+* 多国籍・多文化なチームと平易な英語を用いてコミュニケーションしながら業務を遂行できる能力
+* 下記(a), (b), (c)のいずれかに該当すること。
+
+(a) 未経験の課題に対しても、関連文献を見つけ出し理解し、物理や数学の知識を駆使して、対応する能力とそういった経験。
+
+(b) 自ら各種分析や自動化をおこなえるためのプログラミング経験。例えば、機械システムの物理的挙動の簡易モデルを作成してシミュレーションすることや、計測データの後処理や可視化、シェルスクリプトによるに自動化おいて経験があること。
+
+(c) 電気、ソフト、機械の要素を含む機器やロボットの全体を設計・製作した経験（業務か趣味か問わないが、趣味の方が好印象）。
+
+* 歓迎条件
+
+* システムズエンジニアまたはプロジェクトマネージャーとして、10名から50名程度のエンジニアリングチームによる製品開発に携わった経験
+* 電力システム、機械、通信、姿勢制御など、宇宙機開発に必要な工学分野もしくは光学製品開発のいずれかに精通していること。
+* 航空宇宙分野またはマルチドメインシステム（ロボット、自動車、産業機械、FA機器等）開発における要求分析・定義、上流設計、検証計画作成と実施に携わった経験がある方
+* STKなどの軌道シミュレーションソフトの使用経験
+* SysML v2やモデルベースシステムエンジニアリング（MBSE）ツールの使用経験
+* ビジネスレベルの日本語力
+
+**About the Role**
+==================
+
+We are seeking a highly motivated engineering professional to be a Systems Engineer in satellite development. It involves collaboration with engineering teams across multiple domains to develop satellite systems and their subsystems into a single integrated system. This position is intended for working closely with the Project Manager, the Systems Engineer is responsible for all systems engineering tasks throughout the project life cycle, including system-level requirements analysis, architecture design, concept of operations, technical budget management, verification, and validation. Another important part of the work is to contribute to the establishment and improvement of methodologies and processes related to these operations.
+
+**Job Description**
+===================
+
+* Engage in systems engineering perspectives throughout the lifecycle of satellite development (planning, design, testing, launch, and operation) and contribute to the mission's success.
+* Organize customer use cases and system constraints, define and maintain requirements in collaboration with various engineering domains.
+* Conduct and visualize trade-off analyses in system design.
+* Manage system-level budgets, including power, mass, communication links, and Delta-V
+* Create engineering documentation such as design reviews and verification plans, and report to internal and external stakeholders.
+* Collaborate with the Project Manager to make design and verification decisions from a systems engineering perspective.
+* Analyze malfunctions of satellites from a system perspective and take corrective measures.
+* Formulate and define the concept of operations for satellites based on mission requirements and constraints.
+* Develop and lead the implementation of system-level verification plans.
+
+**Requirements**
+----------------
+
+* Mandatory
+
+* Degree holders with a Master's or higher in engineering, science, or a related field.
+* Interested in defining and verifying products (mainly satellites, but also other necessary systems) rather than in individual technical fields, and having sufficient analytical and documentation skills.
+* Knowing the importance of and taking responsibility in organizing and documenting information in a way that can be understood by engineers and other related parties in each field.
+* Must have basic knowledge of systems engineering.
+* Proficient in English, capable of seamless communication within multinational and multicultural teams.Willingness to handle Japanese documents using translation tools if necessary.
+* Falls under any of (a), (b), or (c) below.
+
+(a) The ability and experience to solve the problems with which you have no experience, by finding and understanding related literature, and using knowledge of physics and mathematics.
+
+(b) Programming experience to be able to perform various analyzes and automation on their own. For example, experience in creating and simulating simple models of the physical behavior of mechanical systems, in post-processing and visualization of measurement data, and in shell scripting for automation.
+
+(c) Experience in designing and manufacturing entire devices and robots including electrical, software, and mechanical elements (regardless of whether this is a business or a hobby, but hobbies give a better impression).
+
+* Favorable
+
+* Experience leading product development with an engineering team of approximately 10 to 50 members as a Systems Engineer or Project Manager.
+* Proficiency in engineering disciplines required for spacecraft development, such as power systems, mechanics, communications, attitude control, or optical product development.
+* Experience in requirements analysis and definition, upstream design, and creation and implementation of verification plans in aerospace or multi-domain systems development (robots, automobiles, industrial machinery, FA equipment, etc.).
+* Business level proficiency in Japanese
+* Experience with orbital simulation software such as STK.
+* Experience using SysML v2 or Model-Based Systems Engineering (MBSE) tools.
+
+  
+
+**職種 / 募集ポジション**
+
+衛星システムズエンジニア| Satellite development systems engineer
+
+  
+
+**雇用形態**
+
+正社員
+
+  
+
+**契約期間**
+
+Full-time, permanent position
+
+  
+
+**給与**
+
+応相談
+
+報酬：TBD、経験及び能力に応じて面談の上、採用時に決定
+Salary: TBD, decided upon the candidate's experience and skill set
+
+  
+
+**勤務地**
+
+103-0023 東京都中央区日本橋本町三丁目3番3号 Clipニホンバシビル  
+地図で確認
+
+Clip Nihonbashi Building, 3‌-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo
+
+  
+
+**勤務時間**
+
+勤務時間 ：裁量労働制
+Work Hour: Discretionary Labor Sytem
+
+  
+
+**休日**
+
+休日：週休２日制、祝祭日
+休暇：年次有給休暇、慶弔休暇等、5年後ボーナス休暇
+Holiday: Two-day off per week, National holidays
+Paid Leaves: Annual paid leaves, Congratulatory/Bereavement leaves, 5th-year Bonus leaves
+
+  
+
+**福利厚生**
+
+通勤手当支給：実費精算
+在宅勤務制度：有
+英会話学習補助
+Commuting Allowance: Actual-cost reimbursement
+Remote Work: Available
+Language Support: Japanese class for foreign employees
+
+  
+
+**加入保険**
+
+健康保険
+厚生年金
+雇用保険
+労災保険
+Health Insurance
+National Welfare Pension
+Employment Insurance
+Worker's Compensation
+
+  
+
+**受動喫煙対策**
+
+敷地内禁煙
+No smoking on site
+
+  
+
+**試用期間**
+
+有（3ヶ月）","","","","","","","","","","","","","",""
+"gd-1010006712125","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010006712125","","Senior Specialist, DevOps, Application Maintenance (FG-AP-51)","ビー・エム・ダブリュー・ジャパン・ファイナンス株式会社","","2026-01-22","","","","","","",False,"","","organic","","We are seeking a highly skilled Application Maintenance Specialist to join our DevOps team, responsible for managing and maintaining the operational stability of our financial applications. This role requires close collaboration with our offshore development team in India to ensure smooth deployment, continuous monitoring, and proactive maintenance of critical financial systems. The ideal candidate will have a solid foundation in application support, DevOps practices, and financial domain knowledge to drive system reliability and performance.
+  
+  
+- Manage day-to-day application operations for financial systems, ensuring high availability, optimal performance, and adherence to security standards.
+  
+  
+- Collaborate effectively with the offshore development team in India to provide technical support and resolve application issues throughout the software lifecycle.
+  
+  
+- Assist in the implementation and maintenance of CI/CD pipelines, supporting automation of deployments and environment consistency.
+  
+  
+- Monitor application health using modern monitoring and alerting tools; diagnose and troubleshoot incidents to ensure minimal downtime.
+  
+  
+- Maintain comprehensive documentation of system configurations, operational procedures, and incident resolutions.
+  
+  
+- Work closely with cross-functional teams, including development, and business stakeholders to understand requirements and support application enhancements.
+  
+  
+- Conduct regular system audits, performance tuning, and preventive maintenance to optimize application stability and responsiveness.
+  
+  
+- Stay current with evolving DevOps methodologies, financial industry regulations, and technology trends to recommend improvements.
+
+  
+
+登録資格  
+Job qualification
+
+- Bachelor’s degree in computer science, Information Technology, or a related field.
+  
+  
+- Proven experience in application maintenance, support, or DevOps roles, ideally within financial services or related industries.
+  
+  
+- Strong understanding of financial systems, including relevant regulatory and compliance requirements.
+  
+  
+- Practical experience with cloud platforms such as AWS or Azure and container orchestration tools like Docker and Kubernetes.
+  
+  
+- Proficiency in scripting languages (Python, Bash, or similar) and automation/configuration management tools (Ansible, Terraform, etc.).
+  
+  
+- Familiarity with monitoring, logging, and incident management tools (e.g., Splunk, Grafana, ELK Stack).
+  
+  
+- Excellent analytical and problem-solving skills, with the ability to manage and resolve urgent issues under pressure.
+  
+  
+- Strong communication skills and proven experience collaborating with offshore teams in a virtual environment.
+  
+  
+- Relevant industry certifications are a plus (e.g., AWS Certified DevOps Engineer, Azure DevOps Solutions Expert, ITIL).
+  
+  
+- Ability to document clearly and maintain operational knowledge bases and runbooks.
+
+  
+
+勤務地  
+Location
+
+Tokyo HQ (Shiodome)
+  
+東京本社（汐留）","","","","","","","","","","","","","",""
+"gd-1010004211690","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1010004211690","","Civil/Structural Engineer","Wood Thilsted","","2026-01-21","","","","","","",False,"","","organic","","**Civil/Structural Engineer – Offshore Wind (Tokyo)**
+
+**土木・構造エンジニア／洋上風力****（東京）**
+
+**About the company/****会社について**
+
+Wood Thilsted is an international engineering consultancy company based in the and Denmark focused on all aspects of foundation design and project development within the offshore wind energy industry. We currently employ over 160 staff and operate globally with projects located in Europe, the UK, the USA, Japan, Taiwan, South Korea and Australia. A recent study by Aegir insights states that Wood Thilsted are the leader in the offshore wind Monopile design market with over 7.9MW of projects designed between 2020 and 2025.
+
+Wood Thilsted は、英国/デンマークに本社を置く国際的なエンジニアリングコンサルタントであり、洋上風力発電における基礎設計およびプロジェクト開発のあらゆる分野を専門としています。現在、世界各地（欧州、英国、米国、日本、台湾、韓国、オーストラリア）で事業を展開しており、190名以上の社員が在籍しています。Aegir Insightsの最近の調査によれば、Wood Thilsted は2020～2025年で合計7.9GW超のモノパイル設計を手掛け、同分野のリーディングカンパニーとして評価されています。
+
+Wood Thilsted have a presence in Japan since 2019 where we carried out the detailed design of the Akita & Noshiro secondary steel structures. Since then, we have grown our local team and have provided Geotechnical and Structural engineering services on over ten Japanese sites for a range of local and international clients. In Japan, we are committed to building a strong local design team and we have a robust pipeline of projects. We are currently working on pre-auction foundation designs, post-auction owners engineering support and a detailed foundation design project.
+
+日本では2019年より事業を開始し、秋田港・能代港洋上風力発電所の二次鋼構造物詳細設計を担当しました。その後、ローカルチームを拡大し、国内外の多数のクライアント向けに10件以上の日本国内案件において、地盤・構造関連のエンジニアリングサービスを提供してきました。日本においては強固なローカル設計チームの構築に注力しており、現在も複数の有望なプロジェクトが進行中です。プレオークション段階の基礎設計、落札後のオーナーズエンジニアリング支援、詳細基礎設計案件など、多岐にわたる業務を実施しています。
+
+As a company, we strive for technical excellence and to provide the best overall value to our clients’ projects. We pride ourselves on our combined achievements, delivered through collaboration and diverse team expertise, to create the optimal and most suitable site-specific design. We have a strong company culture based on mutual trust, honesty, knowledge sharing, and a friendly environment.
+
+当社は技術的卓越性を追求し、クライアントのプロジェクトに最大の価値を提供することを使命としています。メンバーの専門性と協働を重視し、サイト条件に最適化された設計を提供することで、多くの成果を上げてきました。また、「相互信頼」「誠実さ」「知識共有」「フレンドリーな職場環境」を基盤とした企業文化を大切にしています。
+
+To deliver our Japanese and APAC region projects we are expanding our office in Tokyo and are looking for an Engineer to join our Primary Structures division, starting from early 2026.
+
+このたび、日本およびAPAC地域でのプロジェクト推進に向け、東京オフィスの体制強化を進めています。2026年第1四半期 よりPrimary Structures部門にて業務に従事いただけるエンジニアを募集しています。
+
+**Areas of responsibility/****業務内容**
+
+* Collaborate and contribute as an integral part of our team in Japan as well as our engineering teams world-wide to deliver world-class renewable energy projects.
+
+* 日本チームおよび世界各国のエンジニアリングチームと連携し、世界水準の再生可能エネルギープロジェクトの遂行に貢献していただきます。
+
+* Develop your competences in offshore structural steel design of fixed offshore wind turbine foundations (both monopile and jackets) through supporting our Tokyo based Senior Engineers. Depending on your relevant technical area of expertise you will perform seismic, geotechnical, or structural analysis and assessments.
+
+* 東京拠点のシニアエンジニアの指導のもと、洋上風力発電の固定式基礎（モノパイルおよびジャケット）の鋼構造設計に関する専門性を高めていただきます。ご自身の技術分野（地震、地盤、構造など）に応じて、各種解析・評価業務を担当していただきます。
+
+* Use your knowledge to prepare detailed engineering reports and technical notes documenting engineering analyses and recommendations and contribute to the development of the overall project programme, budget and risk registers.
+
+* 解析結果や推奨事項を取りまとめ、詳細なエンジニアリングレポートや技術メモを作成するとともに、プロジェクト全体の工程管理、予算管理、リスクレジスター作成に貢献していただきます。
+
+* Use your programming skills and/or finite element capabilities to take part in, or be responsible for, the development of our in-house engineering software applied for structural design.
+
+* プログラミングスキルや有限要素解析の知識を活かし、構造設計に用いる自社開発のエンジニアリングソフトウェアの開発・高度化に携わっていただきます。
+
+* Collaborate with colleagues to prepare summary design documents in English and Japanese and support presentations and interface with the local certification bodies.
+
+* 同僚と協力して、英語および日本語による設計サマリードキュメントの作成や、プレゼン資料の準備、認証機関との技術的なやり取りをサポートしていただきます。
+
+  
+
+**Your background****/****応募****資格****:**
+
+It is expected that you satisfy the following technical requirements:
+
+以下の技術要件を満たしていることが求められます：
+
+  
+
+* Master's degree or similar in civil, structural, or mechanical engineering and relevant experience as a professional Engineer in these disciplines.
+* 土木工学、構造工学、または機械工学分野における修士号または同等の学位を有し、これらの分野においてプロフェッショナルエンジニアとしての実務経験を有すること。
+
+* Backgroud in structural/geotechnical design or metocean analysis for offshore structures preferred. Knowledge of soil-structure-interaction or seismic design concepts also of interest.
+* 構造系、地盤系、又は洋上風力系を対象した気象海象解析のバックグラウンドが望ましい（地盤―構造相互作用や耐震設計の経験があれば尚可）
+
+* Experience in the Japanese offshore wind industry. Alternatively, experience in onshore wind, large infrastructure, or buildings projects in Japan is also of interest.
+* 日本の洋上風力発電事業における業務経験を有すること。もしくは、日本国内における陸上風力、大規模インフラ、または建築プロジェクトの経験を有する方も歓迎。
+
+* Familiarity with one or more programming languages, e.g. MATLAB, Python etc.
+* MATLAB、Python など、1 つ以上のプログラミング言語に精通していること。
+
+* Knowledge of Japanese design regulations and requirements for buildings or infrastructure.
+* 日本の建築物またはインフラに関する設計基準・法規・要求事項に関する知識を有すること。
+
+* Business level (JLPT N2 or equivalent) in both written and spoken Japanese.
+* 日本語について、読み書き・会話ともにビジネスレベル（JLPT N2 相当以上）であること。
+
+* Ability to comfortably conduct a business conversation in English.
+* 英語によるビジネス会話を支障なく行えること。
+
+  
+
+Furthermore, it is an advantage if you have experience with:
+
+さらに、以下の経験を有していれば尚可：
+
+  
+
+* Any of the following standards: API, Eurocode, DNV, JSCE Guidelines for Wind Power Plants, METI/MLIT Unified Commentary on Technical Standards for Offshore Wind
+* API、Eurocode、DNV、土木学会「風力発電設備設計指針」、経済産業省／国土交通省「洋上風力発電設備に関する 技術基準の統一的解説 」など、いずれかの設計基準・規格
+
+* Creating reports using LaTeX
+* LaTeX を用いた報告書作成
+
+  
+
+**What we offer****/****当社が提供するもの:**
+
+In return, we offer exceptional opportunities to shape your daily work, acquire new skills, and engage in intriguing projects.
+
+その対価として、日々の業務を主体的にデザインし、新たなスキルを身につけ、魅力的なプロジェクトに挑戦できる機会を提供します。
+
+* Full-time permanent role based in our Tokyo office located in Toranomon.
+* 東京・虎ノ門オフィスを拠点とする正社員（無期雇用）ポジション。
+* Structured onboarding process and mentorship from our Tokyo based technical design team with opportunities to gain experience on both local and international projects to support your career growth and development.
+* 東京拠点の技術設計チームによる体系的なオンボーディングおよびメンタリング制度を用意。国内外プロジェクトの両方に携わる機会があり、キャリアの成長・発展を支援します。
+* Collaborative performance-based culture that supports well-being and management of workload.
+* 協調性を重視した成果主義の企業文化のもと、ウェルビーイングおよび適切な業務量管理を重視しています。
+* Potential for extended training trips to our European or other Asian offices.
+* 欧州またはアジアの他拠点への中長期研修出張の機会あり。
+* Negotiable competitive salary packages, commuting allowance and performance bonuses.
+* 競争力のある給与水準（応相談）、通勤手当、成果に応じた賞与制度あり。
+* Modern international working environment with flexible working hours and location (remote working). Working hours are typically 09:00 to 18:00 including 1hour break. Typically, overtime is limited and will be compensated according to Japanese labour law.
+* 柔軟な勤務時間および勤務地（リモートワーク可）を備えた、モダンで国際的な就業環境。勤務時間は原則 9:00～18:00（休憩1時間）で、残業は通常限定的です。残業が発生した場合は、日本の労働基準に基づき適切に支給されます。
+* Holidays include Japanese national holidays and additional annual leave above typical offering in Japan.
+* 休日は日本の祝日に加え、日本の一般的な水準を上回る年次有給休暇を付与。
+* Employees' Health Insurance, Employees' Pension Insurance, Employment insurance, Workers' Compensation Insurance included.
+* 各種社会保険完備：健康保険、厚生年金保険、雇用保険、労災保険。
+
+  
+
+At Wood Thilsted, we are deeply committed to our people and a brighter future. Our core values and behaviours underpin everything we do. Our work environment fosters individuality and personal excellence, with a focus on results and innovation at a high professional level.
+
+Wood Thilsted では、人材を最も重要な財産と考え、より良い未来の実現に真摯に取り組んでいます。当社のコアバリューおよび行動指針は、すべての業務の基盤となっています。個々の主体性と専門性を尊重しつつ、成果とイノベーションを重視した、高いプロフェッショナル意識を持って業務に取り組める職場環境を整えています。","","","","","","","","","","","","","",""
+"in-ee16dca41e1e50c1","indeed","https://jp.indeed.com/viewjob?jk=ee16dca41e1e50c1","https://herp.careers/v1/spideraf/biN6jfnnxfSj","SENIOR SOFTWARE ENGINEER - Tokyo (JP) / Lisbon (PT) Offices","株式会社Spider Labs","南青山, JPC, JP","2026-01-27","","","","","","",False,"","","","","**SENIOR SOFTWARE ENGINEER - Tokyo (JP) / Lisbon (PT) Offices**
+===============================================================
+
+**仕事概要**
+--------
+
+Job Description As a Senior Software Engineer, you are a high-impact individual contributor responsible for solving meaningful customer problems through secure, scalable software. You take end-to-end ownership of complex initiatives — from understanding the problem and its customer impact, through design and implementation, to validation in production and real-world adoption. We hold a high bar for engineering excellence — including code quality, system design, security, reliability, and operational maturity — and consider this a baseline expectation for the role. Meeting this bar is necessary, but not sufficient. Senior engineers are evaluated on the outcomes their work creates for customers and the business, not just on technical sophistication. This is not a role focused on writing code in isolation. Engineering exists to deliver customer value. Technical decisions must balance system health with delivery speed, usability, and impact. Senior engineers are expected to exercise judgment, reason about trade-offs, and prioritize results over technical purity. You will work hands-on across the full development lifecycle, contribute to architectural discussions, and collaborate closely with product, security, and go-to-market teams. In many situations, senior engineers are expected to act as feature-level owners: clarifying ambiguous requirements, modeling solutions from the customer’s perspective, validating assumptions, and ensuring solutions work in real-world conditions. Key Responsibilities - Customer & Product Impact Own features end-to-end, from problem understanding and solution design through release, validation, adoption, and measurable impact. Translate ambiguous customer and business needs into pragmatic, high-quality technical solutions. Make prioritization decisions by explicitly weighing customer value, risk, opportunity cost, and time-to-impact. Ensure features are usable and valuable in real-world scenarios by contributing to documentation, examples, demos, and validation with real customer data. Monitor outcomes after release and iterate based on feedback, metrics, and operational signals. - Technical Execution & System Quality Design, implement, and maintain secure, scalable, and reliable systems as a foundation for customer and business impact. Solve complex technical problems hands-on, improving architecture, performance, observability, and long-term maintainability. Make sound technical decisions that balance correctness, simplicity, and future evolution while avoiding unnecessary complexity. Apply strong engineering fundamentals, including secure coding, testing, and performance optimization in production environments. Use modern development tools and practices to improve delivery speed and quality. - Collaboration, Ownership & Engineering Leadership Raise the engineering bar through code reviews, design discussions, and collaborative problem-solving. Communicate technical concepts, trade-offs, and risks clearly to both technical and non-technical stakeholders. Take ownership of outcomes, not just tasks — proactively identifying risks, gaps, and improvement opportunities. Contribute to continuous improvement of engineering practices, workflows, and tooling with a focus on enabling impact. Model pragmatic, customer-driven engineering behavior in day-to-day work. We value engineers who believe in continuous improvement and are willing to step outside their comfort zone to improve both delivery speed and quality. Successful candidates are confident in their technical skills, pragmatic in their decision-making, and care deeply about reliability, security, and code quality — while being equally motivated by seeing their work adopted by customers and making a measurable impact. This is a low-drama, high-trust environment where ownership, clarity, and impact matter more than technical heroics. How We Define “Done” For us, success goes beyond shipping code. “Done” is a progression: released validated adopted impactful Senior engineers are expected to own features through all of these stages — from implementation and release, through real-world validation, to customer adoption and measurable impact. This includes contributing to documentation, examples, demos, instrumentation, and follow-up improvements based on customer feedback and observed usage. Engineers who consider their work complete at release time will likely find this role frustrating.
+
+**必須スキル**
+---------
+
+- Several years(5-7 years) of hands-on experience building and operating production systems. - Strong software engineering fundamentals and experience applying modern development practices. - Proven experience owning features or systems beyond initial delivery, including validation, iteration, and real-world usage. - Experience with cloud platforms such as AWS or GCP and modern DevOps practices. - Experience with modern Web Development and JavaScript frameworks (e.g. Vue.js). - Strong understanding of secure coding, scalability, and performance optimization. - Sound engineering judgment and the ability to reason about trade-offs in complex technical and product contexts. - Strong communication skills and professional proficiency in English※ ※ For candidates based in Japan, business-level Japanese proficiency (JLPT N3 or higher) is required.
+
+**歓迎スキル**
+---------
+
+- Experience with Elixir, Erlang, Ruby on Rails, Python/Django, or Scala/Play Framework. - Experience in ad-tech or fraud prevention domains. - Familiarity with big-data technologies such as BigQuery or ClickHouse. - Experience using AI-powered development tools (e.g. code assistants, automated testing, or debugging tools) to improve productivity, code quality, or problem-solving is a plus. - Japanese language proficiency is a plus.
+
+**応募概要**
+--------
+
+**給与**
+
+Annual salary: 5 million-
+
+  
+
+**勤務地**
+
+107-0062 Tokyo, Minato City, Minamiaoyama, 7 Chome103 Minami Aoyama St Building 4th Floor
+
+  
+
+**雇用形態**
+
+Full-time
+
+  
+
+**勤務体系**
+
+-Flexible Working Hours System (Flextime) (Core time: 10:00 AM – 5:00 PM) - Fully two days off per week (Saturday, Sunday, and National Holidays) - Vacation Leave (3 consecutive days in addition to standard annual paid leave) - Year-end and New Year Holidays - Annual Paid Leave - Condolence and Celebration Leave - Childcare Leave - Initial Enrollment Leave (2 days of leave to cover sudden illness, etc., available until statutory paid leave is granted after 6 months) - Vaccination Leave
+
+  
+
+**試用期間**
+
+3 months
+
+  
+
+**福利厚生**
+
+- Stock Options - Annual Salary Increase (Once per year) - Mobile Communication Allowance (¥4,200/month) - Influenza Vaccination - Flextime System (Core hours: 10:00 AM – 5:00 PM) - Reimbursement for Job-Related Certification Exams - Babysitter Subsidy (50% coverage, up to ¥20,000/month) - Premium Friday (Team dinner) - Gold's Gym Membership Subsidy (Employee pays only ¥550 per visit)
+
+**企業情報**
+--------
+
+**企業名**
+
+株式会社Spider Labs
+
+  
+
+**設立年月**
+
+2011年4月
+
+  
+
+**本社所在地**
+
+〒107ｰ0062 東京都港区南青山710３南青山STビル4階
+
+  
+
+**支社所在地**
+
+Av. Duque de Loulé 22 - 7º  
+1050-090 Lisboa, Portugal  
+  
+136 Madison Avenue  
+5th & 6th Floors  
+New York 10016, USA
+
+**事業内容**
+
+AIを活用したデジタル広告不正（アドフラウド）対策に特化したサイバーセキュリティ事業
+
+**資本金**
+
+9000万円
+
+  
+
+**従業員数**
+
+80
+
+  
+
+**企業サイトURL**
+
+https://jp.spideraf.com/about-us","","https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEspider-Labs","","","1070062 港区南青山7-10-3南青山STビル4F","","","","","","","","",""
+"in-a987c13e238267ba","indeed","https://jp.indeed.com/viewjob?jk=a987c13e238267ba","http://jp.indeed.com/job/senior-software-engineerrust-210587-a987c13e238267ba","Senior Software Engineer/Rust /210587","株式会社UPSTART","西新橋, JPC, JP","2026-01-27","","","","","","",True,"","","","","**仕事内容:**
+
+LabTech（＝IT×研究）の開発をお任せします！  
+⋆「LabTech」とは？  
+LabBaseがビジネスを展開する領域を、「Lab（研究）」と「Technology（技術）」を掛け合わせ、「LabTech」と呼んでいます。
+
+⋆業務内容  
+「研究の力を、人類の力に。」これがLabBaseのミッションです。  
+研究領域が抱える複雑な課題に向き合い、LabBaseが提供するサービスで、あらゆる開発を推進していただきます。  
+エンジニアは特定の技術に限らず、課題に対してを最適な技術を駆使し取り組んでいただきます。
+
+⋆具体的な職務  
+具体的には、  
+・単一のサービスとプラットフォームの視点からのシステム構築  
+・事業ドメインをコードへ落とし込み  
+・仮説からプロダクトを素早く作り出し、価値検証をエンジニアの立場から推進  
+・事業の状況を踏まえ、妥当な設計を提案でき、拡張性も考慮し技術的視点から意思決定  
+・技術的負債を主体的に改善する提案と推進  
+を行っていただきます。
+
+⋆開発フロー  
+・LabBase全社の戦略をもとに、各サービスごとにチームで開発しています。  
+・各課題に対して、データ分析・施策の検討をチームで行います。  
+・チーム毎に2週間のサイクルのスクラムを実施しています。  
+・原則としてテストコードを書き、マージされるすべてのコードはレビューされています。
+
+⋆開発情報  
+サーバーサイド：  
+・言語: Rust   
+・フレームワーク: axum  
+・DB : MySQL/Amazon DynamoDB
+
+フロントエンド：  
+・言語: TypeScript  
+・フレームワーク: React  
+・ビルドシステム: Vite  
+・デザイン：figma
+
+インフラ：  
+・クラウド: AWS  
+・コンテナ: k8s / Docker  
+・監視 : Datadog, Grafana
+
+環境：  
+・リポジトリ管理 : Github  
+・ドキュメント：Confluence, Google Docs  
+・コミュニケーション : Slack / Gather  
+・タスク管理：Jira  
+・開発手法：スクラム
+
+**アピールポイント:**
+
+1.研究領域に特化したプラットフォーム開発に関わることができる。  
+→1つのプラットフォームにさまざまなサービスが存在するため、さまざまな種類のサービス開発を経験することができます。検索エンジンや研究領域で重要なセキュリティ部分など、難易度の高いチャレンジが可能であり、1からそのような難しい開発に挑戦できるという機会が得られるのが面白みの一つです。
+
+2.Rust言語を利用しており、新しい技術も積極的に取り入れる環境がある
+
+3.エンジニアの希望によって横断的に動くことが可能な環境が組織の特徴としてあるため、皆さんの「ご希望」に沿ったポジション(職務内容)を提案/ご相談が可能
+
+4.「開発の速度を上げるためには技術的負債を解消する必要がある」という考えを持ちあわせ、技術的負債の解消に早期に取り組んでいること
+
+5.新しい技術や開発への「Challenge」を推奨しているため、年次/年齢関係なく自己研鑽をするメンバーが揃っている。
+
+**求める人材:**
+
+【必須スキル・経験】  
+・セキュリティーを意識しサービス全体のアーキテクチャに沿ったコードを一貫して設計された経験  
+・複数のエンジニアを率いステークホルダーとコミュニケーションを行いチームをリードした経験  
+・N2を目安として、日本語にてコミュニケーションが可能なこと
+
+**勤務時間・曜日:**
+
+〈勤務時間〉  
+10:00~19:00  
+夜間勤務：なし  
+月間平均残業時間：30時間以下
+
+**休暇・休日:**
+
+〈休日休暇〉  
+休日：土日祝休み  
+年間休日：120日  
+休暇制度：年末年始休暇、夏季休暇、有給休暇、特別休暇、産休・育休、慶弔休暇、介護休暇  
+補足情報：⁜完全週休2日制（土日）・祝日  
+⁜夏季・年末年始休暇  
+⁜有給休暇（年次有給休暇（9月～翌年2月入社：最初の3月、3月～8月入社：最初の9月に10日間付与）  
+⁜特別休暇（婚姻休暇、産前産後休暇、育児休暇、介護休暇、看護休暇、慶弔休暇、入社時特別休暇：3日間付与有給発生時に消滅）
+
+**勤務地:**
+
+〈勤務地〉  
+〒105-0003  
+東京都港区西新橋一丁目1番1号　WeWork日比谷フォートタワー１０F  
+※現在は出社／在宅のハイブリッド勤務ですが、こちらのポジションは「フルリモート可能」です
+
+【アクセス】  
+都営三田線 内幸町駅（A6出口）直結徒歩3分  
+東京メトロ 千代田線・日比谷線 霞が関駅（C4出口） 直結徒歩3分  
+東京メトロ 銀座線 虎ノ門駅（10番出口）徒歩6分  
+JR 各線 新橋駅（日比谷出口） 徒歩7分  
+自社内勤務  
+転勤の可能性：なし
+
+**給与:**
+
+<給与>  
+想定年収：750万円～900万円  
+月給：  
+賞与回数：  
+昨年度賞与実績：  
+インセンティブ：なし  
+〈年収例〉  
+750万円/月625,000+リモート手当5000円  
+〈補足情報〉  
+試用期間3ヶ月：期間中の待遇などに変わりはありません  
+年収備考：年収には⽉45時間分の固定残業代 ⽉131,359円（年収600万円の場合）〜を含む  
+※超過した時間外労働の残業手当は追加支給いたします
+
+**待遇・福利厚生:**
+
+〈福利厚生・諸手当〉  
+社会保険完備、健康診断、交通費支給  
+補足情報：⁜各種社会保険（健康保険、厚生年金、雇用保険、労災保険）  
+⁜出社交通費（上限3000円/回）　※出張費用別途支給、必要時都度申請  
+⁜リモート手当て  
+⁜健康診断  
+⁜業務用Macbook支給  
+⁜リファラルランチ / ディナー費用  
+⁜部活動費用  
+⁜ベビーシッター利用補助制度  
+⁜出社時はWeWorkのドリンク、ラウンジ利用可能
+
+**その他:**
+
+紹介番号：有料職業紹介事業:13-ユー311036
+
+＜選考に関して＞  
+カジュアル面談の有無 :状況に応じてある  
+会社説明会の有無 :なし  
+適性テストの有無 :なし  
+＜選考フロー＞  
+▼書類選考  
+▼1次面接  
+▼2次、最終面接  
+＜補足情報＞  
+面接は原則２～３回（原則オンライン実施のみで完結）
+
+代表加茂との面談、現場メンバーとの面談、全社集会への参加、オフィスツアーなど  
+候補者様に合わせて体験ベースで弊社の魅力を感じていただけるコンテンツをご用意しております。
+
+※面談時の服装について  
+服装の指定はございません。リラックスできる格好でご参加くださいませ。  
+面接担当者もカジュアルな装いで参加いたします。
+
+雇用形態: 正社員
+
+給与・報酬: 7,500,000円 - 9,000,000円 年俸
+
+平均所定労働時間（1か月当たり）: 160時間","","https://jp.indeed.comNone","","","1500001 東京都渋谷区神宮前６丁目２３番４号桑野ビル２階","","","","","","","","",""
+"in-7f534b4cc8ff2d89","indeed","https://jp.indeed.com/viewjob?jk=7f534b4cc8ff2d89","https://herp.careers/v1/monoxer/Q3rmFt7qONac","Software Engineer / Machine Learning Engineer","モノグサ株式会社","飯田橋, JPC, JP","2026-01-27","","","","","","",True,"","","","","**仕事概要**
+--------
+
+私たちは、「記憶を日常に」というミッションを果たすために、記憶のプラットフォーム「Monoxer(モノグサ)」を開発・運営しています。 AIを活用し、誰もが「記憶」を負荷なく自然に行える活動に変化させていくこと。それにより、人の生き方にさまざまな奥行きと選択肢をつくることが、私たちの目指す世界です。 当社は創業以来記憶活動のデータの蓄積を続けており、当社の最も重要な資産の一つです。モノグサの機械学習エンジニアにはデータ活用の最前線に立ち、これらのデータから記憶活動の本質を解明してMonoxerのプロダクトに接続することを期待します。 業務内容 \\* 新規案件の立ち上げ、関係者ヒアリング、要件定義、エンジニアリング、およびレポーティング \\* 対象となるプロセス等に関するデータの観察および分析 \\* 統計的手法の応用による解決に適し、かつステークホルダーの要件を満たすを満足させるタスク定義 \\* 実データまたはシミュレーションに基づく、統計モデルの動作やアプリケーション挙動に関する評価方法の確立・実装、およびそれを用いた技術検証 \\* 統計モデルの動作についてのステークホルダーに対する説明、および説明可能性を高める（可視化等の）技術手法の開発・実装・検証 \\* 開発した統計モデルを運用するソフトウェアの開発 \\* プレインテキストに代表される非構造化データから記憶事項を抽出するアルゴリズムの開発 \\* 自然言語処理技術による教材開発プロセスの自動化 \\* 記憶状況を推定するモデルの開発・改善 \\* 契約組織の離脱予測とそれに基づく離脱抑止施策の実施 使用言語/ツール/開発環境 ・サーバサイド: Scala(Play), C++ ・フロントエンド: Typescript, React, Redux ・Android: Kotlin, C++ ・iOS: Swift, C++ ・インフラ：Google Cloud ・データべース：MySQL ・コード管理: GitHub ・コミュニケーション：Slack ・BIツール：Looker Studio ・データウェアハウス: BigQuery
+
+**必須スキル**
+---------
+
+\\* モデルを構築してから実運用に投入するするまでの一連の機械学習プロジェクトを実施した経験 \\* 統計学・機械学習に関する知識 \\* 継続して動作するシステムの実装および運用の経験 \\* 異なる専門性を持つ人たちに適切に説明する能力 \\* 日本語非母語話者においては JLPT 試験で N1 レベル相当の日本語力
+
+**歓迎スキル**
+---------
+
+\\* 自然言語処理の経験 \\* MLOpsに関する経験 \\* データエンジニアリングに関する経験
+
+**求める人物像**
+----------
+
+\\* 知的好奇心がある \\* 様々な人と議論するのが好き \\* 組織の自由さを正しく活用できる人
+
+**応募概要**
+--------
+
+**給与**
+
+660万～1,300万程度（※実際の経験とスキルにより、相談可能）
+
+  
+
+**勤務地**
+
+東京本社（飯田橋オフィス）
+
+  
+
+**雇用形態**
+
+正社員
+
+  
+
+**勤務体系**
+
+・勤務時間 10:00～19:00(実働8時間)を基本にした裁量労働制 ・完全週休二日制・祝祭日、年末年始休暇 ・当社規定による年次有給休暇制度 ※入社時10日間の有給休暇付与 ・リモートワーク可能
+
+  
+
+**福利厚生**
+
+・ストックオプション制度あり ・交通費支給 ・書籍購入補助制度 ・フリードリンク ・各種保険完備（雇用保険、労災保険、厚生年金保険、健康保険） ・社外研修参加時の費用補助あり
+
+**企業情報**
+--------
+
+**企業名**
+
+モノグサ株式会社
+
+  
+
+**設立年月**
+
+2016年8月
+
+  
+
+**本社所在地**
+
+東京都千代田区飯田橋3-8-5 住友不動産飯田橋駅前ビル 7階
+
+  
+
+**資本金**
+
+1,286,794,652円（資本準備金含む）
+
+  
+
+**従業員数**
+
+約170名","","https://jp.indeed.com/cmp/%E3%83%A2%E3%83%8E%E3%82%B0%E3%82%B5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE","","","","","","","","","","","",""
 "in-9587f653dd1a1fc5","indeed","https://jp.indeed.com/viewjob?jk=9587f653dd1a1fc5","https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Tokyo-KJP51658-Roppongi-Hills/Agentic-AI---Software-Engineer_R-52690-1","Agentic AI - Software Engineer","Kyndryl","六本木駅, JPC, JP","2026-01-27","","","","","","",False,"","","","","**Who We Are**
 
 At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world’s leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edge. For our people—Kyndryls—that means doing purposeful work that powers human progress. Join us and experience a flexible, supportive environment where your well-being is prioritized and your potential can thrive.
@@ -449,7 +3002,7 @@ As a DevOps + SRE Engineer, you will:
 * Professional development opportunities, including certifications and training.
 * Flexible work environment with a focus on work-life balance.
 * The chance to build systems from scratch and make a significant impact on the company's success.","Consulting And Business Services","https://jp.indeed.com/cmp/Alto","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/efe6cc2db88d2ea033a9f1b6f4d5eb20","https://altomexico.com.mx/","Nashville","11 to 50","","","","","","","",""
-"in-7f4b5d4c9143b2b3","indeed","https://jp.indeed.com/viewjob?jk=7f4b5d4c9143b2b3","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200643256-6482_JP_rxr-660&rx_url=https%3A%2F%2Fjobs.apple.com%2Fja-jp%2Fdetails%2F200643256-6482%2Fdistributed-build-systems-engineer-software-assembly-packaging%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D9ef3e89d-f8fb-11f0-a654-db994c231c6d%26rx_job%3D200643256-6482_JP_rxr-660%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260126T163811Z%26rx_vp%3Dcpc%26team%3DSFTWR","Distributed Build Systems Engineer - Software Assembly & Packaging","Apple","JPC, JP","2026-01-24","","","","","","",True,"","","","","The SWE Developer Productivity organization builds technologies and tools to help  
+"in-7f4b5d4c9143b2b3","indeed","https://jp.indeed.com/viewjob?jk=7f4b5d4c9143b2b3","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200643256-6482_JP_rxr-660&rx_url=https%3A%2F%2Fjobs.apple.com%2Fja-jp%2Fdetails%2F200643256-6482%2Fdistributed-build-systems-engineer-software-assembly-packaging%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D9ef3e89d-f8fb-11f0-a654-db994c231c6d%26rx_job%3D200643256-6482_JP_rxr-660%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260127T043809Z%26rx_vp%3Dcpc%26team%3DSFTWR","Distributed Build Systems Engineer - Software Assembly & Packaging","Apple","JPC, JP","2026-01-24","","","","","","",True,"","","","","The SWE Developer Productivity organization builds technologies and tools to help  
 software engineers at Apple to do the best work of their lives. The Image Assembly  
 team supports that mission by providing engineers capabilities to aggregate and  
 package their software in novel ways, supporting both the development lifecycle of their  
@@ -1961,504 +4514,6 @@ Initially, our operations system was almost nonexistent, so we adopted a DevOps 
 **職種 / 募集ポジション**
 
 衛星運用システム ソフトウェアエンジニア｜Satellite Operation Systems Software Engineer
-
-  
-
-**雇用形態**
-
-正社員
-
-  
-
-**契約期間**
-
-Full-time, permanent position
-
-  
-
-**給与**
-
-応相談
-
-報酬：TBD、経験及び能力に応じて面談の上、採用時に決定
-Salary: TBD, decided upon the candidate's experience and skill set
-
-  
-
-**勤務地**
-
-103-0023 東京都中央区日本橋本町三丁目3番3号 Clipニホンバシビル  
-地図で確認
-
-Clip Nihonbashi Building, 3‌-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo
-
-  
-
-**勤務時間**
-
-勤務時間 ：裁量労働制
-Work Hour: Discretionary Labor Sytem
-
-  
-
-**休日**
-
-休日：週休２日制、祝祭日
-休暇：年次有給休暇、慶弔休暇等、5年後ボーナス休暇
-Holiday: Two-day off per week, National holidays
-Paid Leaves: Annual paid leaves, Congratulatory/Bereavement leaves, 5th-year Bonus leaves
-
-  
-
-**福利厚生**
-
-通勤手当支給：実費精算
-在宅勤務制度：有
-英会話学習補助
-Commuting Allowance: Actual-cost reimbursement
-Remote Work: Available
-Language Support: Japanese class for foreign employees
-
-  
-
-**加入保険**
-
-健康保険
-厚生年金
-雇用保険
-労災保険
-Health Insurance
-National Welfare Pension
-Employment Insurance
-Worker's Compensation
-
-  
-
-**受動喫煙対策**
-
-敷地内禁煙
-No smoking on site
-
-  
-
-**試用期間**
-
-有（3ヶ月）","","https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9","","","","","","","","","","","",""
-"in-43783db39a918bca","indeed","https://jp.indeed.com/viewjob?jk=43783db39a918bca","https://hrmos.co/pages/axelspace/jobs/3000000007","AI&DX推進エンジニア","株式会社アクセルスペース","日本橋本町, JPC, JP","2026-01-22","","","","","","",True,"","","","","**Job Description (English follows Japanese)**
-==============================================
-
-**Japanese**
-------------
-
-***業務概要***
-
-DevOps & AI ソリューションユニットでは、生成AIや各種業務ツールの設計・開発・運用を行い社内外のDX (IT の利用による業務の変革)を推進するエンジニアを募集しています。このポジションは、生成AIの導入・活用戦略の策定から、具体的なアプリケーション開発、社内業務プロセスの革新まで、幅広い領域でリーダーシップを発揮し、ビジネス価値の創出に貢献していただきます。
-
-***職務内容***
-
-* 社内DXの推進
-  + 会社全体の生産性を高めるDX施策を推進
-  + 社内業務プロセスの分析、課題特定、業務効率化のための自動化の提案と実装
-* 生成AIの推進
-  + 生成AI戦略の策定と推進
-  + 生成AIアプリケーションの開発と導入
-  + 最新の生成AI技術トレンドの調査、分析、および社内への啓蒙活動
-  + 生成AIサービスの運用、管理
-* 開発インフラの運用、改善
-  + GitHubや開発関連サービスの設定、運用
-  + 社内ドキュメントの更新、管理
-
-***必要なスキル・経験***
-
-* 要件定義およびシステム設計の経験。
-  + 日本企業において、業務プロセスをシステム化に必要なレベルで理解し、主たる設計者としてシステム化を実施した経験。システムの規模は問わない。
-* IT プロジェクトの基礎的な管理能力。要件定義後に、必要な工程の定義および簡単な開発計画の立案ができること。
-* Linux を利用したシステム構築・運用の経験。Linux が動作する環境を構築し、ネットワーク設定を実施し、ミドルウェアおよびアプリケーションソフトウェアを導入・設定・運用した経験を持つこと。
-* Web アプリケーション開発の経験を持つこと。妥当なミドルウェア、ライブラリ、RDBMS 等を利用し、業務上の要件に基く Web アプリケーションの開発が可能なこと。アプリケーション自体の規模や複雑性は問わない。
-* 開発・構築したシステムについて、運用計画・ポリシーを設計でき、また、マニュアル等必要な文書を作成できること。
-* Python script および Shell script を作成できること。
-* Git が利用できること。
-* 英語で書かれた技術文書を理解できること。
-* 英語での、会話を含む双方向コミュニケーションに対して積極的に取り組めること。
-
-***歓迎スキル・経験***
-
-* OSS開発経験
-* 技術記事の執筆
-* 生成AIを組み込んだアプリケーションの開発（RAGやLangChain, LlamaIndex等のフレームワーク利用経験）
-* コード生成AIを使用した開発経験（Copilot, Cline/Roo, Cursor等）
-* AWS, GCP, Azure 等のクラウド基盤の設計・管理・運用・利用の知識・経験
-* 情報セキュリティに関わる知識・経験。システム設計・制度設計・調査・設定等。
-* チケット (Issue) ベースのタスク管理の経験。GitHub, Jira等。
-* 社内・社外に対するユーザーサポートの経験。
-* ビジネスレベルの英語能力
-
-**English**
------------
-
-*About the Role*
-
-The DevOps & AI Solutions Unit is seeking an engineer to drive internal and external DX (Digital Transformation through the use of IT) by designing, developing, and operating Generative AI and various business tools. This position will contribute to the creation of business value by demonstrating leadership in a wide range of areas, from formulating strategies for the introduction and utilization of Generative AI to developing specific applications and innovating internal business processes.
-
-*What would you do?*
-
-* **Driving Internal DX**
-  + Promote DX initiatives to enhance overall company productivity.
-  + Analyze internal business processes, identify issues, and propose and implement automation for operational efficiency.
-* **Promoting Generative AI**
-  + Formulate and promote Generative AI strategies.
-  + Develop and implement Generative AI applications.
-  + Research and analyze the latest Generative AI technology trends and conduct internal awareness-raising activities.
-  + Operate and manage Generative AI services.
-* **Operating and Improving Development Infrastructure**
-  + Configuration and operation of GitHub and development-related services.
-  + Update and manage internal documentation.
-
-*What requirements should you meet?*
-
-* **Mandatory**
-  + Experience in requirements definition and system design.
-  + Experience in a Japanese company understanding business processes to the level necessary for systemization and having implemented systemization as a lead designer. The scale of the system does not matter.
-  + Basic IT project management skills. Ability to define necessary processes and create a simple development plan after requirements definition.
-  + Experience in building and operating systems using Linux. Experience building Linux environments, configuring networks, and installing, configuring, and operating middleware and application software.
-  + Experience in web application development. Ability to develop web applications based on business requirements using appropriate middleware, libraries, RDBMS, etc. The scale and complexity of the application itself do not matter.
-  + Ability to design operational plans and policies for developed and built systems, and to create necessary documents such as manuals.
-  + Ability to create Python scripts and Shell scripts.
-  + Ability to use Git.
-  + Ability to understand technical documents written in English.
-  + Proactive approach to two-way communication in English, including conversation.
-* **Favorable**
-  + Experience in OSS (Open Source Software) development.
-  + Experience writing technical articles.
-  + Experience developing applications incorporating Generative AI (experience with frameworks such as RAG, LangChain, LlamaIndex, etc.).
-  + Development experience using code generation AI tools (e.g., GitHub Copilot, Cursor, etc.).
-  + Knowledge and experience in designing, managing, operating, and using cloud platforms such as AWS, GCP, Azure, etc.
-  + Knowledge and experience related to information security, including system design, policy design, investigation, configuration, etc.
-  + Experience with ticket (issue)-based task management (e.g., GitHub, Jira, etc.).
-  + Experience in providing user support for internal and external users.
-  + Business-level English proficiency.
-
-  
-
-**職種 / 募集ポジション**
-
-AI&DX推進エンジニア
-
-  
-
-**雇用形態**
-
-正社員
-
-  
-
-**契約期間**
-
-Full-time, permanent position
-
-  
-
-**給与**
-
-応相談
-
-報酬：TBD、経験及び能力に応じて面談の上、採用時に決定
-Salary: TBD, decided upon the candidate's experience and skill set
-
-  
-
-**勤務地**
-
-103-0023 東京都中央区日本橋本町三丁目3番3号 Clipニホンバシビル  
-地図で確認
-
-Clip Nihonbashi Building, 3‌-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo
-
-  
-
-**勤務時間**
-
-勤務時間 ：裁量労働制
-Work Hour: Discretionary Labor Sytem
-
-  
-
-**休日**
-
-休日：週休２日制、祝祭日
-休暇：年次有給休暇、慶弔休暇等、5年後ボーナス休暇
-Holiday: Two-day off per week, National holidays
-Paid Leaves: Annual paid leaves, Congratulatory/Bereavement leaves, 5th-year Bonus leaves
-
-  
-
-**福利厚生**
-
-通勤手当支給：実費精算
-在宅勤務制度：有
-英会話学習補助
-Commuting Allowance: Actual-cost reimbursement
-Remote Work: Available
-Language Support: Japanese class for foreign employees
-
-  
-
-**加入保険**
-
-健康保険
-厚生年金
-雇用保険
-労災保険
-Health Insurance
-National Welfare Pension
-Employment Insurance
-Worker's Compensation
-
-  
-
-**受動喫煙対策**
-
-敷地内禁煙
-No smoking on site
-
-  
-
-**試用期間**
-
-有（3ヶ月）","","https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9","","","","","","","","","","","",""
-"in-04168f2c25714311","indeed","https://jp.indeed.com/viewjob?jk=04168f2c25714311","https://hrmos.co/pages/axelspace/jobs/4000000011","衛星システムズエンジニア| Satellite development systems engineer","株式会社アクセルスペース","日本橋本町, JPC, JP","2026-01-22","","","","","","",True,"","","","","**業務内容**
-========
-
-このポジションは、人工衛星開発におけるシステムズエンジニアとして、衛星システムおよびそのサブシステムを開発する複数のドメインにまたがるエンジニアリングチームと協調し、一つの統合されたシステムとして作り上げることができる意欲的なエンジニアリングプロフェッショナルを対象としています。 システムズエンジニアは、プロジェクトマネージャーと密接に連携し、プロジェクトのライフサイクルを通じて、システムレベルの要求分析、アーキテクチャ設計、運用コンセプト、技術的なバジェット管理、検証、妥当性確認などのシステムエンジニアリング業務全般を担当します。また、これらの業務に関する手法やプロセスの確立、改善に寄与することも重要な仕事の一部となります。
-
-### **職務内容**
-
-* 人工衛星開発のライフサイクル（企画、設計、試験、打ち上げ、運用）にシステムズエンジニアリングの観点から携わり、ミッションの達成に貢献する。
-* 顧客のユースケースとシステムの制約を整理し、各エンジニアリングドメインと連携しながら要求を定義し、維持する。
-* システムレベルの検証計画を立案し、また実施をリードする。
-* システム設計におけるトレードオフ分析を実施し可視化する。
-* ミッション要求と制約をもとに、人工衛星の運用コンセプトを立案、定義する。
-* 電力、質量、通信リンク、Delta-Vなどのシステムレベルのバジェットを管理する。
-* 人工衛星の不具合をシステムの観点から分析し対策を行う。
-* 設計レビュー、検証計画などのエンジニアリングドキュメントの作成と社内外のステークホルダーへの報告。
-* プロジェクトマネージャと連携し、システムズエンジニアリングの観点から設計や検証に関する意思決定を行う。
-
-### **応募条件**
-
-* 必須条件
-
-* 工学、理学あるいはそれに準じる修士課程修了以上の学位取得者
-* 個々の技術分野よりも製品（衛星が主だが、その他必要なシステム）を定義し検証する業務に興味があり、十分な分析と文書化の能力があること。
-* 各分野のエンジニアやその他関係者に分かるように情報を整理し、文書化することの重要性を理解し、責任をもって取り組めること。
-* システムズエンジニアリングに関する基礎的な知識があること。 ただし、必要となれば日本語資料であっても翻訳ツール等を使って対応する意思があること。
-* 多国籍・多文化なチームと平易な英語を用いてコミュニケーションしながら業務を遂行できる能力
-* 下記(a), (b), (c)のいずれかに該当すること。
-
-(a) 未経験の課題に対しても、関連文献を見つけ出し理解し、物理や数学の知識を駆使して、対応する能力とそういった経験。
-
-(b) 自ら各種分析や自動化をおこなえるためのプログラミング経験。例えば、機械システムの物理的挙動の簡易モデルを作成してシミュレーションすることや、計測データの後処理や可視化、シェルスクリプトによるに自動化おいて経験があること。
-
-(c) 電気、ソフト、機械の要素を含む機器やロボットの全体を設計・製作した経験（業務か趣味か問わないが、趣味の方が好印象）。
-
-* 歓迎条件
-
-* システムズエンジニアまたはプロジェクトマネージャーとして、10名から50名程度のエンジニアリングチームによる製品開発に携わった経験
-* 電力システム、機械、通信、姿勢制御など、宇宙機開発に必要な工学分野もしくは光学製品開発のいずれかに精通していること。
-* 航空宇宙分野またはマルチドメインシステム（ロボット、自動車、産業機械、FA機器等）開発における要求分析・定義、上流設計、検証計画作成と実施に携わった経験がある方
-* STKなどの軌道シミュレーションソフトの使用経験
-* SysML v2やモデルベースシステムエンジニアリング（MBSE）ツールの使用経験
-* ビジネスレベルの日本語力
-
-**About the Role**
-==================
-
-We are seeking a highly motivated engineering professional to be a Systems Engineer in satellite development. It involves collaboration with engineering teams across multiple domains to develop satellite systems and their subsystems into a single integrated system. This position is intended for working closely with the Project Manager, the Systems Engineer is responsible for all systems engineering tasks throughout the project life cycle, including system-level requirements analysis, architecture design, concept of operations, technical budget management, verification, and validation. Another important part of the work is to contribute to the establishment and improvement of methodologies and processes related to these operations.
-
-**Job Description**
-===================
-
-* Engage in systems engineering perspectives throughout the lifecycle of satellite development (planning, design, testing, launch, and operation) and contribute to the mission's success.
-* Organize customer use cases and system constraints, define and maintain requirements in collaboration with various engineering domains.
-* Conduct and visualize trade-off analyses in system design.
-* Manage system-level budgets, including power, mass, communication links, and Delta-V
-* Create engineering documentation such as design reviews and verification plans, and report to internal and external stakeholders.
-* Collaborate with the Project Manager to make design and verification decisions from a systems engineering perspective.
-* Analyze malfunctions of satellites from a system perspective and take corrective measures.
-* Formulate and define the concept of operations for satellites based on mission requirements and constraints.
-* Develop and lead the implementation of system-level verification plans.
-
-**Requirements**
-----------------
-
-* Mandatory
-
-* Degree holders with a Master's or higher in engineering, science, or a related field.
-* Interested in defining and verifying products (mainly satellites, but also other necessary systems) rather than in individual technical fields, and having sufficient analytical and documentation skills.
-* Knowing the importance of and taking responsibility in organizing and documenting information in a way that can be understood by engineers and other related parties in each field.
-* Must have basic knowledge of systems engineering.
-* Proficient in English, capable of seamless communication within multinational and multicultural teams.Willingness to handle Japanese documents using translation tools if necessary.
-* Falls under any of (a), (b), or (c) below.
-
-(a) The ability and experience to solve the problems with which you have no experience, by finding and understanding related literature, and using knowledge of physics and mathematics.
-
-(b) Programming experience to be able to perform various analyzes and automation on their own. For example, experience in creating and simulating simple models of the physical behavior of mechanical systems, in post-processing and visualization of measurement data, and in shell scripting for automation.
-
-(c) Experience in designing and manufacturing entire devices and robots including electrical, software, and mechanical elements (regardless of whether this is a business or a hobby, but hobbies give a better impression).
-
-* Favorable
-
-* Experience leading product development with an engineering team of approximately 10 to 50 members as a Systems Engineer or Project Manager.
-* Proficiency in engineering disciplines required for spacecraft development, such as power systems, mechanics, communications, attitude control, or optical product development.
-* Experience in requirements analysis and definition, upstream design, and creation and implementation of verification plans in aerospace or multi-domain systems development (robots, automobiles, industrial machinery, FA equipment, etc.).
-* Business level proficiency in Japanese
-* Experience with orbital simulation software such as STK.
-* Experience using SysML v2 or Model-Based Systems Engineering (MBSE) tools.
-
-  
-
-**職種 / 募集ポジション**
-
-衛星システムズエンジニア| Satellite development systems engineer
-
-  
-
-**雇用形態**
-
-正社員
-
-  
-
-**契約期間**
-
-Full-time, permanent position
-
-  
-
-**給与**
-
-応相談
-
-報酬：TBD、経験及び能力に応じて面談の上、採用時に決定
-Salary: TBD, decided upon the candidate's experience and skill set
-
-  
-
-**勤務地**
-
-103-0023 東京都中央区日本橋本町三丁目3番3号 Clipニホンバシビル  
-地図で確認
-
-Clip Nihonbashi Building, 3‌-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo
-
-  
-
-**勤務時間**
-
-勤務時間 ：裁量労働制
-Work Hour: Discretionary Labor Sytem
-
-  
-
-**休日**
-
-休日：週休２日制、祝祭日
-休暇：年次有給休暇、慶弔休暇等、5年後ボーナス休暇
-Holiday: Two-day off per week, National holidays
-Paid Leaves: Annual paid leaves, Congratulatory/Bereavement leaves, 5th-year Bonus leaves
-
-  
-
-**福利厚生**
-
-通勤手当支給：実費精算
-在宅勤務制度：有
-英会話学習補助
-Commuting Allowance: Actual-cost reimbursement
-Remote Work: Available
-Language Support: Japanese class for foreign employees
-
-  
-
-**加入保険**
-
-健康保険
-厚生年金
-雇用保険
-労災保険
-Health Insurance
-National Welfare Pension
-Employment Insurance
-Worker's Compensation
-
-  
-
-**受動喫煙対策**
-
-敷地内禁煙
-No smoking on site
-
-  
-
-**試用期間**
-
-有（3ヶ月）","","https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9","","","","","","","","","","","",""
-"in-6afc0f0eef77a7ac","indeed","https://jp.indeed.com/viewjob?jk=6afc0f0eef77a7ac","https://hrmos.co/pages/axelspace/jobs/BE1000000046","Backend Engineer (Satellite Operation Systems)","株式会社アクセルスペース","日本橋本町, JPC, JP","2026-01-22","","","","","","",True,"","","","","**Job Description**
-===================
-
-***About the Role***
-
-Axelspace では人工衛星の運用を、社内で開発したソフトウェアシステムによって行っています。 衛星運用のためには、衛星動作のスケジューリング、コマンド送受信、受信したデータの解析等が必要になります。 これらを、自動で行うシステムを開発、運用、改良し、サービスとして提供しています。  
-弊社のビジョンである Space within your reach を運用の面から実現するため、 衛星運用を完全に自動化・自律化し、衛星の利用者が実現したいことを適切に 簡単に実現できることを目標としています。 ""Operate to automate"", ""Automate all"" をモットーとして、衛星システムの開発を進めています。
-
-Axelspace operates its satellites using an in‑house developed software system. To run these satellites, tasks such as scheduling satellite operations, sending and receiving commands, and analyzing received data are required. You will help develop, operate, and improve the automated systems that perform these tasks, and provide them as a service. Our vision, “Space within your reach,” drives us to fully automate and autonomize satellite operations so that satellite users can easily and effectively achieve their goals. With the mottos “Operate to automate” and “Automate all,” we continue to advance our satellite systems.
-
-***Job Description***
-
-衛星システム自動化グループの一員として、主に以下の業務を、 グループの他のメンバーと協力して実施します。ソフトウェアエンジアリングに関する知識、能力があれば、人工衛星や宇宙に関する事前の知識は不要です。 業務を進めるなかで習得することができます。  
-
-* 軌道制御、複数衛星を活用した撮影、その最適化など、衛星コンステレーションの運用
-* サービスを提供するのに必要な技術およびソフトウェアシステムの、 調査、設計、研究、開発、運用をチームで協力して行う
-* 開発したシステムをチームで協力して実際に運用し、 衛星を利用したサービスをユーザーに提供
-
-As a member of the Satellite System Automation Group, you will collaborate with other team members to:  
-
-* Operate the satellite constellation—tasks include orbital control, coordinated multi‑satellite imaging, and optimization of these operations.
-* Research, design, develop, and operate the software systems and technologies necessary to deliver satellite services.
-* Deploy and run the software you develop, providing users with reliable Earth‑observation and other satellite‑based services.
-
-***Required Skills***
-
-* 数理的、アルゴリズム的な問題を自ら発見、定義し、プログラミングで解決できること
-* Pythonを利用し、ソフトウェアシステムを開発、運用、改良できること
-* Unix/Linux システム上でソフトウェアを開発、運用、改良できること
-* Git を利用したソフトウェア開発経験
-* ドキュメント・メール・チャットなど、英語による技術的なテキストコミュニケーションが可能なこと（翻訳ツールを使用しても構いません）
-* 英会話によるコミュニケーションに抵抗が無いこと
-* Strong ability to identify, define, and solve mathematical or algorithmic challenges through programming
-* Proficiency in developing, operating, and refining software systems using Python
-* Experience building and maintaining software on Unix/Linux environments
-* Familiarity with Git for version control in software development
-* Capability to communicate technical information in English, in writing (documents, email, chat) and comfortably by voice
-* Willingness to engage in English‐language technical discussions (translation tools are acceptable)
-* Openness to learning Japanese communication skills as needed
-
-*チームからのメッセージ*
-
-Axelspace の衛星運用チームは、2025年7月現在 5機の衛星からなるコンステレーションを運用しています。  
-2018 年末に最初の1機 GRUS-1A を打ち上げ運用を開始し、運用システムの改善を重ねて 2021年3月に4機 GRUS-1BCDE の同時打ち上げに対する初期運用を完了し、定常運用を行っています。  
-最初の１機の時点では、ほぼ存在しない状態であった運用システムを、ソフトウェア開発チーム自身が運用も行うスタイルを採用することで、開発、拡張してきました。  
-現在ではCI/CD環境の整備を行い日常的に運用ソフトウェアのデプロイを行っており、GRUS-1BCDE の打ち上げに際しても、ごく簡単なものですが、first pass から 2nd pass までの間に運用システムを改変してデプロイしています。これは、運用システムおよび衛星を含むシステム全体のアーキテクチャが、改変に対して頑強となるよう設計されていること、また、日常的に小さな更新を行うことで、更新そのもの、および、更新の検証、問題があった場合の検出、ロールバック等が安定して実現できる環境が構築されています。  
-これらは、現代的なソフトウェア開発では一定程度広く行われていることだと思いますが、アクセルスペースの衛星運用チームでは、こういった手法をより進化させていき、みなさんと一緒に、スケールする衛星サービスを作って行きたいと思います。
-
-As of July 2025, Axelspace’s satellite operations team manages a constellation of five satellites. We began operations at the end of 2018 with the launch of GRUS‑1A. Through continuous improvement of our operational software, we supported the simultaneous launch and initial operation of GRUS‑1BCDE in March 2021, and have since conducted routine operations for all five satellites.
-
-Initially, our operations system was almost nonexistent, so we adopted a DevOps approach—our development team also runs the system. Today, we maintain a CI/CD environment that enables routine deployments of operational software. For example, after discovering a minor bug during the first communications pass of GRUS‑1BCDE, we deployed a fix in time for the second pass. Our end‑to‑end architecture is designed for resilience to changes, and by releasing small, frequent updates, we simplify validation, troubleshooting, and rollback. We aim to further refine these practices and, together with you, build a scalable, fully automated satellite service.
-
-  
-
-**職種 / 募集ポジション**
-
-Backend Engineer (Satellite Operation Systems)
 
   
 

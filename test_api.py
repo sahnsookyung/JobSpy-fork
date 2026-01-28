@@ -158,6 +158,11 @@ def test_scrapers():
         count = r['result'].get('count', 0) if r['result'] else 0
         print(f"{r['site']:30} - {status:15} ({count} jobs)")
 
+    # Save results to file
+    with open('api_responses.json', 'w') as f:
+        json.dump(results, f, indent=2)
+    print(f"\nSaved API responses to api_responses.json")
+
 if __name__ == "__main__":
     print("Starting API tests...")
     print("Make sure the API server is running on http://localhost:8000")
